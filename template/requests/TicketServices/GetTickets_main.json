@@ -1,0 +1,19 @@
+{
+    "GetTickets": {
+        "request": {
+            "SystemCode": 4,
+            "UserID": "ADSSSA",
+            "TrafficProfile": {
+                "TcfNo": 5040000473
+            },
+            "PlateInfo": {
+                "PlateNo": 30118,
+                "PlateOrgNo": 0,
+                "PlateColorCode": 51,
+                "PlateKindCode": 1,
+                "PlateTypeCode": 1,
+                "PlateSourceCode": 1
+            }
+        }
+    }
+}

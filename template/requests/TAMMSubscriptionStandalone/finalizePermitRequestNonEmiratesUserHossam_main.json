@@ -1,0 +1,14 @@
+{
+    "RenewPermit2": {
+        "RenewPermitRequest": {
+            "permitNumber": "RP00155555",
+            "paymentDate": "2019-01-31T06:33:27",
+            "orderId": 1548945204928,
+            "transactionID": "258687016441",
+            "amount": 600,
+            "paymentIdentifier": "ADSICI",
+            "kioskID": "",
+            "kioskPayDateTime": ""
+        }
+    }
+}

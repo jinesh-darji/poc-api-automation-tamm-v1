@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "p_pvt_num": "AD08644944",
+            "p_pvt_date_time": "2013-04-23T18:53:00.000+04:00",
+            "POUND_PAY_FLAG": "N",
+            "s_stage_desc": "Disc period over",
+            "v_plate_number": 31938,
+            "r_plate_country_name": "ABU DHABI",
+            "g_plate_ctg_desc": "B",
+            "t_plate_type_desc": "PRIVATE",
+            "p_Sector_code": "E10",
+            "p_pvt_amt_payable": "500.0000"
+        },
+        {
+            "p_pvt_num": "AD36481950",
+            "p_pvt_date_time": "2013-06-26T20:49:00.000+04:00",
+            "POUND_PAY_FLAG": "N",
+            "s_stage_desc": "Disc period over",
+            "v_plate_number": 31938,
+            "r_plate_country_name": "ABU DHABI",
+            "g_plate_ctg_desc": "B",
+            "t_plate_type_desc": "PRIVATE",
+            "p_Sector_code": "E10",
+            "p_pvt_amt_payable": "500.0000"
+        }
+    ]
+}

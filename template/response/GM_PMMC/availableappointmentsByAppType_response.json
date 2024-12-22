@@ -1,0 +1,3892 @@
+{
+    "status": "success",
+    "data": {
+        "status": "Success",
+        "message": "Success",
+        "data": {
+            "appointments": [
+                {
+                    "date": "18-02-2019",
+                    "nextAvailableDate": "",
+                    "availableTimeSlots": [
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        }
+                    ]
+                },
+                {
+                    "date": "19-02-2019",
+                    "nextAvailableDate": "",
+                    "availableTimeSlots": [
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        }
+                    ]
+                },
+                {
+                    "date": "20-02-2019",
+                    "nextAvailableDate": "",
+                    "availableTimeSlots": [
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        }
+                    ]
+                },
+                {
+                    "date": "21-02-2019",
+                    "nextAvailableDate": "",
+                    "availableTimeSlots": [
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        }
+                    ]
+                },
+                {
+                    "date": "24-02-2019",
+                    "nextAvailableDate": "",
+                    "availableTimeSlots": [
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        }
+                    ]
+                },
+                {
+                    "date": "25-02-2019",
+                    "nextAvailableDate": "",
+                    "availableTimeSlots": [
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "0"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "08:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "09:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "10:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "11:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "12:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "13:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "14:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:00:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:20:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        },
+                        {
+                            "startTime": "15:40:00",
+                            "timeSlotDuration": "20",
+                            "DoctorID": "6148"
+                        }
+                    ]
+                }
+            ]
+        },
+        "error": {
+            "message": ""
+        },
+        "totalRecords": 0,
+        "noOfRecordsPerPage": 10
+    }
+}

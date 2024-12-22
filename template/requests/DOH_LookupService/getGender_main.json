@@ -1,0 +1,5 @@
+{
+  "getGender": {
+    "inWhereClause": "1=1"
+  }
+}

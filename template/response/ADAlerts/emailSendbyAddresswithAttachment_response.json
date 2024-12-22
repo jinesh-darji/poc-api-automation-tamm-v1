@@ -1,0 +1,7 @@
+{
+    "status": "success",
+    "data": {
+        "IsSuccess": true,
+        "statusMessage": "Email Sent Sucessfully"
+    }
+}

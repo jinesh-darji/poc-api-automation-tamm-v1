@@ -1,0 +1,14 @@
+{
+   "SystemCode": "TAMMC",
+   "ServiceLocation": "TammCenter",
+   "ReferenceId": "5050501",
+   "ServiceType": "250010",
+   "ApplicantDetails": [
+      {
+         "ApplicantIdNumber": "784198607204314",
+         "CbaApplicantType":"250000",
+         "Mobile": "0507974284",
+         "ReferelMobileNumber": "0552261106"
+      }
+   ]
+}

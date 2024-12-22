@@ -1,0 +1,33 @@
+{
+    "WaterElectricityBillList": {
+        "WaterElectricityBillList": [
+            {
+                "AccountID": "0905619127",
+                "PersonID": 6849310000,
+                "PlotNumber": 149,
+                "PremiseAddress": "SH26 PLOT NO 149",
+                "PremiseID": 7303820866,
+                "SectorCommunityCode": "SH26",
+                "ZoneDistrictCode": "SH26-149"
+            },
+            {
+                "AccountID": 7188805787,
+                "PersonID": 6849310000,
+                "PlotNumber": 101,
+                "PremiseAddress": "MFW 7 - Plot 101 VILLA 3",
+                "PremiseID": 7335868017,
+                "SectorCommunityCode": "MSH7",
+                "ZoneDistrictCode": ""
+            },
+            {
+                "AccountID": 1205410000,
+                "PersonID": 6849310000,
+                "PlotNumber": "18_19",
+                "PremiseAddress": "E36 Plot No 18_19 Villa 3",
+                "PremiseID": 1205410247,
+                "SectorCommunityCode": "E36",
+                "ZoneDistrictCode": "E36-18_19"
+            }
+        ]
+    }
+}

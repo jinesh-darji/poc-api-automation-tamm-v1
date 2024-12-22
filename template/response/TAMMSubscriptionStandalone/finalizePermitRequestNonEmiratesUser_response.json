@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "data": {
+        "Transaction": {
+            "ResponseCode": "0",
+            "ResponseClass": "0",
+            "ResponseDescription": "Request processed successfully",
+            "ResponseClassDescription": "Success",
+            "Language": "en",
+            "ApprovalCode": "547794",
+            "Account": "MasterCard",
+            "Balance": {
+                "Value": "0"
+            },
+            "OrderID": "1546256456112",
+            "Amount": {
+                "Value": "2000.000"
+            },
+            "Fees": {
+                "Value": "0"
+            },
+            "CardNumber": "555555******4444",
+            "Payer": {
+                "Information": "555555******4444"
+            },
+            "CardToken": "5555552882724444",
+            "CardBrand": "MasterCard",
+            "CardType": "Unknown",
+            "UniqueID": "66a68c90-e653-421a-914a-a0bd61e03768"
+        },
+        "RenewPermit2Response": {
+            "RenewPermitResponse": {
+                "response_code": "000",
+                "response_level": "INFO",
+                "response_message": "Permit payment processed successfully"
+            }
+        }
+    }
+}

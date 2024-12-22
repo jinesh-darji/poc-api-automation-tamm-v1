@@ -1,0 +1,28 @@
+{
+    "IPCLookupResponse": {
+        "LOOKUPList": [
+            {
+                "LOOKUP_KEY": "01",
+                "DESCRIPTION_EN": "Single",
+                "DESCRIPTION_AR": "Single"
+            },
+            {
+                "LOOKUP_KEY": "02",
+                "DESCRIPTION_EN": "Married",
+                "DESCRIPTION_AR": "Married"
+            },
+            {
+                "LOOKUP_KEY": "03",
+                "DESCRIPTION_EN": "Divorced",
+                "DESCRIPTION_AR": "Divorced"
+            },
+            {
+                "LOOKUP_KEY": "04",
+                "DESCRIPTION_EN": "Widowed",
+                "DESCRIPTION_AR": "Widowed"
+            }
+        ],
+        "RESPONSE_CODE": 0,
+        "RESPONSE_DESC": "SUCCESS"
+    }
+}

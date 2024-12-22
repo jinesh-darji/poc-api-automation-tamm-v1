@@ -1,0 +1,40 @@
+{
+    "createLeadRequest": {
+        "name": {
+            "firstName": "Some",
+            "lastName": "name"
+        },
+        "contactPreferences": {
+            "contactPoint": [
+                {
+                    "mobileNumber": "%s",
+                    "emailAddress": "%s@gmail.com",
+                    "emirate": "Abu Dhabi"
+                }
+            ]
+        },
+        "grossIncome": {
+            "theCurrencyAmount": "10000",
+            "theCurrencyCode": "AED"
+        },
+        "channel": {
+            "identifier": "TAMM Portal"
+        },
+        "birthDate": "02/02/1980",
+        "nationality": "PH",
+        "isInterestedIn": [
+            {
+                "productDescription": "Mortgage Loan",
+                "productIdentifier": "Home",
+                "term": 6,
+            	"requestedAmount": 2000,
+                "isReferencedIn": [
+                    {
+                        "description": "Internet Banking",
+                        "name": "TAMM Portal"
+                    }
+                ]
+            }
+        ]
+    }
+}

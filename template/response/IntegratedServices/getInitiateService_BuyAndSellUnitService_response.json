@@ -1,0 +1,149 @@
+{
+    "InitiateServiceResponse": {
+        "InitiateServiceResult": {
+            "ApplicationId": 1320640,
+            "ApplicationDocuments": {
+                "ApplicationDocument": [
+                    {
+                        "Id": 141400,
+                        "DocumentName": "Land Evaluation Certificate",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    },
+                    {
+                        "Id": 141401,
+                        "DocumentName": "Land Verification Certificate",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    },
+                    {
+                        "Id": 141402,
+                        "DocumentName": "Mortgage Bank Contract",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    },
+                    {
+                        "Id": 141403,
+                        "DocumentName": "Others",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    },
+                    {
+                        "Id": 141404,
+                        "DocumentName": "Buy And Sell Contract",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": true,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": {
+                            "@nil": "true"
+                        }
+                    },
+                    {
+                        "Id": 141405,
+                        "DocumentName": "Bank NOC",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    },
+                    {
+                        "Id": 141406,
+                        "DocumentName": "Unit Ownership Deed",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": true,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": {
+                            "@nil": "true"
+                        }
+                    },
+                    {
+                        "Id": 141407,
+                        "DocumentName": "Unit Mortgage Sticker",
+                        "ApplicationBusinessEntityId": 70639,
+                        "IsRequired": false,
+                        "IsOutputDocument": true,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": {
+                            "@nil": "true"
+                        }
+                    },
+                    {
+                        "Id": 141408,
+                        "DocumentName": "Family Book",
+                        "ApplicationBusinessEntityId": 70641,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    },
+                    {
+                        "Id": 141409,
+                        "DocumentName": "Passport",
+                        "ApplicationBusinessEntityId": 70641,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": false,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    },
+                    {
+                        "Id": 141410,
+                        "DocumentName": "UAE National Identity Card",
+                        "ApplicationBusinessEntityId": 70641,
+                        "IsRequired": false,
+                        "IsOutputDocument": false,
+                        "IsUploaded": true,
+                        "IsReadyToDownload": false,
+                        "ValidFileExtension": ".jpeg,.tif,.tiff,.jpg,.gif,.png,.pdf,.doc,.rtf,.bmp"
+                    }
+                ]
+            },
+            "ApplicationBusinessEntities": {
+                "ApplicationBusinessEntity": [
+                    {
+                        "Id": 70639,
+                        "BusinessEntityId": 1320640,
+                        "BusinessEntityTypeConst": "Application",
+                        "BusinessEntityDisplayName": ""
+                    },
+                    {
+                        "Id": 70640,
+                        "BusinessEntityId": 193697,
+                        "BusinessEntityTypeConst": "Plot",
+                        "BusinessEntityDisplayName": ""
+                    },
+                    {
+                        "Id": 70641,
+                        "BusinessEntityId": 250073,
+                        "BusinessEntityTypeConst": "Person",
+                        "BusinessEntityDisplayName": "مدينه سليمان الرميثى"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "status": "success",
+    "data": {
+        "lookupItem": [
+            {
+                "id": 1050,
+                "nameArabic": "جزيره ابوموسى",
+                "nameEnglish": "Abu Mosa Island",
+                "number": 303
+            },
+            {
+                "id": 1042,
+                "nameArabic": "الذيد",
+                "nameEnglish": "Al Dhaid",
+                "number": 302
+            },
+            {
+                "id": 1046,
+                "nameArabic": "الفلى",
+                "nameEnglish": "Al Fala",
+                "number": 313
+            },
+            {
+                "id": 1047,
+                "nameArabic": "المدام",
+                "nameEnglish": "Al Madam",
+                "number": 306
+            },
+            {
+                "id": 1048,
+                "nameArabic": "المليحه",
+                "nameEnglish": "Al Maliha",
+                "number": 309
+            },
+            {
+                "id": 1045,
+                "nameArabic": "الصجعه",
+                "nameEnglish": "Al Saja",
+                "number": 312
+            },
+            {
+                "id": 1043,
+                "nameArabic": "الرقه",
+                "nameEnglish": "Arreqa",
+                "number": 314
+            },
+            {
+                "id": 1053,
+                "nameArabic": "دبا",
+                "nameEnglish": "Dibba",
+                "number": 307
+            },
+            {
+                "id": 1055,
+                "nameArabic": "كلباء",
+                "nameEnglish": "Kalba",
+                "number": 305
+            },
+            {
+                "id": 1051,
+                "nameArabic": "خورفكان",
+                "nameEnglish": "Khor Fakkan",
+                "number": 304
+            },
+            {
+                "id": 1052,
+                "nameArabic": "خوركلبا",
+                "nameEnglish": "Khor Kalba",
+                "number": 308
+            },
+            {
+                "id": 1056,
+                "nameArabic": "مرغم",
+                "nameEnglish": "Margham",
+                "number": 311
+            },
+            {
+                "id": 1044,
+                "nameArabic": "الشارقه",
+                "nameEnglish": "Sharjah",
+                "number": 301
+            },
+            {
+                "id": 1049,
+                "nameArabic": "اماره الشارقه",
+                "nameEnglish": "اماره الشارقه",
+                "number": 300
+            },
+            {
+                "id": 1054,
+                "nameArabic": "غير محدد",
+                "nameEnglish": "غير محدد",
+                "number": 903
+            }
+        ]
+    }
+}

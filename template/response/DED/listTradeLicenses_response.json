@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "data": {
+        "tradeLicenseNumber": "CN-1032995",
+        "businessNameArb": "مؤسسة الرمح للتجارة",
+        "businessNameEng": "SPEAR TRADING ESTABLISHMENT",
+        "legalForm": {
+            "legalFormCode": "EST",
+            "businessLegalFormArb": "مؤسسة فردية",
+            "businessLegalFormEng": "Establishment"
+        },
+        "businessLicenseStatus": {
+            "businessLicenseStatusCode": "I",
+            "businessLicenseStatusArb": "اصدرت الرخصة",
+            "businessLicenseStatusEng": "Issued"
+        }
+    }
+}

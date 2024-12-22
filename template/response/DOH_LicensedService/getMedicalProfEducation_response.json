@@ -1,0 +1,35 @@
+{
+    "MedicalProfEduResponse": {
+        "MedicalProfEdu": [
+            {
+                "APPLICATION_ID": "AGD52685",
+                "LICENSE_NUMBER": "D562",
+                "COLLEGE_NAME": "UNIVERSITY OF MADRAS",
+                "COUNTRY_EN": "MADRAS INDIA",
+                "COUNTRY_AR": "",
+                "MAJOR": "Dermatology",
+                "DATE_OBATINING_QUALIFICATION": "25/03/1986"
+            },
+            {
+                "APPLICATION_ID": "AGD52685",
+                "LICENSE_NUMBER": "D562",
+                "COLLEGE_NAME": "UNIVERSITY OF MADRAS",
+                "COUNTRY_EN": "MADRAS INDIA",
+                "COUNTRY_AR": "",
+                "MAJOR": "Dermatology",
+                "DATE_OBATINING_QUALIFICATION": "25/04/1985"
+            },
+            {
+                "APPLICATION_ID": "AGD52685",
+                "LICENSE_NUMBER": "D562",
+                "COLLEGE_NAME": "UNIVERSITY OF MADRAS",
+                "COUNTRY_EN": "MADRAS INDIA",
+                "COUNTRY_AR": "",
+                "MAJOR": "M.B.B.S",
+                "DATE_OBATINING_QUALIFICATION": "25/04/1974"
+            }
+        ],
+        "RESPONSE_CODE": 0,
+        "RESPONSE_DESC": "SUCCESS"
+    }
+}

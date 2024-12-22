@@ -1,0 +1,19 @@
+{
+    "status": "success",
+    "data": {
+        "applicationNumber": "2019/2547",
+        "applicationStatus": "Pending",
+        "BuyerDetailsList": {
+            "BuyerDetails": {
+                "NationalNumber": 784194841804415,
+                "OwnerId": 250068,
+                "OwnerName": "Sample",
+                "TradeLicenseNumber": ""
+            }
+        },
+        "buyerFees": 1000,
+        "plotId": 193697,
+        "statusDate": "2019-03-06T17:17:01",
+        "workflowStatus": "Fee Payment"
+    }
+}

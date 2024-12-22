@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "data": {
+        "processResponse": {
+            "processResponseType": {
+                "PERMIT_NUMBER": "",
+                "STATUS_ID": "000",
+                "STATUS": "PERMITS NOT FOUND",
+                "TAMM_FLAG": "Y",
+                "MESSAGE": "DOT DOES NOT ISSUED ANY PERMITS AGAINST GIVEN UTILITY BILL",
+                "PRM_START_DATE": "",
+                "PRM_END_DATE": "",
+                "PERMIT_TYPE": "",
+                "PERMITTYPE_DESC": "",
+                "PERMITCATEGORY_CODE": "",
+                "PERMITCATEGORY_DESC": "",
+                "PERMIT_DURATION": "",
+                "CPMS_VEH_PLATE_ID": "",
+                "PLATE_NUMBER": "",
+                "ADP_PLATE_SOURCE": "",
+                "ADP_PLATE_SOURCE_DESC": "",
+                "ADP_PLATE_COLOR": "",
+                "ADP_PLATE_COLOR_DESC": "",
+                "ADP_PLATE_KIND": "",
+                "ADP_PLATE_KIND_DESC": "",
+                "ADP_VEH_MAKE_CODE": "",
+                "ADP_VEH_MAKE_ENG": ""
+            }
+        }
+    }
+}

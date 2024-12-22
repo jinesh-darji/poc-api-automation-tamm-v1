@@ -1,0 +1,43 @@
+{
+    "PublicHealthResponse": {
+        "PublicHealthResult": [
+            {
+                "SrNo": 1,
+                "PublicHealthTitle": "Safety in Heat Program",
+                "PHImage": "https://weqaya.haad.ae/portals/0/img/safe_in_heat.gif",
+                "PHDescription": "The Health Authority-Abu Dhabi in association with the Abu Dhabi Environment, Health and Safety Management System and the Abu Dhabi EHS Centre and sector regulatory authorities has undertaken to reduce and prevent cases of heat related illness in the work",
+                "SiteURL": "http://www.haad.ae/safety-in-heat/"
+            },
+            {
+                "SrNo": 2,
+                "PublicHealthTitle": "Height Aware",
+                "PHImage": "https://weqaya.haad.ae/portals/0/img/safety_in_Height.gif",
+                "PHDescription": "The Health Authority – Abu Dhabi in association with the Abu Dhabi Environment, Health and Safety Management System and the Abu Dhabi EHS Centre and sector regulatory authorities has developed a programme of free resources for business owners, health and ",
+                "SiteURL": "http://haad-height.ae/"
+            },
+            {
+                "SrNo": 3,
+                "PublicHealthTitle": "Weqaya Program",
+                "PHImage": "https://weqaya.haad.ae/portals/0/img/weqaya.gif",
+                "PHDescription": "Weqaya is a service brought to you by HAAD to help you and your family live healthy, active lives, ensuring a long, happy future for the nation.",
+                "SiteURL": "http://www.haad.ae/haad/tabid/1174/Default.aspx"
+            },
+            {
+                "SrNo": 4,
+                "PublicHealthTitle": "Family and School Health",
+                "PHImage": "http://www.haad.ae/HAAD/Portals/0/Public%20Health/Public%20Health%20Program/School_for_health.gif",
+                "PHDescription": "The HAAD Schools for Health Program is dedicated to the health and well-being of the school students in the Emirate of Abu Dhabi.",
+                "SiteURL": "http://schoolsforhealth.haad.ae/?lang=en-US"
+            },
+            {
+                "SrNo": 5,
+                "PublicHealthTitle": "Enaya",
+                "PHImage": "http://www.haad.ae/enaya/images/logo.png",
+                "PHDescription": "The Enaya program, run by the Health Authority Abu Dhabi, is a dedicated program focused on maternal and child health. The Enaya program aims at improving the health and the opportunities of women, infants, children, and families in the Abu Dhabi Emirate ",
+                "SiteURL": "http://www.haad.ae/enaya/"
+            }
+        ],
+        "RESPONSE_CODE": 0,
+        "RESPONSE_DESC": "SUCCESS"
+    }
+}

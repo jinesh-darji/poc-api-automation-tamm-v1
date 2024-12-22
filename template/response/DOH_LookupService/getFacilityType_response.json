@@ -1,0 +1,63 @@
+{
+    "getFacilityTypeResponse": {
+        "getFacilityTypeResult": {
+            "clsLookUp": [
+                {
+                    "ID": 5,
+                    "EnglishValue": "Center",
+                    "ArabicValue": "مركز"
+                },
+                {
+                    "ID": 2,
+                    "EnglishValue": "Clinic",
+                    "ArabicValue": "عيادة"
+                },
+                {
+                    "ID": 16,
+                    "EnglishValue": "Diagnostic Centre",
+                    "ArabicValue": "مركز تشخيصي"
+                },
+                {
+                    "ID": 14,
+                    "EnglishValue": "Dialysis Centre",
+                    "ArabicValue": "مركز غسيل الكلى"
+                },
+                {
+                    "ID": 22,
+                    "EnglishValue": "Fertilization Centre",
+                    "ArabicValue": "مركز أخصاب"
+                },
+                {
+                    "ID": 1,
+                    "EnglishValue": "Hospital",
+                    "ArabicValue": "مستشفى"
+                },
+                {
+                    "ID": 18,
+                    "EnglishValue": "Mobile Health Unit",
+                    "ArabicValue": "وحده صحية متنقلة"
+                },
+                {
+                    "ID": 3,
+                    "EnglishValue": "Pharmacy",
+                    "ArabicValue": "صيدلية"
+                },
+                {
+                    "ID": 19,
+                    "EnglishValue": "Provision Of Health Services",
+                    "ArabicValue": "تزويد الخدمات الصحية"
+                },
+                {
+                    "ID": 15,
+                    "EnglishValue": "Rehabilitation Centre",
+                    "ArabicValue": "مركز تأهيلي"
+                },
+                {
+                    "ID": 102,
+                    "EnglishValue": "Traditional Complementary and Alternative Medicine",
+                    "ArabicValue": "مراكز الطب التكميلي والطب البديل"
+                }
+            ]
+        }
+    }
+}

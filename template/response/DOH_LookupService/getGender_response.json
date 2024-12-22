@@ -1,0 +1,23 @@
+{
+    "getGenderResponse": {
+        "getGenderResult": {
+            "clsLookUp": [
+                {
+                    "ID": 2,
+                    "EnglishValue": "Female",
+                    "ArabicValue": "أنثى"
+                },
+                {
+                    "ID": 1,
+                    "EnglishValue": "Male",
+                    "ArabicValue": "ذكر"
+                },
+                {
+                    "ID": 3,
+                    "EnglishValue": "Unknown",
+                    "ArabicValue": "غير معروف"
+                }
+            ]
+        }
+    }
+}

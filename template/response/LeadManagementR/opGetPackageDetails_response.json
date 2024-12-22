@@ -1,0 +1,955 @@
+{
+  "GetPackageDetailsResponse": {
+    "ResponseData": {
+      "TransactionID": 98989898787,
+      "NetworkType": "GPON",
+      "PackageDetailDetails": [
+        {
+          "PackageDescription": "eLife Family",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Broadband 20 Mbps Speed",
+              "eLife Basic (HD TV Box)",
+              "eLife main set top box",
+              "Basic TV Channels",
+              "Video Pack",
+              "eLife On",
+              "Wireless Phone",
+              "Bundled Router"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/tiles/elife_family.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://etisalat.ae/en/consumer/home/elife/elife-packages/elife_family.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 359 per month 5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Broadband 50 Mbps Speed.eLife Basic (HD TV Box)",
+              "Basic TV Channels",
+              "eLife On",
+              "beIN Sports",
+              "eLife TV - SPORTS - Abu Dhabi SPORTS",
+              "Extreme Sports",
+              "eLife main set top box",
+              "Wireless Phone",
+              "Bundled Router"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/tiles/elife_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://etisalat.ae/en/consumer/home/elife/elife-packages/elife_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 520 per month 5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Starter",
+          "AddOnsDetails": {
+            "PackageFeatures": "Free home phone to home phone calls within the UAE"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_starter.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_starter.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 389 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Starter",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "A free 4K TV box",
+              "Wi-Fi router and cordless phone"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_starter.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_starter.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 389 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Starter",
+          "AddOnsDetails": {
+            "PackageFeatures": "One regional TV add-on for only 10 dhs p.m."
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_starter.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_starter.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 389 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": "Super-fast Internet up to 100 Mbps download speed"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 559 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Over 120 sports & premium channels with the beIN Sports",
+              "Abu Dhabi Sports ; Over 200 Free to air channels"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 559 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Over 700 free movies & 10",
+              "000 hours of TV shows with OnDemand Unlimited"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 559 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": "Access to OnDemand movies & eLifeON"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 559 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": "Free home phone to home phone calls within the UAE"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 559 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "A free 4K TV box",
+              "Wi-Fi router and cordless phone"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 559 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Sports",
+          "AddOnsDetails": {
+            "PackageFeatures": "One regional TV add-on for only 10 dhs p.m."
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_sports.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_sports.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 559 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Broadband 50 Mbps Speed",
+              "eLife Basic (HD TV Box)",
+              "Basic TV Channels",
+              "Video Pack",
+              "eLife On",
+              "Starzplay",
+              "Premium Video Pack",
+              "eLife TV - OSN - Premium movies",
+              "eLife main set top box",
+              "Wireless Phone",
+              "Bundled Router"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/tiles/elife_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://etisalat.ae/en/consumer/home/elife/elife-packages/elife_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 569 per month 5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": "Super-fast Internet up to 100 Mbps download speed"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 599 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": "Over 100 premium channels with OSN TV packages and & 200 Free to air channels"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 599 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Over 1000 free movies & 15",
+              "000 hours of TV shows with OnDemand Unlimited and StarzPlay"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 599 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": "Access to OnDemand movies & eLifeON"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 599 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": "Free home phone to home phone calls within the UAE"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 599 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "A free 4K TV box",
+              "Wi-Fi router and cordless phone"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 599 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Entertainment",
+          "AddOnsDetails": {
+            "PackageFeatures": "One regional TV add-on for only 10 dhs p.m."
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_entertainment.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_entertainment.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 599 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 250",
+          "AddOnsDetails": {
+            "PackageFeatures": "Enjoy premium Internet speeds of up to 250 Mbps download speed"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium250.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_250.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 1139 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 251",
+          "AddOnsDetails": {
+            "PackageFeatures": "Over 100 premium channels with OSN TV packages and & 200 Free to air channels"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium250.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_250.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 1139 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 252",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Over 1000 free movies & 15",
+              "000 hours of TV shows with OnDemand Unlimited and StarzPlay"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium250.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_250.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 1139 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Combo",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Broadband 50 Mbps Speed",
+              "eLife Basic (HD TV Box)",
+              "Basic TV Channels",
+              "Video Pack",
+              "eLife On",
+              "Starzplay",
+              "Premium Video Pack",
+              "eLife TV - OSN - Premium movies",
+              "beIN Sports",
+              "eLife TV - SPORTS - Abu Dhabi SPORTS",
+              "Extreme Sports",
+              "eLife main set top box",
+              "Wireless Phone",
+              "Bundled Router"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "NA"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "NA"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 698 per month 5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 253",
+          "AddOnsDetails": {
+            "PackageFeatures": "One regional TV add-on for free"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium250.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_250.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 1139 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 254",
+          "AddOnsDetails": {
+            "PackageFeatures": "Access to OnDemand movies & eLifeON"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium250.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_250.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 1139 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 255",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "A free 4K TV box",
+              "Wi-Fi router and cordless phone"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium250.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_250.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 1139 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 256",
+          "AddOnsDetails": {
+            "PackageFeatures": "Free home phone to home phone calls within the UAE"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium250.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_250.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 1139 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": "Enjoy Ultra-fast Internet speeds of up to 1Gbps download speed"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2850 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": "Over 100 premium channels with OSN TV packages and & 200 Free to air channels"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2850 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Over 1000 free movies & 15",
+              "000 hours of TV shows with OnDemand Unlimited and StarzPlay"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2850 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": "One regional TV add-on for free"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2850 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": "Access to OnDemand movies & eLifeON"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2850 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "A free 4K TV box",
+              "Wi-Fi router and cordless phone"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2850 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Premium",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Broadband 100 Mbps Speed",
+              "eLife Basic (HD TV Box)",
+              "Basic TV Channels",
+              "Video Pack",
+              "eLife On",
+              "Starzplay",
+              "Premium Video Pack",
+              "eLife TV - OSN Premier Plus HD",
+              "beIN Full Package",
+              "eLife TV - SPORTS - Abu Dhabi SPORTS",
+              "Extreme Sports",
+              "eLife main set top box",
+              "Wireless Phone",
+              "Bundled Router"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/tiles/elife_premium_100mbps.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://etisalat.ae/en/consumer/home/elife/elife-packages/elife_premium_100mbps.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 999 per month 5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Premium 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": "Free home phone to home phone calls within the UAE"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_premium_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_premium_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2850 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Ultimate 1G",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Broadband 1 GB Speed",
+              "eLife Basic (HD TV Box)",
+              "Basic TV Channels",
+              "Video Pack",
+              "eLife On",
+              "Starzplay",
+              "Premium Video Pack",
+              "eLife TV - OSN Platinum Extra HD",
+              "beIN Full Package",
+              "eLife TV - SPORTS - Abu Dhabi SPORTS",
+              "Extreme Sports",
+              "eLife main set top box",
+              "Wireless Phone",
+              "Bundled Router",
+              "WiFi Repeater"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/tiles/elife_ultimate_1g.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://etisalat.ae/en/consumer/home/elife/elife-packages/elife_ultimate_1g.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 5000 per month 5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Premium 500",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Broadband 500MB Speed",
+              "eLife Basic (HD TV Box)",
+              "Basic TV Channels",
+              "Video Pack",
+              "eLife On",
+              "eLife TV - OSN Premier Plus HD",
+              "beIN Full Package",
+              "eLife TV - SPORTS - Abu Dhabi SPORTS",
+              "eLife main set top box",
+              "Wireless Phone",
+              "Bundled Router"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/tiles/elife_premium_500mbps.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://etisalat.ae/en/consumer/home/elife/elife-packages/elife_premium_500mbps.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 2999 per month 5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Starter",
+          "AddOnsDetails": {
+            "PackageFeatures": [
+              "Fast",
+              "entry level Internet download speeds of up to 50 Mbps"
+            ]
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_starter.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_starter.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 389 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Starter",
+          "AddOnsDetails": {
+            "PackageFeatures": "Over 200 free-to-air & Basic TV channels"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_starter.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_starter.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 389 per month\n5% VAT excluded"
+            }
+          ]
+        },
+        {
+          "PackageDescription": "eLife Unlimited Starter",
+          "AddOnsDetails": {
+            "PackageFeatures": "Access to OnDemand movies & eLifeON"
+          },
+          "AdditionalInfo": [
+            {
+              "Name": "ImageURL",
+              "Value": "https://www.etisalat.ae/en/system/assets/img/consumer/devices/devicetiles/elife-ultimate_starter.png"
+            },
+            {
+              "Name": "ProductURL",
+              "Value": "https://www.etisalat.ae/en/consumer/home/elife/elife-packages/elife_unlimited_starter.jsp"
+            },
+            {
+              "Name": "StartingPrice",
+              "Value": "AED 389 per month\n5% VAT excluded"
+            }
+          ]
+        }
+      ]
+    },
+    "AckMessage": {
+      "Status": "SUCCESS"
+    }
+  }
+}

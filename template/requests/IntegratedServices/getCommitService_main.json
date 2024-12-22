@@ -1,0 +1,10 @@
+{
+	"CommitService":{
+	"request":{
+		"EmployeeId":"WholeGov",
+		"ServiceTypeConst":"OnlineUserRegistrationService",
+		"UseEnglish":true,
+		"ApplicationId":"%s"
+		}
+	}
+}

@@ -1,0 +1,288 @@
+{
+    "getFacilitySubTypeResponse": {
+        "getFacilitySubTypeResult": {
+            "clsLookUp": [
+                {
+                    "ID": 3,
+                    "EnglishValue": "24 Hr Pharmacy",
+                    "ArabicValue": "لصيدلية مناوبة 24 ساعة"
+                },
+                {
+                    "ID": 48,
+                    "EnglishValue": "Acupuncture",
+                    "ArabicValue": "مركز الوخز بالإبر"
+                },
+                {
+                    "ID": 58,
+                    "EnglishValue": "Ambulance Services",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 35,
+                    "EnglishValue": "Audiometric",
+                    "ArabicValue": "وحدة قياس السمع"
+                },
+                {
+                    "ID": 54,
+                    "EnglishValue": "Ayuverda (Traditional Indian Medicine)",
+                    "ArabicValue": "مركز الطب الشعبي الهندي (أيورفيدا)"
+                },
+                {
+                    "ID": 49,
+                    "EnglishValue": "Chiropractic",
+                    "ArabicValue": "مركز المعالجة اليدوية"
+                },
+                {
+                    "ID": 13,
+                    "EnglishValue": "Dental Centre",
+                    "ArabicValue": "مركز لطب الأسنان"
+                },
+                {
+                    "ID": 21,
+                    "EnglishValue": "Dental Polyclinic",
+                    "ArabicValue": "مجمع عيادات أسنان"
+                },
+                {
+                    "ID": 25,
+                    "EnglishValue": "Dental Services",
+                    "ArabicValue": "خدمات الأسنان"
+                },
+                {
+                    "ID": 36,
+                    "EnglishValue": "Dental laboratory",
+                    "ArabicValue": "مختبر أسنان"
+                },
+                {
+                    "ID": 24,
+                    "EnglishValue": "Dialysis Centre",
+                    "ArabicValue": "مركز غسيل الكلى"
+                },
+                {
+                    "ID": 46,
+                    "EnglishValue": "Drug Store",
+                    "ArabicValue": "مستودع أدوية"
+                },
+                {
+                    "ID": 2,
+                    "EnglishValue": "Employing/Transferring the medical staff",
+                    "ArabicValue": "توظيف/ نقل الكوادر الطبية"
+                },
+                {
+                    "ID": 40,
+                    "EnglishValue": "Fertilization Centre",
+                    "ArabicValue": "مركز أخصاب"
+                },
+                {
+                    "ID": 59,
+                    "EnglishValue": "First Aid Post",
+                    "ArabicValue": "عيادة الأسعافات  الاوليه"
+                },
+                {
+                    "ID": 19,
+                    "EnglishValue": "First Aid Post",
+                    "ArabicValue": "عيادة الأسعافات  الاوليه"
+                },
+                {
+                    "ID": 26,
+                    "EnglishValue": "General / Specialized clinic",
+                    "ArabicValue": "عيادة عامة / تخصصية"
+                },
+                {
+                    "ID": 42,
+                    "EnglishValue": "General Dental Clinic",
+                    "ArabicValue": "عيادة أسنان عامة"
+                },
+                {
+                    "ID": 9,
+                    "EnglishValue": "General Hospital",
+                    "ArabicValue": "مستشفى عام"
+                },
+                {
+                    "ID": 41,
+                    "EnglishValue": "General Medical Clinic",
+                    "ArabicValue": "عيادة طبية عامة"
+                },
+                {
+                    "ID": 1,
+                    "EnglishValue": "Healthcare Management",
+                    "ArabicValue": "الإدارة الصحية"
+                },
+                {
+                    "ID": 51,
+                    "EnglishValue": "Hijama",
+                    "ArabicValue": "مركز الحجامة"
+                },
+                {
+                    "ID": 3,
+                    "EnglishValue": "Home care services",
+                    "ArabicValue": "خدمات الرعاية الصحية المنزلية"
+                },
+                {
+                    "ID": 50,
+                    "EnglishValue": "Homeopathy",
+                    "ArabicValue": "مركز المداواة المتجانسة"
+                },
+                {
+                    "ID": 4,
+                    "EnglishValue": "Inpatient Pharmacy",
+                    "ArabicValue": "صيدلية داخلية"
+                },
+                {
+                    "ID": 14,
+                    "EnglishValue": "Medical Centre",
+                    "ArabicValue": "مركز طبي"
+                },
+                {
+                    "ID": 27,
+                    "EnglishValue": "Medical Diagnostic Imaging",
+                    "ArabicValue": "تصوير طبي تشخيصي"
+                },
+                {
+                    "ID": 22,
+                    "EnglishValue": "Medical Diagnostic Imaging",
+                    "ArabicValue": "تصوير طبي تشخيصي"
+                },
+                {
+                    "ID": 23,
+                    "EnglishValue": "Medical Laboratory",
+                    "ArabicValue": "تقني مختبرات"
+                },
+                {
+                    "ID": 28,
+                    "EnglishValue": "Medical Laboratory",
+                    "ArabicValue": "مختبرات طبية"
+                },
+                {
+                    "ID": 20,
+                    "EnglishValue": "Medical Polycinic",
+                    "ArabicValue": "مجمع عيادات طبية"
+                },
+                {
+                    "ID": 5,
+                    "EnglishValue": "Medical Professional Development",
+                    "ArabicValue": "التطوير المهني الطبي"
+                },
+                {
+                    "ID": 60,
+                    "EnglishValue": "Medical Tele-Consultation",
+                    "ArabicValue": "التشاور الطبي عن بعد"
+                },
+                {
+                    "ID": 6,
+                    "EnglishValue": "Medical transport service",
+                    "ArabicValue": "خدمات النقل الطبي"
+                },
+                {
+                    "ID": 57,
+                    "EnglishValue": "Medicine Transportation",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 55,
+                    "EnglishValue": "Naturopathy",
+                    "ArabicValue": "مركز المعالجة الطبيعية"
+                },
+                {
+                    "ID": 12,
+                    "EnglishValue": "Nursing Home",
+                    "ArabicValue": "دار الرعاية"
+                },
+                {
+                    "ID": 39,
+                    "EnglishValue": "One Day Surgery Centre",
+                    "ArabicValue": "مركز لجراحة اليوم الواحد"
+                },
+                {
+                    "ID": 37,
+                    "EnglishValue": "Optical Shop",
+                    "ArabicValue": "وحدة تصحيح النظر"
+                },
+                {
+                    "ID": 52,
+                    "EnglishValue": "Osteopathy",
+                    "ArabicValue": "مركز علاج الاعتلال العظمي"
+                },
+                {
+                    "ID": 5,
+                    "EnglishValue": "Outpatient Pharmacy",
+                    "ArabicValue": "صيدلية خارجية"
+                },
+                {
+                    "ID": 4,
+                    "EnglishValue": "Patient Escort services",
+                    "ArabicValue": "خدمات مرافقة المريض"
+                },
+                {
+                    "ID": 63,
+                    "EnglishValue": "Primary Healthcare Centre",
+                    "ArabicValue": "مركز رعاية صحية أولية"
+                },
+                {
+                    "ID": 61,
+                    "EnglishValue": "Prosthetics and Orthotics",
+                    "ArabicValue": "مختبر الأطراف الاصطناعية والتقويم"
+                },
+                {
+                    "ID": 45,
+                    "EnglishValue": "Rehabilitation Center for Special Needs",
+                    "ArabicValue": "مركز تأهيلي للاحتياجات الخاصة"
+                },
+                {
+                    "ID": 38,
+                    "EnglishValue": "Rehabilitation Centre",
+                    "ArabicValue": "مركز تأهيلي"
+                },
+                {
+                    "ID": 11,
+                    "EnglishValue": "Rehabilitation Hospital",
+                    "ArabicValue": "مستشفى تأهيلي"
+                },
+                {
+                    "ID": 62,
+                    "EnglishValue": "Rehabilitation Services",
+                    "ArabicValue": "خدمات تأهيلية"
+                },
+                {
+                    "ID": 17,
+                    "EnglishValue": "School Clinic",
+                    "ArabicValue": "عيادة مدرسية"
+                },
+                {
+                    "ID": 47,
+                    "EnglishValue": "Scientific Office",
+                    "ArabicValue": "مكتب علمي"
+                },
+                {
+                    "ID": 44,
+                    "EnglishValue": "Specialized Dental Clinic",
+                    "ArabicValue": " عيادة أسنان تخصصية"
+                },
+                {
+                    "ID": 10,
+                    "EnglishValue": "Specialized Hospital",
+                    "ArabicValue": "مستشفي تخصصي"
+                },
+                {
+                    "ID": 43,
+                    "EnglishValue": "Specialized Medical Clinic",
+                    "ArabicValue": "عيادة طبية تخصصية"
+                },
+                {
+                    "ID": 53,
+                    "EnglishValue": "TCM (Traditional Chinese Medicine)",
+                    "ArabicValue": "مركز الطب الشعبي الصيني"
+                },
+                {
+                    "ID": 0,
+                    "EnglishValue": "Temporary",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 56,
+                    "EnglishValue": "Unani",
+                    "ArabicValue": "مركز طب العلاج التقليدي أوناني"
+                }
+            ]
+        }
+    }
+}

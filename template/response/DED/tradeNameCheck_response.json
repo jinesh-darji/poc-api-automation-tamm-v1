@@ -1,0 +1,11 @@
+{
+    "Status": "200",
+    "Message": "Trade Name Validation Returned result",
+    "TraceID": "",
+    "Code": "",
+    "Result": {
+        "FeesAmount": "200",
+        "EnglishTradeNameAvailability": "English Trade Name is Available",
+        "ArabicTradeNameAvailability": "Arabic Trade Name is Available"
+    }
+}

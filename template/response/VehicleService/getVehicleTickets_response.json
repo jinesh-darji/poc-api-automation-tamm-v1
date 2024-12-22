@@ -1,0 +1,213 @@
+{
+    "getVehicleTicketsResponse": {
+        "getVehicleTicketsResult": {
+            "Tickets": {
+                "Ticket": [
+                    {
+                        "TicketID": {
+                            "TicketNo": 10026,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-07-01T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-07-01T10:00:00",
+                        "TicketType": "A",
+                        "LocationDescAr": "ابوظبي-راس غناضة-شارع الشيخ مكتوم بن راشد",
+                        "LocationDescEn": "ABU DHABI----Street Maktom bi rasheed",
+                        "DriverTcfNo": {
+                            "@nil": "true"
+                        },
+                        "PlateInfo": {
+                            "PlateNo": 18140,
+                            "PlateOrgNo": 0,
+                            "PlateColorCode": 56,
+                            "PlateKindCode": 1,
+                            "PlateTypeCode": {
+                                "@nil": "true"
+                            },
+                            "PlateSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": 5040000403,
+                        "IsWebPayable": true,
+                        "LateCharges": 0,
+                        "TotalAmount": 600,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 600,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1049,
+                                "MaterialArabicDesc": "تجاوز الحد الاقصى للسرعة المقررة بما لا يزيد عن 30 كم / ساعة . ",
+                                "MaterialEnglishDesc": "Exceeding speed limit by more than 20 km/h",
+                                "MaterialAmount": 600,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 600
+                            }
+                        }
+                    },
+                    {
+                        "TicketID": {
+                            "TicketNo": 10027,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-08-15T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-08-15T10:00:00",
+                        "TicketType": "A",
+                        "LocationDescAr": "ابوظبي-المركزية (غرب)-حوض 12-2-شارع حمدان بن محمد(5)",
+                        "LocationDescEn": "ABU DHABI",
+                        "DriverTcfNo": {
+                            "@nil": "true"
+                        },
+                        "PlateInfo": {
+                            "PlateNo": 18140,
+                            "PlateOrgNo": 0,
+                            "PlateColorCode": 56,
+                            "PlateKindCode": 1,
+                            "PlateTypeCode": {
+                                "@nil": "true"
+                            },
+                            "PlateSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": 5040000403,
+                        "IsWebPayable": true,
+                        "LateCharges": 0,
+                        "TotalAmount": 300,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 300,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1050,
+                                "MaterialArabicDesc": "تجاوز الحد الاقصى للسرعة المقررة بما لا يزيد عن 20 كم / ساعة . ",
+                                "MaterialEnglishDesc": "Exceeding speed limit by more than 10 km/h",
+                                "MaterialAmount": 300,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 300
+                            }
+                        }
+                    },
+                    {
+                        "TicketID": {
+                            "TicketNo": 10028,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-09-01T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-09-01T22:00:00",
+                        "TicketType": "A",
+                        "LocationDescAr": "ابوظبي-الروضة-حوض 37-2-شارع محمد بن خليفة(15)",
+                        "LocationDescEn": "ABU DHABI",
+                        "DriverTcfNo": {
+                            "@nil": "true"
+                        },
+                        "PlateInfo": {
+                            "PlateNo": 18140,
+                            "PlateOrgNo": 0,
+                            "PlateColorCode": 56,
+                            "PlateKindCode": 1,
+                            "PlateTypeCode": {
+                                "@nil": "true"
+                            },
+                            "PlateSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": 5040000403,
+                        "IsWebPayable": true,
+                        "LateCharges": 0,
+                        "TotalAmount": 300,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 300,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1050,
+                                "MaterialArabicDesc": "تجاوز الحد الاقصى للسرعة المقررة بما لا يزيد عن 20 كم / ساعة . ",
+                                "MaterialEnglishDesc": "Exceeding speed limit by more than 10 km/h",
+                                "MaterialAmount": 300,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 300
+                            }
+                        }
+                    },
+                    {
+                        "TicketID": {
+                            "TicketNo": 10035,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-04-01T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-04-01T10:00:00",
+                        "TicketType": "P",
+                        "LocationDescAr": "ابوظبي-المنهل-حوض 54-2-شارع زايد الأول(7)",
+                        "LocationDescEn": "ABU DHABI",
+                        "DriverTcfNo": 5040000403,
+                        "LicenseInfo": {
+                            "LicenseNo": 11490,
+                            "LicenseSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": {
+                            "@nil": "true"
+                        },
+                        "IsWebPayable": true,
+                        "LateCharges": 60,
+                        "TotalAmount": 500,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 500,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1072,
+                                "MaterialArabicDesc": "الوقوف خلف المركبات مما يعوق تحركها .",
+                                "MaterialEnglishDesc": "parking behind vehicles and blocking their movement.",
+                                "MaterialAmount": 500,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 500
+                            }
+                        }
+                    },
+                    {
+                        "TicketID": {
+                            "TicketNo": 10036,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-09-10T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-09-10T20:00:00",
+                        "TicketType": "P",
+                        "LocationDescAr": "ابوظبي-المشرف-حوض 58-2-شارع محمد بن خليفة(15)",
+                        "LocationDescEn": "ABU DHABI",
+                        "DriverTcfNo": 5040000403,
+                        "LicenseInfo": {
+                            "LicenseNo": 11490,
+                            "LicenseSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": {
+                            "@nil": "true"
+                        },
+                        "IsWebPayable": true,
+                        "LateCharges": 10,
+                        "TotalAmount": 500,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 500,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1076,
+                                "MaterialArabicDesc": "الوقوف بشكل خاطئ .",
+                                "MaterialEnglishDesc": "Abuse parking places.",
+                                "MaterialAmount": 500,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 500
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "data": {
+        "processResponse": {
+            "Status": "Success",
+            "CPMS_Sector_Code": "E1",
+            "Message": "Permit available at DMC & Mawaqif ",
+            "Community_Code": "C01",
+            "Active_Flag": "Y"
+        }
+    }
+}

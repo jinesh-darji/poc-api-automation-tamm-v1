@@ -1,0 +1,30 @@
+{
+   "Validation": {
+      "getApplicationResponse": [
+            {
+              "path_node": "GetApplicationResponseResponse, GetApplicationResponseResult, StatusCode",
+              "validation_value": 0
+            },
+            {
+              "path_node": "GetApplicationResponseResponse, GetApplicationResponseResult, ApplicationId",
+              "validation_value": 6
+            }
+          ],
+     "getOwnerIdByOwnerIDN": [
+             {
+               "path_node": "GetOwnerIdByOwnerIDNResponse, GetOwnerIdByOwnerIDNResult, ownerId",
+               "validation_value": -1
+             }
+          ],
+     "getCommitServiceBuyAndSell": [
+             {
+               "path_node": "CommitServiceResult, ApplicationData, PaymentsInfo, PaymentData, 0, FeeLineItems, FeelineItem, 0, FeeConst",
+               "validation_value": "BuyAndSellUnitSeller"
+             },
+            {
+               "path_node": "CommitServiceResult, ApplicationData, PaymentsInfo, PaymentData, 1, FeeLineItems, FeelineItem, 0, FeeConst",
+               "validation_value": "BuyAndSellUnitSeller"
+             }
+          ]
+      }
+}

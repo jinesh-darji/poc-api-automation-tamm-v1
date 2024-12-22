@@ -1,0 +1,588 @@
+{  
+   "familyBookDetailsResponse":{  
+      "familySequence":13793,
+      "city":{  
+         "id":1,
+         "arDesc":" أبو ظبي",
+         "enDesc":"ABU DHABI "
+      },
+      "childrenCount":9,
+      "wivesCount":1,
+      "familyHead":{  
+         "identityCardNumber":784196082903863,
+         "unifiedNumber":73446,
+         "fullArabicName":"مساعد مبروك عبود ابوبكر طالب الاغبرى",
+         "fullEnglishName":"MOSAID MABROOK ABBOOD ABU-BAKR TALEB AL-AGHBARA",
+         "clanNameArabic":"",
+         "clanNameEnglish":"",
+         "gender":{  
+            "id":1,
+            "arDesc":"ذكر",
+            "enDesc":"MALE"
+         },
+         "motherNameArabic":"ميثاء",
+         "motherNameEnglish":"MAITHAA",
+         "dateOfBirth":"1960-08-01T00:00:00.000+04:00",
+         "countryOfBirth":{  
+            "id":1,
+            "arDesc":"الإمارات العربية المتحدة",
+            "enDesc":"UNITED ARAB EMIRATES"
+         },
+         "cityOfBirth":{  
+            "id":1,
+            "arDesc":" أبو ظبي",
+            "enDesc":"ABU DHABI "
+         },
+         "placeOfBirthAr":"ابوظبى",
+         "placeOfBirthEn":"ABU DHABI",
+         "maritalStatus":{  
+            "id":2,
+            "arDesc":"متزوج",
+            "enDesc":"MARRIED"
+         },
+         "religion":{  
+            "id":1,
+            "arDesc":"الإسلام",
+            "enDesc":"ISLAM"
+         },
+         "nationality":{  
+            "id":1,
+            "arDesc":"الإمارات العربية المتحدة",
+            "enDesc":"UNITED ARAB EMIRATES"
+         },
+         "activeFlag":true
+      },
+      "dependents":{  
+         "dependent":[  
+            {  
+               "identityCardNumber":784198013518422,
+               "unifiedNumber":73448,
+               "fullArabicName":"فاخره عبدالملك فاضل طاهر رامى الصويدر",
+               "fullEnglishName":"FAKHERA ABDAL-MALEK FADEL TAHER RAMA AL-SWAIDER",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":2,
+                  "arDesc":"انثى",
+                  "enDesc":"FEMALE"
+               },
+               "motherNameArabic":"ديمه",
+               "motherNameEnglish":"DEEMA",
+               "dateOfBirth":"1980-10-22T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":2,
+                  "arDesc":"متزوج",
+                  "enDesc":"MARRIED"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":false,
+               "relationshipToFamily":{  
+                  "id":4,
+                  "arDesc":"ابنة",
+                  "enDesc":"DAUGHTER"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784198180618609,
+               "unifiedNumber":73449,
+               "fullArabicName":"كامله صالح ادريس رمضان الرولى",
+               "fullEnglishName":"KAMLA SALEH IDREES RAMADAN AL-ROOLA",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":2,
+                  "arDesc":"انثى",
+                  "enDesc":"FEMALE"
+               },
+               "motherNameArabic":"اسيل",
+               "motherNameEnglish":"ASEEL",
+               "dateOfBirth":"1981-10-21T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":2,
+                  "arDesc":"متزوج",
+                  "enDesc":"MARRIED"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":false,
+               "relationshipToFamily":{  
+                  "id":4,
+                  "arDesc":"ابنة",
+                  "enDesc":"DAUGHTER"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784198417515248,
+               "unifiedNumber":73450,
+               "fullArabicName":"زيانه طارق نادر منذر غازى الشبر",
+               "fullEnglishName":"ZAYYANA TAREK NADER MONATHER GHAZA AL-SHEBR",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":2,
+                  "arDesc":"انثى",
+                  "enDesc":"FEMALE"
+               },
+               "motherNameArabic":"يارا",
+               "motherNameEnglish":"YARA",
+               "dateOfBirth":"1984-10-21T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":2,
+                  "arDesc":"متزوج",
+                  "enDesc":"MARRIED"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":false,
+               "relationshipToFamily":{  
+                  "id":4,
+                  "arDesc":"ابنة",
+                  "enDesc":"DAUGHTER"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784198771504242,
+               "unifiedNumber":73451,
+               "fullArabicName":"نعيمه صباح مروان فزاع سبيت",
+               "fullEnglishName":"NAIMA SABAH MARWAN FAZZAA SOBAIT",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":2,
+                  "arDesc":"انثى",
+                  "enDesc":"FEMALE"
+               },
+               "motherNameArabic":"فيصل",
+               "motherNameEnglish":"FAISAL",
+               "dateOfBirth":"1987-01-10T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":2,
+                  "arDesc":"متزوج",
+                  "enDesc":"MARRIED"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":false,
+               "relationshipToFamily":{  
+                  "id":4,
+                  "arDesc":"ابنة",
+                  "enDesc":"DAUGHTER"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784199093208157,
+               "unifiedNumber":73452,
+               "fullArabicName":"عبدالله فؤاد عبدالله محمد عوض",
+               "fullEnglishName":" FOWAD ABDULLA MOHAMED AWADH",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":1,
+                  "arDesc":"ذكر",
+                  "enDesc":"MALE"
+               },
+               "motherNameArabic":"مهره",
+               "dateOfBirth":"1990-02-22T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":1,
+                  "arDesc":"اعزب",
+                  "enDesc":"SINGLE"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":true,
+               "relationshipToFamily":{  
+                  "id":3,
+                  "arDesc":"ابن",
+                  "enDesc":"SON"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784199126904160,
+               "unifiedNumber":73453,
+               "fullArabicName":"هلا حميد عمار عبدالفتاح العجله",
+               "fullEnglishName":"HALA HAMEED AMMAR ABDAL-FATTAH AL-AGALA",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":2,
+                  "arDesc":"انثى",
+                  "enDesc":"FEMALE"
+               },
+               "motherNameArabic":"عطيات",
+               "motherNameEnglish":"ATEYYAT",
+               "dateOfBirth":"1991-06-19T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":1,
+                  "arDesc":"اعزب",
+                  "enDesc":"SINGLE"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":true,
+               "relationshipToFamily":{  
+                  "id":4,
+                  "arDesc":"ابنة",
+                  "enDesc":"DAUGHTER"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784199319502987,
+               "unifiedNumber":73454,
+               "fullArabicName":"صابر طارق ادريس فلاح الصوافى",
+               "fullEnglishName":"SABER TAREK IDREES FALLAH AL-SAWAFA",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":1,
+                  "arDesc":"ذكر",
+                  "enDesc":"MALE"
+               },
+               "motherNameArabic":"عائشه",
+               "motherNameEnglish":"AAESHA",
+               "dateOfBirth":"1993-03-20T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":1,
+                  "arDesc":"اعزب",
+                  "enDesc":"SINGLE"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":true,
+               "relationshipToFamily":{  
+                  "id":3,
+                  "arDesc":"ابن",
+                  "enDesc":"SON"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784199335203107,
+               "unifiedNumber":73455,
+               "fullArabicName":"حسن فؤاد عبدالله محمد عوض",
+               "fullEnglishName":" FOWAD ABDULLA MOHAMED AWADH",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":1,
+                  "arDesc":"ذكر",
+                  "enDesc":"MALE"
+               },
+               "motherNameArabic":"مهره",
+               "dateOfBirth":"1993-03-20T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "emirateOfBirth":{  
+                  "id":1,
+                  "arDesc":"أبو ظبي",
+                  "enDesc":"ABU DHABI"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":1,
+                  "arDesc":"اعزب",
+                  "enDesc":"SINGLE"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":true,
+               "relationshipToFamily":{  
+                  "id":3,
+                  "arDesc":"ابن",
+                  "enDesc":"SON"
+               },
+               "motherIdentityCardNumber":784195495702870
+            },
+            {  
+               "identityCardNumber":784197759057025,
+               "unifiedNumber":555469,
+               "fullArabicName":"محمد فؤاد عبدالله محمد عوض بن اسحاق",
+               "fullEnglishName":"MOAHMED FOWAD ABDULLA M. A. BIN ISHAQ",
+               "clanNameArabic":"",
+               "clanNameEnglish":"",
+               "gender":{  
+                  "id":1,
+                  "arDesc":"ذكر",
+                  "enDesc":"MALE"
+               },
+               "motherNameArabic":"مهره",
+               "dateOfBirth":"1977-05-23T00:00:00.000+04:00",
+               "countryOfBirth":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "cityOfBirth":{  
+                  "id":1,
+                  "arDesc":" أبو ظبي",
+                  "enDesc":"ABU DHABI "
+               },
+               "placeOfBirthAr":"ابوظبى",
+               "placeOfBirthEn":"ABU DHABI",
+               "maritalStatus":{  
+                  "id":2,
+                  "arDesc":"متزوج",
+                  "enDesc":"MARRIED"
+               },
+               "religion":{  
+                  "id":1,
+                  "arDesc":"الإسلام",
+                  "enDesc":"ISLAM"
+               },
+               "nationality":{  
+                  "id":1,
+                  "arDesc":"الإمارات العربية المتحدة",
+                  "enDesc":"UNITED ARAB EMIRATES"
+               },
+               "activeFlag":false,
+               "relationshipToFamily":{  
+                  "id":3,
+                  "arDesc":"ابن",
+                  "enDesc":"SON"
+               },
+               "motherIdentityCardNumber":784195495702870
+            }
+         ]
+      },
+      "wives":{  
+         "wife":{  
+            "identityCardNumber":784195495702870,
+            "unifiedNumber":73447,
+            "fullArabicName":"دائره جعفر سلمان حمل",
+            "fullEnglishName":"DAERA GAAFAR SALMAN HEML",
+            "clanNameArabic":"",
+            "clanNameEnglish":"",
+            "gender":{  
+               "id":2,
+               "arDesc":"انثى",
+               "enDesc":"FEMALE"
+            },
+            "motherNameArabic":"اسمهان",
+            "motherNameEnglish":"ASMAHAN",
+            "dateOfBirth":"1954-01-01T00:00:00.000+04:00",
+            "countryOfBirth":{  
+               "id":21,
+               "arDesc":"جمهورية الصومال الإتحادية",
+               "enDesc":"SOMALIA"
+            },
+            "placeOfBirthAr":"مقديشو",
+            "placeOfBirthEn":"MAQADISHO",
+            "maritalStatus":{  
+               "id":2,
+               "arDesc":"متزوج",
+               "enDesc":"MARRIED"
+            },
+            "religion":{  
+               "id":1,
+               "arDesc":"الإسلام",
+               "enDesc":"ISLAM"
+            },
+            "nationality":{  
+               "id":1,
+               "arDesc":"الإمارات العربية المتحدة",
+               "enDesc":"UNITED ARAB EMIRATES"
+            },
+            "activeFlag":true
+         }
+      }
+   }
+}

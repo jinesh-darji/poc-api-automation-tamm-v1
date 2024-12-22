@@ -1,0 +1,22 @@
+{
+    "getVehicleServiceFees": {
+        "request": {
+            "ServiceCenterCode": 125,
+            "OwnerTCFNumber": 5040000415,
+            "PlateInfo": {
+                "PlateNo": 31828,
+                "PlateOrgNo": 0,
+                "PlateColorCode": 52,
+                "PlateKindCode": 1,
+                "PlateTypeCode": 1,
+                "PlateSourceCode": 1
+            },
+            "IsStickerOrdered": false,
+            "ServiceType": "Renew",
+            "UserID": "ADSSSA",
+            "SystemCode": 4,
+            "CourierCompanyCode": 2,
+            "VehicleMakeYear": 0
+        }
+    }
+}

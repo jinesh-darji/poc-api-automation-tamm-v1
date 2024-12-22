@@ -1,0 +1,51 @@
+{
+    "InitiateService": {
+        "request": {
+            "EmployeeId": "WholeGov",
+            "ServiceTypeConst": "BuyAndSellUnitService",
+            "UseEnglish": "true",
+            "RequestDetails": {
+                "BuyAndSellUnit": {
+                    "SelectedPlotId": "%s",
+                    "TransfererUnit": "Percent",
+                    "RecipientUnit": "Percent",
+                    "TransactionAmount": "%s",
+                    "Transferers": {
+                        "TransfererData": {
+                            "OwnerId": "%s",
+                            "PlotTransactionOwnerId": "%s",
+                            "AmountInUnit": "100",
+                            "MobileNumber": ""
+                        }
+                    },
+                    "Recipients": {
+                        "RecipientData": {
+                            "OwnerId": "250068",
+                            "ShareRemark": "aa",
+                            "Priority": "1",
+                            "AmountInUnit": "100",
+                            "MobileNumber": ""
+                        }
+                    },
+                    "SelectedFeeType": "1",
+                    "IsWithMortgage": "%s",
+                    "MortgageDetails": {
+		            	"IssueDate": "%s",
+		            	"MortgageAmount": "%s",
+		            	"AuthorizedBankEmployeeId": "%s",
+		            	"MortgageType": "%s",
+		            	"Degree": "%s",
+		            	"IsGovernmentalResidentialLoan": "false"
+		            }
+                }
+            },
+            "IsOnlineService": "true",
+            "ExternalReferenceNumber": "12224",
+            "Agents": "",
+            "Comments": "New Application",
+            "RequesterId": "%s",
+            "UseDeliveryAddress": "false",
+            "PickupMunicipalityBranchId": "1000"
+        }
+    }
+}

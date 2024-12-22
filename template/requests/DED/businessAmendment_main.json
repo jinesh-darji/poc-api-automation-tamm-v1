@@ -1,0 +1,17 @@
+{
+  "CNNumber": "CN-2659003",
+  "CAPID": "18LIC-00000-02S0T",
+  "Tawtheeq":"10086",
+  "Signboard": [
+    {
+      "SignboardWidth": 1,
+      "SignboardHeight": 2,
+      "SignboardQuantity": 3
+    },
+    {
+      "SignboardWidth": 1,
+      "SignboardHeight": 2,
+      "SignboardQuantity": 3
+    }
+  ]
+}

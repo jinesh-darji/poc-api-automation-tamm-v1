@@ -1,0 +1,9 @@
+{"GetOnlineUserVerificationStatus":
+  {
+    "request":
+      {
+        "UseEnglish": false,
+        "NationalIdNumber_Wrong": "%s"
+      }
+  }
+}

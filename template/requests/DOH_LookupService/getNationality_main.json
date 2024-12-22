@@ -1,0 +1,5 @@
+{
+  "GetNationality": {
+    "inWhereClause": "1=1"
+  }
+}

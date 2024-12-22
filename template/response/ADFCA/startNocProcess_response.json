@@ -1,0 +1,9 @@
+{
+    "StartNocProcessResponse": {
+        "StartNocProcessResult": {
+            "ErrorCode": -1003,
+            "ErrorDescription": "NOC Already Created",
+            "ApplicationID": 0
+        }
+    }
+}

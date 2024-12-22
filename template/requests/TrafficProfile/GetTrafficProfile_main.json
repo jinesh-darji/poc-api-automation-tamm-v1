@@ -1,0 +1,9 @@
+{
+  "GetTrafficProfile": {
+    "request": {
+      "TcfNo": 5040000415,
+      "UserID": "ADSSSA",
+      "SystemCode": 4
+    }
+  }
+}

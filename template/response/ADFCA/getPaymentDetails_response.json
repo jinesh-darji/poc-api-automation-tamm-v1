@@ -1,0 +1,41 @@
+{
+    "GetPaymentDetailsResponse": {
+        "GetPaymentDetailsResult": {
+            "ErrorCode": 1001,
+            "ErrorDescription": "Nullable object must have a value.",
+            "AccountRefID": {
+                "@nil": "true"
+            },
+            "ApplicationID": 0,
+            "CreatedBy": {
+                "@nil": "true"
+            },
+            "IPGFinalization_ApprovalCode": {
+                "@nil": "true"
+            },
+            "IPGFinalization_TransactionID": {
+                "@nil": "true"
+            },
+            "IPGRegistration_TransactionID": {
+                "@nil": "true"
+            },
+            "IsPaid": false,
+            "Paid_Amount": 0,
+            "PaymentAmountWithoutVAT": 0,
+            "PaymentDate": {
+                "@nil": "true"
+            },
+            "SBL_InvoiceNO": {
+                "@nil": "true"
+            },
+            "ServiceCategory": {
+                "@nil": "true"
+            },
+            "ServiceName": {
+                "@nil": "true"
+            },
+            "VATAmout": 0,
+            "VATPercentage": 0
+        }
+    }
+}

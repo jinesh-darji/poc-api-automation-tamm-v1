@@ -1,0 +1,42 @@
+{
+    "getVehicleServiceFeesResponse": {
+        "getVehicleServiceFeesResult": {
+            "ServiceAmount": 365,
+            "PaySerial": 2474706,
+            "Materials": {
+                "ReceiptMaterial": [
+                    {
+                        "ticketNo": {
+                            "@nil": "true"
+                        },
+                        "ticketDate": {
+                            "@nil": "true"
+                        },
+                        "ticketSourceCode": {
+                            "@nil": "true"
+                        },
+                        "materialCode": 2003,
+                        "materialArabicDesc": "تجديد ترخيص مركبة خفيفة خصوصي",
+                        "materialEnglishDesc": "Renewal of registration, private light",
+                        "materialAmount": 350
+                    },
+                    {
+                        "ticketNo": {
+                            "@nil": "true"
+                        },
+                        "ticketDate": {
+                            "@nil": "true"
+                        },
+                        "ticketSourceCode": {
+                            "@nil": "true"
+                        },
+                        "materialCode": 9989,
+                        "materialArabicDesc": "رسوم خدمة التوصيل",
+                        "materialEnglishDesc": "DELIVERY SERVICE FEES",
+                        "materialAmount": 15
+                    }
+                ]
+            }
+        }
+    }
+}

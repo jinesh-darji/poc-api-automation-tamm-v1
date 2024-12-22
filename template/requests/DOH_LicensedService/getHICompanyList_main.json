@@ -1,0 +1,6 @@
+{
+  "HI_ComapnyListRequest": {
+    "inFieldsList": "string",
+    "inWhereClause": "string"
+  }
+}

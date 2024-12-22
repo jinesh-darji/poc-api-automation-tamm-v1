@@ -1,0 +1,14 @@
+{
+    "MedicalProfExpResponse": {
+        "MedicalProfExp": {
+            "APPLICATION_ID": "AGD52685",
+            "LICENSE_NUMBER": "D562",
+            "FACILITY_NAME": "NMC Speciality Hospital",
+            "POSITION": "Dermatology Doctor",
+            "FROMDATE": "20/02/1989",
+            "TODATE": "07/11/2010"
+        },
+        "RESPONSE_CODE": 0,
+        "RESPONSE_DESC": "SUCCESS"
+    }
+}

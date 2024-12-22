@@ -1,0 +1,14 @@
+{
+      "ApplicationHeader":{
+         "TransactionID":"98989898787",
+         "RequestedSystem":"ADSIC"
+      },
+      "DataHeader":{
+		"BranchCode": "AU",
+		"Longitude": "55.22783481",
+		"Latitude": "25.18824819",
+		"FlatDetailsFlag": false,
+		"NewCustomerFlag": false,
+		"ProductType": "elife"
+      }
+}

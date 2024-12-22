@@ -1,0 +1,15 @@
+{  
+   "status":"success",
+   "data":{  
+      "CreatePermitResponse":{  
+         "AllPermitCount":"None",
+         "Error_spcCode":"None",
+         "Error_spcMessage":"None",
+         "IntStatus":"SUCCESS",
+         "PermitHdrSeq":"167591",
+         "PermitNumber":"RP00003677",
+         "PermitType":"2",
+         "sPermitCharges":"None"
+      }
+   }
+}

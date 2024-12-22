@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "contractNo": 18591,
+            "contractStartDate": "2017-03-30T00:00:00.000+04:00",
+            "contractExpiryDate": "2019-03-29T00:00:00.000+04:00",
+            "contractStatus": {
+                "code": 4,
+                "arabicDescription": "منتهي",
+                "englishDescription": "EXPIRED"
+            }
+        },
+        {
+            "contractNo": 19353,
+            "contractStartDate": "2017-11-28T14:40:11.000+04:00",
+            "contractExpiryDate": "2019-07-24T00:00:00.000+04:00",
+            "contractStatus": {
+                "code": 7,
+                "arabicDescription": "ملغي",
+                "englishDescription": "CANCELLED"
+            }
+        },
+        {
+            "contractNo": 19354,
+            "contractStartDate": "2018-06-29T00:00:00.000+04:00",
+            "contractExpiryDate": "2019-06-28T00:00:00.000+04:00",
+            "contractStatus": {
+                "code": 1,
+                "arabicDescription": "فعال",
+                "englishDescription": "ACTIVE"
+            }
+        }
+    ]
+}

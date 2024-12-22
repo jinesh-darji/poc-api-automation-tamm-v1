@@ -1,0 +1,24 @@
+{
+    "Status": "200",
+    "Message": "Application Status Returned Result",
+    "TraceID": "",
+    "Code": "",
+    "Result": {
+        "ApplicationStatusComments": "YYUN (Closed By Scripts).",
+        "CAPID": "18LIC-00000-02S0T",
+        "Comments": [
+            {
+                "Status": "Valid",
+                "Comment": null,
+                "Date": "2018-10-28 14:57:46"
+            },
+            {
+                "Status": "Valid",
+                "Comment": null,
+                "Date": "2018-10-28 14:57:25"
+            }
+        ],
+        "ApplicationStatus": "Issued",
+        "InvoiceAmount": "8761.15"
+    }
+}

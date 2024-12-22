@@ -1,0 +1,107 @@
+{
+    "PartnershipContractDetailsResponse": {
+        "Contents": {
+            "DocumentNumber": 1802000002,
+            "DocumentType": {
+                "DocumentTypeCode": "Partnership Contracts",
+                "DocumentTypeDescriptionArabic": "عقد شركة",
+                "DocumentTypeDescriptionEnglish": "Partnership Contracts"
+            },
+            "DocumentSubType": {
+                "DocumentSubTypeCode": "LLC",
+                "DocumentSubTypeDescriptionArabic": "شركة ذات مسؤولية محدودة",
+                "DocumentSubTypeDescriptionEnglish": "LLC"
+            },
+            "SubSubType": {
+                "SubSubTypeCode": "New",
+                "SubSubTypeDescriptionArabic": "جديد",
+                "SubSubTypeDescriptionEnglish": "New"
+            },
+            "LicenseNumber": "CN-765388",
+            "PartnershipContractPartiesDetails": [
+                {
+                    "PartyRole": {
+                        "PartyRoleCode": "Partner",
+                        "PartyRoleDescriptionArabic": "شريك",
+                        "PartyRoleDescriptionEnglish": "Partner"
+                    },
+                    "FirstName": "سعيد",
+                    "SecondName": "خالد",
+                    "ThirdName": "احمد",
+                    "FamilyName": "المزروعي",
+                    "BirthDate": "1971-10-07 00:00:00",
+                    "Gender": {
+                        "GenderCode": "Male",
+                        "GenderDescriptionArabic": "ذكر",
+                        "GenderDescriptionEnglish": "Male"
+                    },
+                    "Nationality": {
+                        "NationalityCode": "ARE",
+                        "NationalityDescriptionArabic": "الإمارات",
+                        "NationalityDescriptionEnglish": "United Arab Emirates"
+                    },
+                    "CellularPhone": "050999999",
+                    "Region": {
+                        "RegionCode": "Abu Dhabi",
+                        "RegionDescriptionArabic": "منـاطق إمارة ابوظبي",
+                        "RegionDescriptionEnglish": "Abu Dhabi"
+                    },
+                    "City": {
+                        "CityCode": "الباهية",
+                        "CityDescriptionArabic": "الباهية",
+                        "CityDescriptionEnglish": "Al Bahya"
+                    },
+                    "UnifiedID": 789458,
+                    "Category": {
+                        "CategoryCode": "National Id",
+                        "CategoryArabic": "بطاقة هوية",
+                        "CategoryEnglish": "National Id"
+                    },
+                    "Number": 784197194941585,
+                    "ExpiryDate": "2019-08-09 00:00:00"
+                },
+                {
+                    "PartyRole": {
+                        "PartyRoleCode": "Partner",
+                        "PartyRoleDescriptionArabic": "شريك",
+                        "PartyRoleDescriptionEnglish": "Partner"
+                    },
+                    "FirstName": "عبدالجليل",
+                    "SecondName": "عبدالله",
+                    "ThirdName": "مانجاد",
+                    "FamilyName": "مانجاد",
+                    "BirthDate": "1978-05-04 00:00:00",
+                    "Gender": {
+                        "GenderCode": "Male",
+                        "GenderDescriptionArabic": "ذكر",
+                        "GenderDescriptionEnglish": "Male"
+                    },
+                    "Nationality": {
+                        "NationalityCode": "IND",
+                        "NationalityDescriptionArabic": "الهند",
+                        "NationalityDescriptionEnglish": "India"
+                    },
+                    "CellularPhone": "05099999",
+                    "Region": {
+                        "RegionCode": "Al Ain",
+                        "RegionDescriptionArabic": "منـاطق مـدينـة العـين",
+                        "RegionDescriptionEnglish": "Al Ain"
+                    },
+                    "City": {
+                        "CityCode": "ابو كرية",
+                        "CityDescriptionArabic": "ابو كرية",
+                        "CityDescriptionEnglish": "Abu Koreya"
+                    },
+                    "UnifiedID": 895232,
+                    "Category": {
+                        "CategoryCode": "National Id",
+                        "CategoryArabic": "بطاقة هوية",
+                        "CategoryEnglish": "National Id"
+                    },
+                    "Number": 784196995140710,
+                    "ExpiryDate": "2020-11-13 00:00:00"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "getFacilitySubType": {
+    "inWhereClause": "1=1"
+  }
+}

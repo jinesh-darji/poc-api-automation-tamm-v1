@@ -1,0 +1,23 @@
+{
+    "PartnershipContractInfoResponse": {
+        "Contents": {
+            "DocumentNumber": 1802000002,
+            "PartyRole": {
+                "PartyRoleCode": "Partner",
+                "PartyRoleDescriptionArabic": "شريك",
+                "PartyRoleDescriptionEnglish": "Partner"
+            },
+            "DocumentSubType": {
+                "DocumentSubTypeCode": "LLC",
+                "DocumentSubTypeDescriptionArabic": "شركة ذات مسؤولية محدودة",
+                "DocumentSubTypeDescriptionEnglish": "LLC"
+            },
+            "SubSubType": {
+                "SubSubTypeCode": "New",
+                "SubSubTypeDescriptionArabic": "جديد",
+                "SubSubTypeDescriptionEnglish": "New"
+            },
+            "LicenseNumber": "CN-765388"
+        }
+    }
+}

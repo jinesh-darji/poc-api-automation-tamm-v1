@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "data": {
+        "bookMazzonResponse": {
+            "bookMazzonOutput": {
+                "responseCode": 0,
+                "responseArabicDescription": "تمت عملية تقديم الطلب بنجاح",
+                "responseEnglishDescription": "Request has been submitted successfuly",
+                "referenceNo": "19-000237"
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "PartnershipContractResponse": {
+        "PartnershipContract": {
+            "AttachmentDetails": {
+                "DocType": "",
+                "FileName": "dummy",
+                "FileExt": "pdf",
+                "FileBuffer": "",
+                "Comments": "",
+                "FileSize": 12375
+            }
+        }
+    }
+}

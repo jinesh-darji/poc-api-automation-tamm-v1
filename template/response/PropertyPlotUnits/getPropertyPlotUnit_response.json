@@ -1,0 +1,1044 @@
+{
+    "GetPropertyPlotUnitResponseType": {
+        "GetPropertyPlotUnitResult": {
+            "Property": [
+                {
+                    "Plot": {
+                        "@nil": "true"
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Unit",
+                    "Unit": {
+                        "BuildingNameA": "عبدالله بلال عبيد سيف الزعابي",
+                        "BuildingNameE": "Abdulla Belal Obaid Saif Alzaabi",
+                        "BuildingNumber": 4,
+                        "FloorNumber": "G",
+                        "ParentPlotId": 53423,
+                        "ParentUnitUsageTypeA": "سكني",
+                        "ParentUnitUsageTypeE": "Residential",
+                        "ParentUnitUsageTypeId": 1012,
+                        "PlotId": 193255,
+                        "UnitArea": 13,
+                        "UnitBalconyArea": 0,
+                        "UnitBathRoomCount": 1,
+                        "UnitBedRoomCount": 1,
+                        "UnitClassificationId": 1002,
+                        "UnitClassificationNameA": "شقة",
+                        "UnitClassificationNameE": "Apartment",
+                        "UnitHasBlock": false,
+                        "UnitHasMortgage": false,
+                        "UnitNumber": 4,
+                        "UnitUsageTypeA": "سكن عائلي",
+                        "UnitUsageTypeE": "Household Living",
+                        "UnitUsageTypeId": 1039
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "SE48",
+                        "CommunityId": 1244,
+                        "CommunityNumber": 111,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "1×355751.53",
+                        "District": "Khalifa City",
+                        "DistrictId": 1092,
+                        "DistrictNumber": 2,
+                        "EstimatedArea": 33051.3781,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "other",
+                        "LandUseId": 2580,
+                        "LandUseMepsIdentifier": "TMP-01",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "commercial",
+                        "ParentLandUseId": 1007,
+                        "PlotAddress": "2-111-0-C1",
+                        "PlotId": 74932,
+                        "PlotNumber": "C1",
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 0,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 4111886,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "SW1",
+                        "CommunityId": 1230,
+                        "CommunityNumber": 169,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "150 x 150",
+                        "District": "Khalifa City",
+                        "DistrictId": 1092,
+                        "DistrictNumber": 2,
+                        "EstimatedArea": 2090.3184,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": true,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "2-169-0-28",
+                        "PlotId": 14116,
+                        "PlotNumber": 28,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 0,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 448950,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "PlotMortgage": {
+                            "PlotId": 14116,
+                            "PlotMortgageTypeName": "Mortgage Insurance",
+                            "MortgageAmount": 5500000,
+                            "MortgageNumber": "11216/2007",
+                            "MortgageDate": "2007-10-28T00:00:00",
+                            "BankName": "ABU DHABI ISLAMIC BANK",
+                            "BankBranchName": "فرع الخالدية",
+                            "BankEmployeeName": "UnKnown"
+                        }
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "SE26",
+                        "CommunityId": 1215,
+                        "CommunityNumber": 147,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 3,
+                        "DimensionDescription": "150 x 150",
+                        "District": "Khalifa City",
+                        "DistrictId": 1092,
+                        "DistrictNumber": 2,
+                        "EstimatedArea": 2090.3184,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": true,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "2-147-0-47",
+                        "PlotId": 71878,
+                        "PlotNumber": 47,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 2,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 437399,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "PlotMortgage": {
+                            "PlotId": 71878,
+                            "PlotMortgageTypeName": "Mortgage Insurance",
+                            "MortgageAmount": 500000,
+                            "MortgageNumber": "2018\u200e/4764",
+                            "MortgageDate": "2018-12-18T00:00:00",
+                            "BankName": "Dubai Bank",
+                            "BankBranchName": "Dubai Bank",
+                            "BankEmployeeName": "Unknown"
+                        }
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "E33",
+                        "CommunityId": 1360,
+                        "CommunityNumber": "031",
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 1,
+                        "DimensionDescription": "89 x 120",
+                        "District": "Abu Dhabi Island",
+                        "DistrictId": 1094,
+                        "DistrictNumber": 1,
+                        "EstimatedArea": 1002.2085,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "residentialVilla",
+                        "LandUseId": 1052,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "1-031-0-28",
+                        "PlotId": 73266,
+                        "PlotNumber": 28,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 1,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 410141,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "E30",
+                        "CommunityId": 1357,
+                        "CommunityNumber": "028",
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 1,
+                        "DimensionDescription": "80 x 80",
+                        "District": "Abu Dhabi Island",
+                        "DistrictId": 1094,
+                        "DistrictNumber": 1,
+                        "EstimatedArea": 594.5819,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "1-028-0-56",
+                        "PlotId": 25983,
+                        "PlotNumber": 56,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 3,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 45274,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "E10",
+                        "CommunityId": 1342,
+                        "CommunityNumber": "010",
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "",
+                        "District": "Abu Dhabi Island",
+                        "DistrictId": 1094,
+                        "DistrictNumber": 1,
+                        "EstimatedArea": 2322.5853,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "investmentLand",
+                        "LandUseId": 3219,
+                        "LandUseMepsIdentifier": "COM-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "investment",
+                        "ParentLandUseId": 2771,
+                        "PlotAddress": "1-010-0-888",
+                        "PlotId": 194864,
+                        "PlotNumber": 888,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 0,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 0,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "MQ9",
+                        "CommunityId": 1437,
+                        "CommunityNumber": 233,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "150 x 200",
+                        "District": "Al Maqta Area",
+                        "DistrictId": 1095,
+                        "DistrictNumber": 5,
+                        "EstimatedArea": 2787.1024,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": true,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "5-233-0-36",
+                        "PlotId": 22593,
+                        "PlotNumber": 36,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 0,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 465201,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "PlotMortgage": {
+                            "PlotId": 22593,
+                            "PlotMortgageTypeName": "Mortgage Insurance",
+                            "MortgageAmount": 1000000,
+                            "MortgageNumber": "2018\u200e/3054",
+                            "MortgageDate": "2018-10-08T00:00:00",
+                            "BankName": "Dubai Bank",
+                            "BankBranchName": "Dubai Bank",
+                            "BankEmployeeName": "Unknown"
+                        }
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Z24",
+                        "CommunityId": 1473,
+                        "CommunityNumber": 264,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 2,
+                        "DimensionDescription": "150 x 150",
+                        "District": "Mohamed Bin Zayed City",
+                        "DistrictId": 1096,
+                        "DistrictNumber": 6,
+                        "EstimatedArea": 2090.3268,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "ملاحظات الأرض القانونية",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "6-264-0-26",
+                        "PlotId": 42031,
+                        "PlotNumber": 26,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 2,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 457224,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Z20",
+                        "CommunityId": 1469,
+                        "CommunityNumber": 260,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 1,
+                        "DimensionDescription": "150 x 185",
+                        "District": "Mohamed Bin Zayed City",
+                        "DistrictId": 1096,
+                        "DistrictNumber": 6,
+                        "EstimatedArea": 2647.7473,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": true,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "6-260-0-89",
+                        "PlotId": 30284,
+                        "PlotNumber": 89,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 3,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 465630,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "PlotMortgage": {
+                            "PlotId": 30284,
+                            "PlotMortgageTypeName": "Mortgage Insurance",
+                            "MortgageAmount": 1900000,
+                            "MortgageNumber": 5949,
+                            "MortgageDate": "2008-04-23T00:00:00",
+                            "BankName": "ABU DHABI ISLAMIC BANK",
+                            "BankBranchName": "ABU DHABI- BANIYAS STREET - AL NAJIDA",
+                            "BankEmployeeName": "UnKnown"
+                        }
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Z5",
+                        "CommunityId": 1456,
+                        "CommunityNumber": 245,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 1,
+                        "DimensionDescription": "200 x 200",
+                        "District": "Mohamed Bin Zayed City",
+                        "DistrictId": 1096,
+                        "DistrictNumber": 6,
+                        "EstimatedArea": 3716.1366,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "6-245-0-28",
+                        "PlotId": 22398,
+                        "PlotNumber": 28,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 0,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 462861,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "@nil": "true"
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Unit",
+                    "Unit": {
+                        "BuildingNameA": "",
+                        "BuildingNameE": "",
+                        "BuildingNumber": 1,
+                        "FloorNumber": "F1",
+                        "ParentPlotId": 13976,
+                        "ParentUnitUsageTypeA": "سكني",
+                        "ParentUnitUsageTypeE": "Residential",
+                        "ParentUnitUsageTypeId": 1012,
+                        "PlotId": 193572,
+                        "UnitArea": 305,
+                        "UnitBalconyArea": 0,
+                        "UnitBathRoomCount": 4,
+                        "UnitBedRoomCount": 4,
+                        "UnitClassificationId": 1005,
+                        "UnitClassificationNameA": "بيت من طابق واحد",
+                        "UnitClassificationNameE": "Bungalow",
+                        "UnitHasBlock": false,
+                        "UnitHasMortgage": false,
+                        "UnitNumber": 1,
+                        "UnitUsageTypeA": "سكني",
+                        "UnitUsageTypeE": "Residential",
+                        "UnitUsageTypeId": 1042
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "EB8",
+                        "CommunityId": 2089,
+                        "CommunityNumber": "022",
+                        "ConstructionDate": "1977-01-01T00:00:00",
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "1x100000",
+                        "District": "Baniyas",
+                        "DistrictId": 1129,
+                        "DistrictNumber": 123,
+                        "EstimatedArea": 100000,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "residentialLand",
+                        "LandUseId": 1008,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "residential",
+                        "ParentLandUseId": 1003,
+                        "PlotAddress": "123-022-0-78",
+                        "PlotId": 32539,
+                        "PlotNumber": 78,
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 2,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 444277,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Al Wafia",
+                        "CommunityId": 1038,
+                        "CommunityNumber": 111,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 1,
+                        "DimensionDescription": "",
+                        "District": "Al Khatim",
+                        "DistrictId": 1116,
+                        "DistrictNumber": 75,
+                        "EstimatedArea": 11610.9905,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": true,
+                        "LandUse": "ranch",
+                        "LandUseId": 2371,
+                        "LandUseMepsIdentifier": "REC-8",
+                        "LegalRemarks": "",
+                        "Municipality": "Abu Dhabi City",
+                        "MunicipalityId": 1000,
+                        "ParentLandUse": "agricultural",
+                        "ParentLandUseId": 1004,
+                        "PlotAddress": "75-111-0-RCH302",
+                        "PlotId": 177890,
+                        "PlotNumber": "RCH302",
+                        "Road": "~",
+                        "RoadId": 1000,
+                        "RoadNumber": 0,
+                        "ServiceStatus": 2,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 476373,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "PlotMortgage": {
+                            "PlotId": 177890,
+                            "PlotMortgageTypeName": "Mortgage Insurance",
+                            "MortgageAmount": 444000,
+                            "MortgageNumber": 112211,
+                            "MortgageDate": "2018-12-17T00:00:00",
+                            "BankName": "DUBAI ISLAMIC BANK",
+                            "BankBranchName": "Al khaldiaa",
+                            "BankEmployeeName": "UnKnown"
+                        }
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Ghayathi",
+                        "CommunityId": 1792,
+                        "CommunityNumber": 9,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "",
+                        "District": "Ghayathi",
+                        "DistrictId": 1103,
+                        "DistrictNumber": 27,
+                        "EstimatedArea": 1250,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "Warehouse",
+                        "LandUseId": 1084,
+                        "LandUseMepsIdentifier": "IND-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Al Dhafra Region",
+                        "MunicipalityId": 1002,
+                        "ParentLandUse": "Industrial Land (Rented)",
+                        "ParentLandUseId": 1074,
+                        "PlotAddress": "27-9-000-P1026",
+                        "PlotId": 189888,
+                        "PlotNumber": "P1026",
+                        "Road": "~",
+                        "RoadId": 1001,
+                        "RoadNumber": "000",
+                        "ServiceStatus": 1,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 312759,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Al Mashall",
+                        "CommunityId": 2490,
+                        "CommunityNumber": 4,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "50x50",
+                        "District": "AL SAROOJ",
+                        "DistrictId": 1170,
+                        "DistrictNumber": 19,
+                        "EstimatedArea": 2499,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "محطة ضخ مياه الري",
+                        "LandUseId": 2767,
+                        "LandUseMepsIdentifier": "INF-4",
+                        "LegalRemarks": "",
+                        "Municipality": "Al Ain City",
+                        "MunicipalityId": 1001,
+                        "ParentLandUse": "GOVERNMENT",
+                        "ParentLandUseId": 1301,
+                        "PlotAddress": "19-4-21-11",
+                        "PlotId": 123827,
+                        "PlotNumber": 11,
+                        "Road": "ROAD-21",
+                        "RoadId": 2185,
+                        "RoadNumber": 21,
+                        "ServiceStatus": 1,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 32690,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Comm. (1)",
+                        "CommunityId": 2556,
+                        "CommunityNumber": 1,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 2,
+                        "DimensionDescription": "",
+                        "District": "MADINAT NAHIL",
+                        "DistrictId": 1191,
+                        "DistrictNumber": 56,
+                        "EstimatedArea": 0,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "FARM",
+                        "LandUseId": 1515,
+                        "LandUseMepsIdentifier": "AGR-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Al Ain City",
+                        "MunicipalityId": 1001,
+                        "ParentLandUse": "FARMS",
+                        "ParentLandUseId": 1305,
+                        "PlotAddress": "56-1-802-253",
+                        "PlotId": 158365,
+                        "PlotNumber": 253,
+                        "Road": "BLOCK-802",
+                        "RoadId": 2381,
+                        "RoadNumber": 802,
+                        "ServiceStatus": 1,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 11765,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Al Khalidiyya",
+                        "CommunityId": 2526,
+                        "CommunityNumber": 3,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 1,
+                        "DimensionDescription": "3,585.00x1",
+                        "District": "AL AGABIYA",
+                        "DistrictId": 1181,
+                        "DistrictNumber": 30,
+                        "EstimatedArea": 3595,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "Privte House",
+                        "LandUseId": 1867,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Al Ain City",
+                        "MunicipalityId": 1001,
+                        "ParentLandUse": "RESIDENCES",
+                        "ParentLandUseId": 1304,
+                        "PlotAddress": "30-3-37-25",
+                        "PlotId": 113783,
+                        "PlotNumber": 25,
+                        "Road": "ROAD-37",
+                        "RoadId": 2201,
+                        "RoadNumber": 37,
+                        "ServiceStatus": 1,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 21378,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Al Sajaa",
+                        "CommunityId": 2369,
+                        "CommunityNumber": 2,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "",
+                        "District": "AL FOAA",
+                        "DistrictId": 1152,
+                        "DistrictNumber": 1,
+                        "EstimatedArea": 6275.4973,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": true,
+                        "LandUse": "Privte House",
+                        "LandUseId": 1867,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Al Ain City",
+                        "MunicipalityId": 1001,
+                        "ParentLandUse": "RESIDENCES",
+                        "ParentLandUseId": 1304,
+                        "PlotAddress": "1-2-50-5",
+                        "PlotId": 194870,
+                        "PlotNumber": 5,
+                        "Road": "ROAD-50",
+                        "RoadId": 2288,
+                        "RoadNumber": 50,
+                        "ServiceStatus": 0,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 61795,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "PlotMortgage": {
+                            "PlotId": 194870,
+                            "PlotMortgageTypeName": "Mortgage Insurance",
+                            "MortgageAmount": 2000000,
+                            "MortgageNumber": "2009/528",
+                            "MortgageDate": "2009-03-25T00:00:00",
+                            "BankName": "FIRST GULF BANK",
+                            "BankBranchName": "ABU DHABI ZAYED II ST.",
+                            "BankEmployeeName": "خالد طه"
+                        }
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                },
+                {
+                    "Plot": {
+                        "AOIsMarkedRentable": {
+                            "@nil": "true"
+                        },
+                        "Community": "Al Sajaa",
+                        "CommunityId": 2369,
+                        "CommunityNumber": 2,
+                        "ConstructionDate": {
+                            "@nil": "true"
+                        },
+                        "ConstructionStatus": 0,
+                        "DimensionDescription": "61.5/63/58.5/1.5/3/61.5",
+                        "District": "AL FOAA",
+                        "DistrictId": 1152,
+                        "DistrictNumber": 1,
+                        "EstimatedArea": 3600,
+                        "FlatNumber": "",
+                        "HasBlock": false,
+                        "HasMortgage": false,
+                        "LandUse": "Privte House",
+                        "LandUseId": 1867,
+                        "LandUseMepsIdentifier": "RES-1",
+                        "LegalRemarks": "",
+                        "Municipality": "Al Ain City",
+                        "MunicipalityId": 1001,
+                        "ParentLandUse": "RESIDENCES",
+                        "ParentLandUseId": 1304,
+                        "PlotAddress": "1-2-50-9",
+                        "PlotId": 143261,
+                        "PlotNumber": 9,
+                        "Road": "ROAD-50",
+                        "RoadId": 2288,
+                        "RoadNumber": 50,
+                        "ServiceStatus": 1,
+                        "Thumbnail": {
+                            "@nil": "true"
+                        },
+                        "TpdPlotId": 55573,
+                        "UTMCode": {
+                            "@nil": "true"
+                        }
+                    },
+                    "PlotMortgages": {
+                        "@nil": "true"
+                    },
+                    "PropertyType": "Plot",
+                    "Unit": {
+                        "@nil": "true"
+                    }
+                }
+            ]
+        }
+    }
+}

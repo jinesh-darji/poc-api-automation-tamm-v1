@@ -1,0 +1,61 @@
+{
+    "status": "success",
+    "data": {
+        "buildingNameA": "",
+        "buildingNameE": "",
+        "buildingNumber": 3,
+        "communityArabicName": "الشامخة  21",
+        "communityEnglishName": "SH21",
+        "communityId": 1193,
+        "communityNumber": "002",
+        "districtArabicName": "مدينة الشامخه",
+        "districtEnglishName": "Al Shamkha",
+        "districtId": 1091,
+        "districtNumber": 102,
+        "floorNumber": "G",
+        "legalRemarks": "",
+        "municipalityArabicName": "مدينة أبو ظبي",
+        "municipalityEnglishName": "Abu Dhabi City",
+        "municipalityId": 1000,
+        "ownershipDeedShareDetailsList": {
+            "ownershipDeedShareDetails": {
+                "familyBookNumberCityNumber": "5835/101",
+                "NationalNumber": 784196664263645,
+                "OwnerId": 250073,
+                "ownerName": "مدينه سليمان الرميثى",
+                "ownershipPercentage": 100,
+                "PlotOwnerShareId": 911873
+            }
+        },
+        "parentPlotId": 35810,
+        "parentUnitUsageTypeA": "سكني",
+        "parentUnitUsageTypeE": "Residential",
+        "parentUnitUsageTypeId": 1012,
+        "plotAddress": "102-002-0-30",
+        "plotId": 193697,
+        "plotNumber": {
+            "nil": "true"
+        },
+        "printingDate": "2019-03-31T18:25:53.1210855+04:00",
+        "roadArabicName": "~",
+        "roadEnglishName": "~",
+        "roadId": 1000,
+        "roadNumber": 0,
+        "unitArea": 9,
+        "unitBalconyArea": 0,
+        "unitBathRoomCount": 0,
+        "unitBedRoomCount": 0,
+        "unitClassificationId": 1002,
+        "unitClassificationNameA": "شقة",
+        "unitClassificationNameE": "Apartment",
+        "unitHasBlock": false,
+        "unitHasMortgage": false,
+        "unitLevelGisImage": {
+            "nil": "true"
+        },
+        "unitNumber": 1,
+        "unitUsageTypeA": "سكن عائلي",
+        "unitUsageTypeE": "Household Living",
+        "unitUsageTypeId": 1039
+    }
+}

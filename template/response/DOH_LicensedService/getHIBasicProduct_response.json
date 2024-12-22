@@ -1,0 +1,24 @@
+{
+    "HI_BasicProductResponse": {
+        "o_RECORDCOUNT": 1,
+        "o_RESULTSET": {
+            "FACILITYNAME": "National Health Insurance Co. - Daman - P.J.S.C.<br> Tel: 02-6149555",
+            "HAADREFNO": "04575",
+            "UAEANNUALCOV": "250,000",
+            "INTLANNUALCOV": "",
+            "GEOGRAPHY": "",
+            "INPATIENTROOM": "Shared (2+Beds)",
+            "MATERNITYSRVCS": "Co-Payment of AED 500 / delivery",
+            "OUTPATEFEES": "100% with deductible of AED 20 for GP AED 10 for Specialist",
+            "MEDICALCOV": "70 % with copayment of 30 %  Maximum AED            1,500 /Year",
+            "OUTNETWORK": "",
+            "ADDITIONALCOV": "",
+            "PRODID": 21,
+            "PRODTYPE": "Basic",
+            "RWN": 1,
+            "HAADAPPROVALNO": "A001"
+        },
+        "RESPONSE_CODE": 0,
+        "RESPONSE_DESC": "BASIC PRODUCT LOADED SUCESSFULLY"
+    }
+}

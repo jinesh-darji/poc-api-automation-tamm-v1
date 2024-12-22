@@ -1,0 +1,56 @@
+{
+    "CommitServiceResponse": {
+        "CommitServiceResult": {
+            "ApplicationId": 1317239,
+            "ApplicationData": {
+                "ApplicationNameConst": "OnlineUserRegistrationService",
+                "ApplicationId": 1317239,
+                "ApplicationNumber": "2018/3930",
+                "Status": "In Progress",
+                "MunicipalityName": "Abu Dhabi City",
+                "Comments": {
+                    "@nil": "true"
+                },
+                "ApplicationDocuments": {
+                    "@nil": "true"
+                },
+                "ApplicationBusinessEntities": {
+                    "@nil": "true"
+                },
+                "PaymentsInfo": {
+                    "@nil": "true"
+                },
+                "ApplicationDataExtension": {
+                    "@nil": "true"
+                },
+                "ApplicationCreateDate": "0001-01-01T00:00:00",
+                "Description": {
+                    "@nil": "true"
+                },
+                "CurrentStepId": 1851,
+                "WorkflowName": {
+                    "@nil": "true"
+                },
+                "WorkflowConst": {
+                    "@nil": "true"
+                },
+                "ReferenceNumber": {
+                    "@nil": "true"
+                },
+                "MunicipalityId": 1000,
+                "RelatedApplications": {
+                    "@nil": "true"
+                },
+                "eLMSStatus": {
+                    "@nil": "true"
+                },
+                "MunicipalityBranchName": {
+                    "@nil": "true"
+                },
+                "EngineerName": {
+                    "@nil": "true"
+                }
+            }
+        }
+    }
+}

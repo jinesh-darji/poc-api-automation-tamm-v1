@@ -1,0 +1,76 @@
+{
+    "status": "success",
+    "data": {
+        "tradeLicenseBasicInfo": {
+            "tradeLicenseNumber": "CN-1085425",
+            "businessNameArb": "CN-1085425 تجريبي",
+            "businessNameEng": "CN-1085425 TEST",
+            "businessLicenseBranchFlag": false,
+            "businessLicenseIssueDate": "09/05/2018",
+            "businessLicenseExpiryDate": "08/05/2019",
+            "businessLicenseAddressArb": "محمد بن زايد, C227 - حوض شرق 12 - ميزانين - مكتب 1, 4194118, المالك السيد عبدالله سالم حمد ركاض العامري, -, ",
+            "businessLicenseAddressEng": "محمد بن زايد, C227 - حوض شرق 12 - ميزانين - مكتب 1, 4194118, المالك السيد عبدالله سالم حمد ركاض العامري, -, ",
+            "proMobileNumber": "-",
+            "buildingNumber": 4194118,
+            "coordinatesX": 54.36585808,
+            "coordinatesY": 24.49214745,
+            "establishmentDate": "17/04/2006",
+            "adcciUnifiedId": 213793,
+            "licenseRemarks": "-",
+            "legalForm": {
+                "legalFormCode": "EST",
+                "businessLegalFormArb": "مؤسسة فردية",
+                "businessLegalFormEng": "Establishment"
+            },
+            "licenseTypeCode": {
+                "licenseTypeCode": "B S ",
+                "businessLicenseTypeArb": "تجارية",
+                "businessLicenseTypeEng": "Business"
+            },
+            "establishmentCountry": {
+                "countryCode": "ARE",
+                "countryNameArb": "الإمارات العربية المتحدة",
+                "countryNameEng": "United Arab Emirates"
+            },
+            "businesslicenseCityArb": "أبوظبي",
+            "businesslicenseCityEng": "Abu Dhabi",
+            "businessLicenseStatus": {
+                "businessLicenseStatusCode": "I",
+                "businessLicenseStatusArb": "اصدرت الرخصة",
+                "businessLicenseStatusEng": "Issued"
+            },
+            "issuePlace": {
+                "issuePlaceCode": "NA",
+                "issuePlaceArb": "أبو ظبي",
+                "issuePlaceEng": "Abu Dhabi"
+            }
+        },
+        "tradeLicensePartners": {
+            "partnerNameArb": "Qaddoumi Qaddoumi Qaddoumi Qaddoumi",
+            "partnerNameEng": "address2 address3",
+            "licenseRelationshipCode": {
+                "licenseRelationshipCode": "OW ",
+                "businessLicenseRelationshipArb": "مالك",
+                "businessLicenseRelationshipEng": "Owner"
+            },
+            "partnerSharePercentage": 100
+        },
+        "tradeLicenseActivities": [
+            {
+                "ActivityCode": "0910018",
+                "ActivityNameArb": "خدمات حقول ومنشأت النفط والغاز البرية والبحرية (910018)",
+                "ActivityNameEng": "On & off-shore oil and gas fields and facilities services (910018)"
+            },
+            {
+                "ActivityCode": "0910009",
+                "ActivityNameArb": "الصيانة الفنية للمصانع و المنشآت البترولية (910009)",
+                "ActivityNameEng": "Technical maintenance of factories and oil installations (910009)"
+            },
+            {
+                "ActivityCode": 4390008,
+                "ActivityNameArb": "أعمال تركيب وفك  السقالات (4390008)",
+                "ActivityNameEng": "Scaffold  installation (4390008)"
+            }
+        ]
+    }
+}

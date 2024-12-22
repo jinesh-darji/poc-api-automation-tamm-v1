@@ -1,0 +1,6 @@
+{
+  "employeeId": "1000000",
+  "serviceTypeConst": "OnlineUserRegistrationService",
+  "useEnglish": true,
+  "applicationId": "%s"
+}

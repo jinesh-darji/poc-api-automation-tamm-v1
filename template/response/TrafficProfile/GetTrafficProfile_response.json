@@ -1,0 +1,49 @@
+{
+    "GetTrafficProfileResponse": {
+        "GetTrafficProfileResult": {
+            "TcfNo": 5040000415,
+            "TcfKindCode": 1,
+            "ArabicName": "مصبح عيسى مصبح الغربى ال على",
+            "EnglishName": "MUSABEH ESSA MUSABEH ALGHARBI AL-ALI",
+            "UnifiedID": 100007305417,
+            "EstablishmentSSourceCode": {
+                "@nil": "true"
+            },
+            "TcfTypeCode": 70,
+            "Gender": "M",
+            "BirthDate": "1986-04-22T00:00:00",
+            "ReligionCode": 1,
+            "EducationCode": 4,
+            "MaritalCode": 1,
+            "OccupationCode": 3120001,
+            "NationalityCode": 101,
+            "PassportNo": 9058893,
+            "PassportIssueDate": "2015-02-16T00:00:00",
+            "PassportExpiryDate": "2018-04-13T15:53:05",
+            "HomeAddress": "ام القيوين شعبية الجديدة",
+            "HomeStreetCode": 0,
+            "HomeBuildingNo": 0,
+            "HomeFlatNo": 0,
+            "HomeTelephoneNo": "067660785",
+            "WorkAddress": "ام القيوين الهجرة والجوازات",
+            "WorkStreetCode": 0,
+            "WorkBuildingNo": 0,
+            "WorkTelephoneNo": "067660785",
+            "POBox": 380,
+            "Mobile": "0501075000",
+            "TradeLicenseSourceCode": {
+                "@nil": "true"
+            },
+            "TradeLicenseIssueDate": {
+                "@nil": "true"
+            },
+            "TradeLicenseExpiryDate": {
+                "@nil": "true"
+            },
+            "EmiratesID": 784198464183817,
+            "NationalityArDesc": "الامارات",
+            "NationalityEnDesc": "EMIRATES",
+            "NationalityISOCode": "ARE"
+        }
+    }
+}

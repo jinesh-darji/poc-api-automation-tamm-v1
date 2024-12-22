@@ -1,0 +1,5 @@
+{
+  "getSpecialty": {
+    "inWhereClause": "1=1"
+  }
+}

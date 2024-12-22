@@ -1,0 +1,45 @@
+{
+  "employeeId": "WholeGov",
+  "serviceTypeConst": "OnlineUserRegistrationService",
+  "useEnglish": "true",
+  "requestDetails": {
+    "onlineUserRegistration": {
+      "onlineUserRegistrationInfo": {
+        "address": "Abu Dhabi",
+        "buildingNumber": "441",
+        "emailAddress": "chandra.pavuluri@gmail.com",
+        "emirateId": "1001",
+        "familyBookCityId": "1000",
+        "familyBookIssueDate": "2005-08-16",
+        "familyBookNumber": "454",
+        "familyBookPageNumber": "22",
+        "familyNameArabic": "اثممخ",
+        "familyNameEnglish": "Lumba",
+        "familyStatusId": "1000",
+        "fax": "22222",
+        "gender": "1",
+        "maritalStatusId": "1003",
+        "motherName": "Lumba",
+        "nameArabic": "ةخفاثق",
+        "nameEnglish": "Chandra",
+        "nationalityId": "1002",
+        "poBox": "2331",
+        "passportExpirationDate": "2022-02-03",
+        "passportIssueDate": "2018-02-02",
+        "passportIssueLocation": "Abu Dhabi",
+        "passportNumber": "H2020202",
+        "phoneHome": "+9713456789",
+        "phoneMobile": "971529119191",
+        "phoneWork": "+9713456789",
+        "spouseName": "Chandra Sekhar",
+        "nationalId": "%s"
+      }
+    }
+  },
+  "isOnlineService": "true",
+  "externalReferenceNumber": "12121",
+  "agents": "",
+  "comments": "New Application",
+  "UseDeliveryAddress": "false",
+  "PickupMunicipalityBranchId": "1000"
+}

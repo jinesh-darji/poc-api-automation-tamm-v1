@@ -1,0 +1,16 @@
+{
+  "getVehicleDetails": {
+    "request": {
+      "SystemCode": 4,
+      "UserID": "ADSSSA",
+      "PlateInfo": {
+        "PlateNo": "45731",
+        "PlateOrgNo": 10,
+        "PlateColorCode": 52,
+        "PlateKindCode": 1,
+        "PlateTypeCode": 1,
+        "PlateSourceCode": 1
+      }
+    }
+  }
+}

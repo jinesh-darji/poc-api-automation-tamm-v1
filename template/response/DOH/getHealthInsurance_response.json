@@ -1,0 +1,39 @@
+{
+    "status": "success",
+    "data": {
+        "applicantUnifiedNumberMoi": 777777,
+        "insuranceCompanyId": "A011",
+        "insuranceCompanyNameEnglish": "American Life Insurance Co. – American Insurance",
+        "insuranceCompanyNameArabic": "الشرك",
+        "fullNameEnglish": "SHADI YASSER SALEEM AL ZRAIQAT",
+        "firstNameEnglish": "",
+        "secondNameEnglish": "THOMAS",
+        "familyNameEnglish": "",
+        "fullNameArabic": "شادى ياسر سليم الزريقات",
+        "firstNameArabic": "",
+        "secondNameArabic": "",
+        "familyNameArabic": "",
+        "dateOfBirth": "24/11/1975",
+        "gender": {
+            "genderCode": 1,
+            "genderDescriptionArabic": "ذكر",
+            "genderDescriptionEnglish": "Male"
+        },
+        "nationality": {
+            "nationalityCode": "JOR",
+            "nationalityDescriptionArabic": "المملكة الأردنية الهاشمية",
+            "nationalityDescriptionEnglish": "JORDAN"
+        },
+        "residenceCity": {
+            "residenceCityCode": 1,
+            "residenceCityDescriptionArabic": "أبوظبي",
+            "residenceCityDescriptionEnglish": "Abu Dhabi"
+        },
+        "passportNumber": "K2028851",
+        "emiratesIdNumber": 784197783657253,
+        "insuranceMemberId": "6044410008-WHF158364",
+        "insuranceStartDate": "08/01/2018",
+        "insuranceRenewalDate": "01/04/2018",
+        "insuranceEndDate": "31/03/2019"
+    }
+}

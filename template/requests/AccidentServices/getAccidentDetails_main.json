@@ -1,0 +1,50 @@
+node('mac_os') {
+    stage('checkout') {
+checkout([$class: 'GitSCM', branches: [[name: '*/development'], [name: '*/development']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '9193a98a-16a8-432f-a5ed-e51123321fcb', url: 'git@gitlab.digitalx1.io:TAMM/quality-assurance/service-automation.git'], [credentialsId: 'b88b4d27-cb52-4b5a-8bc7-8c3dc3fa01a5', url: 'https://gitlab.digitalx1.io/TAMM/quality-assurance/service-automation-buah.git']]])
+    }
+    stage('test execution') {
+        withEnv(['ENVIRONMENT_TYPE = stg']) {
+        try {
+            sh 'export PYTHONPATH=$PYTHONPATH:/Users/tammserver/jenkins_agents/workspace/SERVICES_ALL_JOURNEYS/ && cd test_suite/test_case_buy_a_home/test_health_check/ && /usr/local/bin/pytest --alluredir allure-results .'
+        } catch (err) {
+            if (currentBuild.result == 'UNSTABLE')
+                currentBuild.result = 'FAILURE'
+            throw err
+        } finally {
+            stage('publish reports') {
+                allure disabled: false,
+                        includeProperties: false,
+                        jdk: '',
+                        report: "allure-report",
+                        results: [
+                                [
+                                        path: "test_suite/test_case_buy_a_home/test_health_check/allure-results"
+                                ]
+                        ]
+            }
+        }
+    }
+    stage('test execution') {
+        withEnv(['ENVIRONMENT_TYPE = stg']) {
+        try {
+            sh 'export PYTHONPATH=$PYTHONPATH:/Users/tammserver/jenkins_agents/workspace/SERVICES_ALL_JOURNEYS/ && cd test_suite/test_case_buy_a_hom/test_validation/ && /usr/local/bin/pytest --alluredir allure-results .'
+        } catch (err) {
+            if (currentBuild.result == 'UNSTABLE')
+                currentBuild.result = 'FAILURE'
+            throw err
+        } finally {
+            stage('publish reports') {
+                allure disabled: false,
+                        includeProperties: false,
+                        jdk: '',
+                        report: "allure-report",
+                        results: [
+                                [
+                                        path: "test_suite/test_case_buy_a_home/test_validation/allure-results"
+                                ]
+                        ]
+            }
+        }
+    }
+}
+}

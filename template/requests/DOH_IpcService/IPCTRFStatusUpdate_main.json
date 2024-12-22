@@ -1,0 +1,5 @@
+{
+  "IPCTRFStatusUpdateRequest": {
+    "TRF_ID": "string"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "getCity": {
+    "inWhereClause": "1=1"
+  }
+}

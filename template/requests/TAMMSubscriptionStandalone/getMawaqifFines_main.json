@@ -1,0 +1,11 @@
+{
+    "PVT_GetByVeh_Request": {
+        "P_PLATE_NUMBER": "31938",
+        "P_PLATE_CNT_ID": "1",
+        "P_PLATE_CTG_ID": "53",
+        "P_PLATE_TYPE_ID": "1",
+        "P_PVT_Status_ID": "1",
+        "IsADPCodes": 0
+    },
+    "ticketIds": []
+}

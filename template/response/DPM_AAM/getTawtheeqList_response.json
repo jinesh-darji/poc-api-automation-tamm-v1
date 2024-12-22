@@ -1,0 +1,36 @@
+{
+    "TawtheeqListResponse": {
+        "Contents": [
+            {
+                "ContractNo": 18591,
+                "ContractStartDate": "2017-03-30T00:00:00.000+04:00",
+                "ContractExpiryDate": "2019-03-29T00:00:00.000+04:00",
+                "ContractStatus": {
+                    "Code": 1,
+                    "ArabicDescription": "فعال",
+                    "EnglishDescription": "ACTIVE"
+                }
+            },
+            {
+                "ContractNo": 19353,
+                "ContractStartDate": "2017-11-28T14:40:11.000+04:00",
+                "ContractExpiryDate": "2019-07-24T00:00:00.000+04:00",
+                "ContractStatus": {
+                    "Code": 7,
+                    "ArabicDescription": "ملغي",
+                    "EnglishDescription": "CANCELLED"
+                }
+            },
+            {
+                "ContractNo": 19354,
+                "ContractStartDate": "2018-06-29T00:00:00.000+04:00",
+                "ContractExpiryDate": "2019-06-28T00:00:00.000+04:00",
+                "ContractStatus": {
+                    "Code": 1,
+                    "ArabicDescription": "فعال",
+                    "EnglishDescription": "ACTIVE"
+                }
+            }
+        ]
+    }
+}

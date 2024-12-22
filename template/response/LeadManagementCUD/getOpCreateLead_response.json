@@ -1,0 +1,12 @@
+{
+    "CreateLeadResponse": {
+        "ResponseData": {
+            "TransactionID": 98989898787,
+            "ExtSystemLeadID": "ADSIC-7858555858",
+            "EtisalatLeadID": 22367
+        },
+        "AckMessage": {
+            "Status": "SUCCESS"
+        }
+    }
+}

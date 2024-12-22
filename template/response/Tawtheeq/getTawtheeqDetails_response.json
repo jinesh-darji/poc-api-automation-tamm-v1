@@ -1,0 +1,92 @@
+{
+    "status": "success",
+    "data": {
+        "contractDetails": {
+            "contractNo": 18591,
+            "contractRegistrationDate": "2017-03-11T13:31:15.000+04:00",
+            "contractUsage": {
+                "code": 1,
+                "arabicDescription": "سكني",
+                "englishDescription": "RESIDENTIAL"
+            }
+        },
+        "ownersDetails": {
+            "plotOwnerName": "السيدة هلال احمد الكويتى"
+        },
+        "lessorDetails": {
+            "lessorEmiratesId": 784196183098720,
+            "lessorNameArabic": "مريم محمد على محمد النيادي",
+            "lessorNameEnglish": "Eee   ee",
+            "lessorNationality": {
+                "code": 207,
+                "arabicDescription": "الإمارات العربية المتحدة",
+                "englishDescription": "UNITED ARAB EMIRATES"
+            },
+            "fax": "037667674",
+            "poBox": 1294
+        },
+        "tenantDetails": {
+            "tenantEmiratesId": 784198586041398,
+            "tenantNameArabic": "مطارد سعيد المنصوري ",
+            "tenantNameEnglish": "ee ee",
+            "mobileNumber": "0567885218",
+            "tenantNationality": {
+                "code": 207,
+                "arabicDescription": "الإمارات العربية المتحدة",
+                "englishDescription": "UNITED ARAB EMIRATES"
+            },
+            "poBox": ""
+        },
+        "rentAndPaymentsDetails": {
+            "contractStartDate": "2017-03-30T00:00:00.000+04:00",
+            "contractExpiryDate": "2019-03-29T00:00:00.000+04:00",
+            "rentalValue": 2333333,
+            "tenancycontractDuration": "2 Years 0 Months 0 Days ",
+            "numberofInstallments": 3,
+            "adweaBillPaidBy": "المستأجر"
+        },
+        "propertyDetails": {
+            "propertyRegistrationNumber": "PRP53305",
+            "propertyName": "Villa 2",
+            "propertyType": {
+                "code": 4,
+                "arabicDescription": "فيلا",
+                "englishDescription": "VILLA"
+            },
+            "zone": {
+                "code": 3,
+                "arabicDescription": "مدينة شخبوط",
+                "englishDescription": "Shakhbout City"
+            },
+            "sector": {
+                "code": 205,
+                "arabicDescription": "مدينة شخبوط 19",
+                "englishDescription": "MSH19"
+            },
+            "plotNo": "4a",
+            "streetRoad": {
+                "code": 0,
+                "arabicDescription": "~",
+                "englishDescription": "~"
+            },
+            "premisesNumber": 5928775010,
+            "unitDetails": {
+                "unitRegistrationNumber": "PRP53305",
+                "unitName": "Villa 2",
+                "unitType": {
+                    "code": 4,
+                    "arabicDescription": "فيلا",
+                    "englishDescription": "VILLA"
+                },
+                "floorNo": 0,
+                "noOfOccupants": 1,
+                "actualUsage": {
+                    "code": 1,
+                    "arabicDescription": "سكني",
+                    "englishDescription": "RESIDENTIAL"
+                },
+                "premisesNumber": 5928775010
+            }
+        }
+    }
+}

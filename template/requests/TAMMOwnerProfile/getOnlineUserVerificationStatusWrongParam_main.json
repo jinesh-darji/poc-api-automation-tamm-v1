@@ -1,0 +1,10 @@
+{"GetOnlineUserVerificationStatus":
+  {
+    "request":
+      {
+        "EmployeeId": "ADHA",
+        "UseEnglish": false,
+        "NationalIdNumber_Wrong": "%s"
+      }
+  }
+}

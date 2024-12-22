@@ -1,0 +1,6 @@
+{
+  "MedicalFacility": {
+    "inFieldsList": "*",
+    "inWhereClause": "1=1"
+  }
+}

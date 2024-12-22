@@ -1,0 +1,8 @@
+{
+    "GetApplicationResponseResponse": {
+        "GetApplicationResponseResult": {
+            "ApplicationId": 6,
+            "StatusCode": 0
+        }
+    }
+}

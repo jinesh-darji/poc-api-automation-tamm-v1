@@ -1,0 +1,21 @@
+{
+	"SubmitPaymentDetails": {
+		"PaymentDetailsObj": {
+			"AccountRefID": "222888e9-ddd1-7cc7-bbca-47945a297191",
+			"ApplicationID": 790413,
+			"CreatedBy": "TAMMUser",
+			"IPGFinalization_ApprovalCode": "1231231",
+			"IPGFinalization_TransactionID": "270374186781",
+			"IPGRegistration_TransactionID": "270374186781",
+			"IsPaid": true,
+			"Paid_Amount": 168,
+			"PaymentAmountWithoutVAT": 160,
+			"PaymentDate": "2018-01-01",
+			"SBL_InvoiceNO": "1-564908306",
+			"ServiceCategory": "Animal",
+			"ServiceName": "Issuing Animal Log Certi.",
+			"VATAmout": 8,
+			"VATPercentage": 5
+		}
+	}
+}

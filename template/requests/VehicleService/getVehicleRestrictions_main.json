@@ -1,0 +1,23 @@
+{
+    "getVehicleRestrictions": {
+        "request": {
+            "VehicleKey": {
+                "PlateInfo": {
+                    "PlateNo": 5737,
+                    "PlateOrgNo": 0,
+                    "PlateColorCode": 16,
+                    "PlateKindCode": 1,
+                    "PlateTypeCode": 1,
+                    "PlateSourceCode": 1
+                },
+                "ChassisNo": "5N1AR2MM2DC679773"
+            },
+            "ServiceType": "Renew",
+            "UserID": "ADSSSA",
+            "SystemCode": 4,
+            "PaidByTrafficProfile": {
+                "TcfNo": 5040000455
+            }
+        }
+    }
+}

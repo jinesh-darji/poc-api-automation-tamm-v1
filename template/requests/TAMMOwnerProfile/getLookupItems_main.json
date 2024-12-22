@@ -1,0 +1,16 @@
+{
+  "employeeId": "WholeGov",
+  "useEnglish": true,
+  "lookupType": "CitiesLookupByEmirate",
+  "filters": [
+    {
+      "string": "1001"
+    },
+    {
+      "string": "1002"
+    },
+    {
+      "string": "1003"
+    }
+  ]
+}

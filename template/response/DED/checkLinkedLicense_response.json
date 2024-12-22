@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "data": {
+        "status": "200",
+        "message": "The License is linked to profile",
+        "traceId": "",
+        "code": "",
+        "result": {
+            "linkedLicense": "true"
+        }
+    }
+}

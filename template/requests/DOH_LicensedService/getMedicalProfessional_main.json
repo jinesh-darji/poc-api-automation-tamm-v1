@@ -1,0 +1,7 @@
+{
+  "MedicalProfessional": {
+    "inFieldsList": "*",
+    "inModuleName": "MTJ",
+    "inWhereClause": "1=1"
+  }
+}

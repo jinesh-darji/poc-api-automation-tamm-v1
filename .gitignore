@@ -1,0 +1,8 @@
+test_results
+.idea/
+.pytest_cache/
+*/__pycache__
+.project
+.pydevproject
+*.pyc
+test_results/*.html

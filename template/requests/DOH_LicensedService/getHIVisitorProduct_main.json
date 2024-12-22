@@ -1,0 +1,6 @@
+{
+  "HI_VisitorProductRequest": {
+    "i_ANNUALCOVERAGEUAE": "string",
+    "i_INPATIENTROOMTYPE": "string"
+  }
+}

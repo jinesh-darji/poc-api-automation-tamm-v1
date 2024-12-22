@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "data": {
+        "fee": {
+            "fee": [
+                {
+                    "authorityEn": "General Directorate of Civil Defense - Abu Dhabi",
+                    "authorityAr": "الإدارة العامة للدفاع المدني - أبوظبي",
+                    "feeDescEn": "Civil Defense Services Fee",
+                    "feeDescAr": "رسوم خدمات الدفاع المدني",
+                    "feeAmount": 1000,
+                    "legalFormEn": "",
+                    "legalFormAr": "",
+                    "activityCode": ""
+                },
+                {
+                    "authorityEn": "General Directorate of Residence and Foreigners Affairs - Abu Dhabi (GDRFA)",
+                    "authorityAr": "الإدارة العامة للإقامة وشؤون الأجانب - أبوظبي",
+                    "feeDescEn": "Request Private sector or free zone firm card GDRFA",
+                    "feeDescAr": "رسوم طلب بطاقة المنشأة الإقامة وشؤون الأجانب",
+                    "feeAmount": 515,
+                    "legalFormEn": "",
+                    "legalFormAr": "",
+                    "activityCode": ""
+                }
+            ]
+        },
+        "cap": "",
+        "count": 2
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "GetUnifiedID": {
+    "request": {
+      "TrafficProfileNo": 5040000415,
+      "LicenseInfo": {
+        "LicenseNo": 10316,
+        "LicenseSourceCode": 3,
+        "LicenseSourceArabicDesc": "string",
+        "LicenseSourceEnglishDesc": "string"
+      },
+      "UserID": "string",
+      "SystemCode": 3
+    }
+  }
+}

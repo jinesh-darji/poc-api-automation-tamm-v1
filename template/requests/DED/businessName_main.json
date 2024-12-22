@@ -1,0 +1,33 @@
+{
+  "Email": "persona.adoss2@gmail.com",
+  "PhoneNumber": "971589004645",
+  "ProName": "Mohammed Waleed Mubarak",
+  "TradeNameEn": "dw_20180417_12",
+  "TradeNameAr": "22222",
+  "ReservationPeriod": "03",
+  "CalculatedCost": "200",
+  "City": "Abu Dhabi",
+  "TypeOfEntity": "Establishment",
+  "Activity": ["Fast food (5610004)", "Bakery (4781003)", "Meal contracts (5629002)"],
+  "TradePartner": [
+    {
+      "Type": "Individual",
+      "ArabicName": "",
+      "EnglishName": "Mohammed Waleed Mubarak",
+      "LicenseNo": "784198958090718",
+      "City": "Abu Dhabi",
+      "ShareHolding": "100",
+      "IDType": "EID",
+      "IDNumber": "784198958090718"
+    }
+  ],
+  "SmartPassData": [
+    {
+      "UUID": "462888e9-ddd1-7cc7-bbca-47945a297136",
+      "UserType": "SOP3",
+      "EID": "784198958090718",
+      "IdType": "IL",
+      "PassportNumber": "PS-2015090101"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{  
+   "personProfile":{  
+      "unifiedNumber":150173001,
+      "identityCard":{  
+         "number":784198849517424,
+         "issuDate":"2014-09-29T00:00:00.000+04:00",
+         "expiryDate":"2016-09-28T00:00:00.000+04:00"
+      },
+      "nationality":{  
+         "id":25,
+         "arDesc":"جمهورية الهند",
+         "enDesc":"INDIA"
+      },
+      "personName":{  
+         "fullArabicName":"لالجى شامجيث تجبال بينتو نارندهار سوره",
+         "firstNameArabic":"لالجي",
+         "secondNameArabic":"شامجيث",
+         "thirdNameArabic":"تجبال",
+         "fourthNameArabic":"بينتو",
+         "familyNameArabic":"سورة",
+         "fullEnglishName":"LALJI SHAMJITH TEJPAL PINTO NARENDHAR SURA",
+         "firstNameEnglish":"LALJI",
+         "secondNameEnglish":"SHAMJITH",
+         "thirdNameEnglish":"TEJPAL",
+         "fourthNameEnglish":"PINTO",
+         "familyNameEnglish":"SURA"
+      },
+      "gender":{  
+         "id":1,
+         "arDesc":"ذكر",
+         "enDesc":"MALE"
+      },
+      "dateOfBirth":"1988-08-25T00:00:00.000+04:00",
+      "countryOfBirth":{  
+         "id":25,
+         "arDesc":"جمهورية الهند",
+         "enDesc":"INDIA"
+      },
+      "placeOfBirthAr":"رابالا",
+      "placeOfBirthEn":"RAPALLA",
+      "maritalStatus":{  
+         "id":1,
+         "arDesc":"اعزب",
+         "enDesc":"SINGLE"
+      },
+      "religion":{  
+         "id":3,
+         "arDesc":"الهندوسية",
+         "enDesc":"HINDUISM"
+      },
+      "passport":{  
+         "number":"H2098279",
+         "type":{  
+            "id":1,
+            "arDesc":"جواز سفر عادي",
+            "enDesc":"ORDINARY PASSPORT"
+         },
+         "expiryDate":"2024-08-18T00:00:00.000+04:00",
+         "issueCountry":{  
+            "id":25,
+            "arDesc":"جمهورية الهند",
+            "enDesc":"INDIA"
+         },
+         "issuePlace":"HYDERABAD"
+      },
+      "sponsor":{  
+         "arName":"مفاهيم الفن التقنى تاكمى",
+         "enName":"TECHNICAL ART CONCEPTS TACME",
+         "department":{  
+            "id":8,
+            "arDesc":"ادارة الجنسيه والاقامة - دبى",
+            "enDesc":"NATURALIZATION AND RESIDENCY ADMINISTRATION - DUBAI"
+         },
+         "number":93475,
+         "addresses":{  
+            "address":{  
+               "localAddress":{  
+                  "emirate":{  
+                     "id":2,
+                     "arDesc":"دبي",
+                     "enDesc":"DUBAI"
+                  },
+                  "city":{  
+                     "id":43,
+                     "arDesc":"ديره",
+                     "enDesc":"DEIRA"
+                  },
+                  "area":{  
+                     "id":20209996,
+                     "arDesc":"الورقاء",
+                     "enDesc":"Al Warqaa"
+                  },
+                  "building":"واحه دبى للسيلكون",
+                  "pobox":87310,
+                  "homePhone":3365226,
+                  "fax":3365227
+               }
+            }
+         }
+      },
+      "personType":{  
+         "id":2,
+         "arDesc":"اقامه",
+         "enDesc":"Residence"
+      },
+      "immigrationFile":{  
+         "status":{  
+            "id":2004,
+            "arDesc":"منتهية / مخالف",
+            "enDesc":""
+         },
+         "number":"201/2014/2/439183",
+         "department":{  
+            "id":8,
+            "arDesc":"ادارة الجنسيه والاقامة - دبى",
+            "enDesc":"NATURALIZATION AND RESIDENCY ADMINISTRATION - DUBAI"
+         },
+         "year":2014,
+         "type":{  
+            "id":2,
+            "arDesc":"عمل",
+            "enDesc":"WORK RESIDENCE"
+         },
+         "sequence":439183,
+         "issuDate":"2014-09-29T00:00:00.000+04:00",
+         "expiryDate":"2016-09-28T00:00:00.000+04:00"
+      },
+      "occupation":{  
+         "id":13924,
+         "arDesc":"مهندس كمبيوتر",
+         "enDesc":"COMPUTER ENGINEER"
+      },
+      "motherNameAr":"ترسا",
+      "motherNameEn":"TERESA",
+      "addresses":{  
+         "address":{  
+            "localAddress":{  
+               "emirate":{  
+                  "id":2,
+                  "arDesc":"دبي",
+                  "enDesc":"DUBAI"
+               },
+               "city":{  
+                  "id":43,
+                  "arDesc":"ديره",
+                  "enDesc":"DEIRA"
+               },
+               "area":{  
+                  "id":20200263,
+                  "arDesc":"مردف",
+                  "enDesc":"MIRDEF"
+               },
+               "pobox":87310,
+               "homePhone":"043365226",
+               "workPhone":"043365226"
+            }
+         }
+      },
+      "qualification":{  
+         "specialization":{  
+            "id":5,
+            "arDesc":"بكالوريوس",
+            "enDesc":"BACHELOR"
+         }
+      },
+      "isBlackListed":false,
+      "isInsideCountry":true,
+      "familyCount":0,
+      "familyMaleCount":0,
+      "familyFemaleCount":0
+   }
+}

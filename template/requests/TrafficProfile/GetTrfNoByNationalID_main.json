@@ -1,0 +1,9 @@
+{
+  "GetTrfNoByNationalID": {
+    "request": {
+      "NationalNo": "784197369515479",
+      "UserID": "ADSSSA",
+      "SystemCode": 4
+    }
+  }
+}

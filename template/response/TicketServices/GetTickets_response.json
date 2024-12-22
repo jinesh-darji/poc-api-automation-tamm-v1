@@ -1,0 +1,139 @@
+{
+    "GetTicketsResponse": {
+        "GetTicketsResult": {
+            "Tickets": {
+                "Ticket": [
+                    {
+                        "TicketID": {
+                            "TicketNo": 10015,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-07-01T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-07-01T10:00:00",
+                        "TicketType": "A",
+                        "LocationDescAr": "ابوظبي-السميح-شارع الشيخ مكتوم بن راشد",
+                        "LocationDescEn": "ABU DHABI----Street Maktom bi rasheed",
+                        "DriverTcfNo": {
+                            "@nil": "true"
+                        },
+                        "PlateInfo": {
+                            "PlateNo": 30118,
+                            "PlateOrgNo": 0,
+                            "PlateColorCode": 51,
+                            "PlateKindCode": 1,
+                            "PlateTypeCode": {
+                                "@nil": "true"
+                            },
+                            "PlateSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": 5040000473,
+                        "IsWebPayable": true,
+                        "LateCharges": 0,
+                        "TotalAmount": 600,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 600,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1049,
+                                "MaterialArabicDesc": "تجاوز الحد الاقصى للسرعة المقررة بما لا يزيد عن 30 كم / ساعة . ",
+                                "MaterialEnglishDesc": "Exceeding speed limit by more than 20 km/h",
+                                "MaterialAmount": 600,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 600
+                            }
+                        }
+                    },
+                    {
+                        "TicketID": {
+                            "TicketNo": 10016,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-08-10T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-08-10T14:00:00",
+                        "TicketType": "A",
+                        "LocationDescAr": "ابوظبي-السمالية-طريق أم النار / الشهامة",
+                        "LocationDescEn": "ABU DHABI",
+                        "DriverTcfNo": {
+                            "@nil": "true"
+                        },
+                        "PlateInfo": {
+                            "PlateNo": 30118,
+                            "PlateOrgNo": 0,
+                            "PlateColorCode": 51,
+                            "PlateKindCode": 1,
+                            "PlateTypeCode": {
+                                "@nil": "true"
+                            },
+                            "PlateSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": 5040000473,
+                        "IsWebPayable": true,
+                        "LateCharges": 0,
+                        "TotalAmount": 300,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 300,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1050,
+                                "MaterialArabicDesc": "تجاوز الحد الاقصى للسرعة المقررة بما لا يزيد عن 20 كم / ساعة . ",
+                                "MaterialEnglishDesc": "Exceeding speed limit by more than 10 km/h",
+                                "MaterialAmount": 300,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 300
+                            }
+                        }
+                    },
+                    {
+                        "TicketID": {
+                            "TicketNo": 10017,
+                            "TicketYear": 2018,
+                            "TicketSourceCode": 1,
+                            "TicketDate": "2018-09-30T00:00:00",
+                            "IsExternalTicket": false
+                        },
+                        "TicketTime": "2018-09-30T22:00:00",
+                        "TicketType": "A",
+                        "LocationDescAr": "ابوظبي-شارع الشيخ مكتوم بن راشد",
+                        "LocationDescEn": "ABU DHABI-Street Maktom bi rasheed",
+                        "DriverTcfNo": {
+                            "@nil": "true"
+                        },
+                        "PlateInfo": {
+                            "PlateNo": 30118,
+                            "PlateOrgNo": 0,
+                            "PlateColorCode": 51,
+                            "PlateKindCode": 1,
+                            "PlateTypeCode": {
+                                "@nil": "true"
+                            },
+                            "PlateSourceCode": 1
+                        },
+                        "VehicleOwnerTcfNo": 5040000473,
+                        "IsWebPayable": true,
+                        "LateCharges": 0,
+                        "TotalAmount": 300,
+                        "DiscountRate": 0,
+                        "TotalAmountAfterDiscount": 300,
+                        "BlackPoints": 0,
+                        "MaterialsList": {
+                            "TicketMaterial": {
+                                "MaterialCode": 1050,
+                                "MaterialArabicDesc": "تجاوز الحد الاقصى للسرعة المقررة بما لا يزيد عن 20 كم / ساعة . ",
+                                "MaterialEnglishDesc": "Exceeding speed limit by more than 10 km/h",
+                                "MaterialAmount": 300,
+                                "DiscountRate": 0,
+                                "AmountAfterDiscount": 300
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

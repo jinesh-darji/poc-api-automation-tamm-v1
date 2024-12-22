@@ -1,0 +1,3588 @@
+{
+    "getProfessionResponse": {
+        "getProfessionResult": {
+            "clsLookUp": [
+                {
+                    "ID": 2126,
+                    "EnglishValue": " Aviation Medicine",
+                    "ArabicValue": "طب الطيران"
+                },
+                {
+                    "ID": 2121,
+                    "EnglishValue": " Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 2174,
+                    "EnglishValue": " Interventional Radiology",
+                    "ArabicValue": "طب الأشعة التداخلي"
+                },
+                {
+                    "ID": 2166,
+                    "EnglishValue": " Plastic Surgery",
+                    "ArabicValue": "الجراحة التجميلية"
+                },
+                {
+                    "ID": 1701,
+                    "EnglishValue": "Allergy and Immunology.",
+                    "ArabicValue": "امراض الحساسية والمناعة"
+                },
+                {
+                    "ID": 206,
+                    "EnglishValue": "Allergy and Immunology.",
+                    "ArabicValue": "امراض الحساسية والمناعة"
+                },
+                {
+                    "ID": 122,
+                    "EnglishValue": "Allergy and Immunology.",
+                    "ArabicValue": "امراض الحساسية والمناعة"
+                },
+                {
+                    "ID": 1259,
+                    "EnglishValue": "Allergy and Immunology.",
+                    "ArabicValue": "امراض الحساسية والمناعة"
+                },
+                {
+                    "ID": 2145,
+                    "EnglishValue": "Anatomic Pathology",
+                    "ArabicValue": "طب أمراض الأنسجة"
+                },
+                {
+                    "ID": 2340,
+                    "EnglishValue": "Anatomic Pathology",
+                    "ArabicValue": "طب أمراض الأنسجة"
+                },
+                {
+                    "ID": 1994,
+                    "EnglishValue": "Anatomic Pathology",
+                    "ArabicValue": "علم الأمراض التشريحي"
+                },
+                {
+                    "ID": 1995,
+                    "EnglishValue": "Anatomic Pathology",
+                    "ArabicValue": "علم الأمراض التشريحي"
+                },
+                {
+                    "ID": 915,
+                    "EnglishValue": "Anatomic Pathology/ Cytopathology",
+                    "ArabicValue": "الباثولوجيا التشريحية / علم امراض الخلايا"
+                },
+                {
+                    "ID": 1390,
+                    "EnglishValue": "Anatomic Pathology/ Cytopathology",
+                    "ArabicValue": "الباثولوجيا التشريحية / علم امراض الخلايا"
+                },
+                {
+                    "ID": 1586,
+                    "EnglishValue": "Anatomic Pathology/ Cytopathology",
+                    "ArabicValue": "الباثولوجيا التشريحية / علم امراض الخلايا"
+                },
+                {
+                    "ID": 1284,
+                    "EnglishValue": "Anatomic Pathology/ Hematopathology",
+                    "ArabicValue": "علم الأمراض التشريحي / علم امراض الدم"
+                },
+                {
+                    "ID": 921,
+                    "EnglishValue": "Anatomic Pathology/ Hematopathology",
+                    "ArabicValue": "علم الأمراض التشريحي / علم امراض الدم"
+                },
+                {
+                    "ID": 1767,
+                    "EnglishValue": "Anatomic Pathology/ Hematopathology",
+                    "ArabicValue": "علم الأمراض التشريحي / علم امراض الدم"
+                },
+                {
+                    "ID": 1389,
+                    "EnglishValue": "Anatomic and Clinical Pathology",
+                    "ArabicValue": "علم الأمراض السريرية والتشريحية"
+                },
+                {
+                    "ID": 914,
+                    "EnglishValue": "Anatomic and Clinical Pathology",
+                    "ArabicValue": "علم الأمراض السريرية والتشريحية"
+                },
+                {
+                    "ID": 1801,
+                    "EnglishValue": "Anatomic and Clinical Pathology",
+                    "ArabicValue": "علم الأمراض السريرية والتشريحية"
+                },
+                {
+                    "ID": 1308,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "تخدير"
+                },
+                {
+                    "ID": 1827,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "تخدير"
+                },
+                {
+                    "ID": 209,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "تخدير"
+                },
+                {
+                    "ID": 125,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "تخدير"
+                },
+                {
+                    "ID": 126,
+                    "EnglishValue": "Anesthesia / Pain Medicine",
+                    "ArabicValue": "التخدير / طب الألم"
+                },
+                {
+                    "ID": 1266,
+                    "EnglishValue": "Anesthesia / Pain Medicine",
+                    "ArabicValue": "التخدير / طب الألم"
+                },
+                {
+                    "ID": 1661,
+                    "EnglishValue": "Anesthesia / Pain Medicine",
+                    "ArabicValue": "التخدير / طب الألم"
+                },
+                {
+                    "ID": 127,
+                    "EnglishValue": "Anesthesia /Critical Care Medicine",
+                    "ArabicValue": "التخدير / العناية المركزة"
+                },
+                {
+                    "ID": 1070,
+                    "EnglishValue": "Anesthesia /Critical Care Medicine",
+                    "ArabicValue": "التخدير / العناية المركزة"
+                },
+                {
+                    "ID": 1612,
+                    "EnglishValue": "Anesthesia /Critical Care Medicine",
+                    "ArabicValue": "التخدير / العناية المركزة"
+                },
+                {
+                    "ID": 214,
+                    "EnglishValue": "Audiological Medicine",
+                    "ArabicValue": "طب السمع"
+                },
+                {
+                    "ID": 1567,
+                    "EnglishValue": "Audiological Medicine",
+                    "ArabicValue": "طب السمع"
+                },
+                {
+                    "ID": 1117,
+                    "EnglishValue": "Audiological Medicine",
+                    "ArabicValue": "طب السمع"
+                },
+                {
+                    "ID": 130,
+                    "EnglishValue": "Audiological Medicine",
+                    "ArabicValue": "طب السمع"
+                },
+                {
+                    "ID": 1914,
+                    "EnglishValue": "Aviation Medicine",
+                    "ArabicValue": "طب الطيران"
+                },
+                {
+                    "ID": 1928,
+                    "EnglishValue": "Aviation Medicine",
+                    "ArabicValue": "طب الطيران"
+                },
+                {
+                    "ID": 2323,
+                    "EnglishValue": "Aviation Medicine",
+                    "ArabicValue": "طب الطيران"
+                },
+                {
+                    "ID": 1587,
+                    "EnglishValue": "Blood Banking / Transfusion Medicine",
+                    "ArabicValue": "بنك الدم / طب نقل الدم"
+                },
+                {
+                    "ID": 172,
+                    "EnglishValue": "Blood Banking / Transfusion Medicine",
+                    "ArabicValue": "بنك الدم / طب نقل الدم"
+                },
+                {
+                    "ID": 256,
+                    "EnglishValue": "Blood Banking / Transfusion Medicine",
+                    "ArabicValue": "بنك الدم / طب نقل الدم"
+                },
+                {
+                    "ID": 1391,
+                    "EnglishValue": "Blood Banking / Transfusion Medicine",
+                    "ArabicValue": "بنك الدم / طب نقل الدم"
+                },
+                {
+                    "ID": 273,
+                    "EnglishValue": "Cardiac surgery",
+                    "ArabicValue": "جراحة القلب"
+                },
+                {
+                    "ID": 1745,
+                    "EnglishValue": "Cardiac surgery",
+                    "ArabicValue": "جراحة القلب"
+                },
+                {
+                    "ID": 1106,
+                    "EnglishValue": "Cardiac surgery",
+                    "ArabicValue": "جراحة القلب"
+                },
+                {
+                    "ID": 189,
+                    "EnglishValue": "Cardiac surgery",
+                    "ArabicValue": "جراحة القلب"
+                },
+                {
+                    "ID": 1410,
+                    "EnglishValue": "Cardiac surgery / Critical Care Medicine",
+                    "ArabicValue": "جراحة القلب / العناية المركزة"
+                },
+                {
+                    "ID": 1819,
+                    "EnglishValue": "Cardiac surgery / Critical Care Medicine",
+                    "ArabicValue": "جراحة القلب / العناية المركزة"
+                },
+                {
+                    "ID": 1008,
+                    "EnglishValue": "Cardiac surgery / Critical Care Medicine",
+                    "ArabicValue": "جراحة القلب / العناية المركزة"
+                },
+                {
+                    "ID": 22,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 2117,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 2116,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 2131,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 2318,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 2328,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 2034,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 223,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "الأمراض القلبية الوعائية"
+                },
+                {
+                    "ID": 47,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1990,
+                    "EnglishValue": "Cardiology/Interventional cardiology",
+                    "ArabicValue": "طب القلب/طب القلب التداخلي"
+                },
+                {
+                    "ID": 1992,
+                    "EnglishValue": "Cardiology/Interventional cardiology",
+                    "ArabicValue": "طب القلب/طب القلب التداخلي"
+                },
+                {
+                    "ID": 1945,
+                    "EnglishValue": "Cardiothoracic Surgery",
+                    "ArabicValue": "جراحة القلب و الصدر"
+                },
+                {
+                    "ID": 274,
+                    "EnglishValue": "Cardiothoracic Surgery",
+                    "ArabicValue": "جراحة القلب و الصدر"
+                },
+                {
+                    "ID": 1944,
+                    "EnglishValue": "Cardiothoracic Surgery",
+                    "ArabicValue": "جراحة القلب و الصدر"
+                },
+                {
+                    "ID": 139,
+                    "EnglishValue": "Cardiovascular Disease",
+                    "ArabicValue": "الأمراض القلبية الوعائية"
+                },
+                {
+                    "ID": 1272,
+                    "EnglishValue": "Cardiovascular Disease",
+                    "ArabicValue": "الأمراض القلبية الوعائية"
+                },
+                {
+                    "ID": 1668,
+                    "EnglishValue": "Cardiovascular Disease",
+                    "ArabicValue": "الأمراض القلبية الوعائية"
+                },
+                {
+                    "ID": 2146,
+                    "EnglishValue": "Chemical Pathology ( Clinical Biochemistry)",
+                    "ArabicValue": "طب الأمراض الكيمياء الحيوية"
+                },
+                {
+                    "ID": 2341,
+                    "EnglishValue": "Chemical Pathology ( Clinical Biochemistry)",
+                    "ArabicValue": "طب الأمراض الكيمياء الحيوية"
+                },
+                {
+                    "ID": 1898,
+                    "EnglishValue": "Child and Adolescent Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية للاطفال والمراهقين"
+                },
+                {
+                    "ID": 958,
+                    "EnglishValue": "Child and Adolescent Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية للاطفال والمراهقين"
+                },
+                {
+                    "ID": 1288,
+                    "EnglishValue": "Child and Adolescent Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية للاطفال والمراهقين"
+                },
+                {
+                    "ID": 1087,
+                    "EnglishValue": "Clinical Chemistry",
+                    "ArabicValue": "علم الكيمياء السريرية"
+                },
+                {
+                    "ID": 251,
+                    "EnglishValue": "Clinical Chemistry",
+                    "ArabicValue": "علم الكيمياء السريرية"
+                },
+                {
+                    "ID": 1680,
+                    "EnglishValue": "Clinical Chemistry",
+                    "ArabicValue": "علم الكيمياء السريرية"
+                },
+                {
+                    "ID": 167,
+                    "EnglishValue": "Clinical Chemistry",
+                    "ArabicValue": "علم الكيمياء السريرية"
+                },
+                {
+                    "ID": 872,
+                    "EnglishValue": "Clinical Genetics (MD)",
+                    "ArabicValue": "علم الوراثة السريرية (MD)"
+                },
+                {
+                    "ID": 1762,
+                    "EnglishValue": "Clinical Genetics (MD)",
+                    "ArabicValue": "علم الوراثة السريرية (MD)"
+                },
+                {
+                    "ID": 1344,
+                    "EnglishValue": "Clinical Genetics (MD)",
+                    "ArabicValue": "علم الوراثة السريرية (MD)"
+                },
+                {
+                    "ID": 1977,
+                    "EnglishValue": "Clinical Hematology",
+                    "ArabicValue": "الامراض الباطنية / أمراض الدم"
+                },
+                {
+                    "ID": 1979,
+                    "EnglishValue": "Clinical Hematology",
+                    "ArabicValue": "الامراض الباطنية / أمراض الدم"
+                },
+                {
+                    "ID": 1978,
+                    "EnglishValue": "Clinical Hematology",
+                    "ArabicValue": "الامراض الباطنية / أمراض الدم"
+                },
+                {
+                    "ID": 2381,
+                    "EnglishValue": "Clinical Hematology",
+                    "ArabicValue": "طب علم أمراض الدم"
+                },
+                {
+                    "ID": 2380,
+                    "EnglishValue": "Clinical Hematology",
+                    "ArabicValue": "طب علم أمراض الدم"
+                },
+                {
+                    "ID": 2345,
+                    "EnglishValue": "Clinical Immunology",
+                    "ArabicValue": "طب المناعة السريرية"
+                },
+                {
+                    "ID": 2150,
+                    "EnglishValue": "Clinical Immunology",
+                    "ArabicValue": "طب المناعة السريرية"
+                },
+                {
+                    "ID": 123,
+                    "EnglishValue": "Clinical Immunology",
+                    "ArabicValue": "علم المناعة السريري"
+                },
+                {
+                    "ID": 1561,
+                    "EnglishValue": "Clinical Immunology",
+                    "ArabicValue": "علم المناعة السريري"
+                },
+                {
+                    "ID": 1064,
+                    "EnglishValue": "Clinical Immunology",
+                    "ArabicValue": "علم المناعة السريري"
+                },
+                {
+                    "ID": 207,
+                    "EnglishValue": "Clinical Immunology",
+                    "ArabicValue": "علم المناعة السريري"
+                },
+                {
+                    "ID": 1833,
+                    "EnglishValue": "Clinical Immunology and Allergy",
+                    "ArabicValue": "امراض المناعة السريرية والحساسية"
+                },
+                {
+                    "ID": 1166,
+                    "EnglishValue": "Clinical Immunology and Allergy",
+                    "ArabicValue": "امراض المناعة السريرية والحساسية"
+                },
+                {
+                    "ID": 851,
+                    "EnglishValue": "Clinical Immunology and Allergy",
+                    "ArabicValue": "امراض المناعة السريرية والحساسية"
+                },
+                {
+                    "ID": 1687,
+                    "EnglishValue": "Clinical Immunology and Allergy",
+                    "ArabicValue": "امراض المناعة السريرية والحساسية"
+                },
+                {
+                    "ID": 1401,
+                    "EnglishValue": "Clinical Immunology and Allergy",
+                    "ArabicValue": "امراض المناعة السريرية والحساسية"
+                },
+                {
+                    "ID": 991,
+                    "EnglishValue": "Clinical Immunology and Allergy",
+                    "ArabicValue": "امراض المناعة السريرية والحساسية"
+                },
+                {
+                    "ID": 250,
+                    "EnglishValue": "Clinical Pathology",
+                    "ArabicValue": "علم الامراض السريرية"
+                },
+                {
+                    "ID": 1232,
+                    "EnglishValue": "Clinical Pathology",
+                    "ArabicValue": "علم الامراض السريرية"
+                },
+                {
+                    "ID": 1799,
+                    "EnglishValue": "Clinical Pathology",
+                    "ArabicValue": "علم الامراض السريرية"
+                },
+                {
+                    "ID": 166,
+                    "EnglishValue": "Clinical Pathology",
+                    "ArabicValue": "علم الامراض السريرية"
+                },
+                {
+                    "ID": 898,
+                    "EnglishValue": "Clinical Pathology/ Chemical Pathology",
+                    "ArabicValue": "علم الامراض السريرية/ علم الأمراض الكيميائية"
+                },
+                {
+                    "ID": 1723,
+                    "EnglishValue": "Clinical Pathology/ Chemical Pathology",
+                    "ArabicValue": "علم الامراض السريرية/ علم الأمراض الكيميائية"
+                },
+                {
+                    "ID": 1179,
+                    "EnglishValue": "Clinical Pathology/ Chemical Pathology",
+                    "ArabicValue": "علم الامراض السريرية/ علم الأمراض الكيميائية"
+                },
+                {
+                    "ID": 900,
+                    "EnglishValue": "Clinical Pathology/ Hematopathology",
+                    "ArabicValue": "علم الامراض السريرية/ علم امراض الدم"
+                },
+                {
+                    "ID": 1681,
+                    "EnglishValue": "Clinical Pathology/ Hematopathology",
+                    "ArabicValue": "علم الامراض السريرية/ علم امراض الدم"
+                },
+                {
+                    "ID": 1178,
+                    "EnglishValue": "Clinical Pathology/ Hematopathology",
+                    "ArabicValue": "علم الامراض السريرية/ علم امراض الدم"
+                },
+                {
+                    "ID": 901,
+                    "EnglishValue": "Clinical Pathology/ Medical Microbiology",
+                    "ArabicValue": "علم الامراض السريرية / علم الأحياء الدقيقة"
+                },
+                {
+                    "ID": 1726,
+                    "EnglishValue": "Clinical Pathology/ Medical Microbiology",
+                    "ArabicValue": "علم الامراض السريرية / علم الأحياء الدقيقة"
+                },
+                {
+                    "ID": 1321,
+                    "EnglishValue": "Clinical Pathology/ Medical Microbiology",
+                    "ArabicValue": "علم الامراض السريرية / علم الأحياء الدقيقة"
+                },
+                {
+                    "ID": 1721,
+                    "EnglishValue": "Clinical and Anatomical Pathology",
+                    "ArabicValue": "علم الأمراض السريرية والتشريحية"
+                },
+                {
+                    "ID": 1351,
+                    "EnglishValue": "Clinical and Anatomical Pathology",
+                    "ArabicValue": "علم الأمراض السريرية والتشريحية"
+                },
+                {
+                    "ID": 894,
+                    "EnglishValue": "Clinical and Anatomical Pathology",
+                    "ArabicValue": "علم الأمراض السريرية والتشريحية"
+                },
+                {
+                    "ID": 132,
+                    "EnglishValue": "Community Medicine.",
+                    "ArabicValue": "طب المجتمع"
+                },
+                {
+                    "ID": 216,
+                    "EnglishValue": "Community Medicine.",
+                    "ArabicValue": "طب المجتمع"
+                },
+                {
+                    "ID": 1874,
+                    "EnglishValue": "Community Medicine.",
+                    "ArabicValue": "طب المجتمع"
+                },
+                {
+                    "ID": 1160,
+                    "EnglishValue": "Community Medicine.",
+                    "ArabicValue": "طب المجتمع"
+                },
+                {
+                    "ID": 2062,
+                    "EnglishValue": "Critical Care Med / Infectious Diseases",
+                    "ArabicValue": "طب العناية المركزة/ الامراض المعدية"
+                },
+                {
+                    "ID": 2063,
+                    "EnglishValue": "Critical Care Med / Infectious Diseases",
+                    "ArabicValue": "طب العناية المركزة/ الامراض المعدية"
+                },
+                {
+                    "ID": 1615,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 857,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1124,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1210,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1791,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 812,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1675,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 887,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1277,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1163,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 138,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1660,
+                    "EnglishValue": "Critical Care Medicine",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 133,
+                    "EnglishValue": "Critical Care Medicine.",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1118,
+                    "EnglishValue": "Critical Care Medicine.",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 217,
+                    "EnglishValue": "Critical Care Medicine.",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1787,
+                    "EnglishValue": "Critical Care Medicine.",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 218,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": "طب الأمراض الجلدية"
+                },
+                {
+                    "ID": 1757,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": "طب الأمراض الجلدية"
+                },
+                {
+                    "ID": 134,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": "طب الأمراض الجلدية"
+                },
+                {
+                    "ID": 1339,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": "طب الأمراض الجلدية"
+                },
+                {
+                    "ID": 24,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1269,
+                    "EnglishValue": "Dermatology / Dermatopathology",
+                    "ArabicValue": "طب الأمراض الجلدية / مختبر"
+                },
+                {
+                    "ID": 817,
+                    "EnglishValue": "Dermatology / Dermatopathology",
+                    "ArabicValue": "طب الأمراض الجلدية / مختبر"
+                },
+                {
+                    "ID": 1788,
+                    "EnglishValue": "Dermatology / Dermatopathology",
+                    "ArabicValue": "طب الأمراض الجلدية / مختبر"
+                },
+                {
+                    "ID": 136,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1043,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 220,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1119,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1154,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1830,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1784,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1045,
+                    "EnglishValue": "Diagnostic Radiology/ Neuroradiology",
+                    "ArabicValue": "الأشعة التشخيصية / الاعصاب"
+                },
+                {
+                    "ID": 1871,
+                    "EnglishValue": "Diagnostic Radiology/ Neuroradiology",
+                    "ArabicValue": "الأشعة التشخيصية / الاعصاب"
+                },
+                {
+                    "ID": 1157,
+                    "EnglishValue": "Diagnostic Radiology/ Neuroradiology",
+                    "ArabicValue": "الأشعة التشخيصية / الاعصاب"
+                },
+                {
+                    "ID": 1564,
+                    "EnglishValue": "Emergency Medical Services",
+                    "ArabicValue": "الخدمات الطبية الطارئة"
+                },
+                {
+                    "ID": 799,
+                    "EnglishValue": "Emergency Medical Services",
+                    "ArabicValue": "الخدمات الطبية الطارئة"
+                },
+                {
+                    "ID": 1065,
+                    "EnglishValue": "Emergency Medical Services",
+                    "ArabicValue": "الخدمات الطبية الطارئة"
+                },
+                {
+                    "ID": 1307,
+                    "EnglishValue": "Emergency Medicine / Sports Medicine",
+                    "ArabicValue": "طب الطوارئ / الطب الرياضي"
+                },
+                {
+                    "ID": 1654,
+                    "EnglishValue": "Emergency Medicine / Sports Medicine",
+                    "ArabicValue": "طب الطوارئ / الطب الرياضي"
+                },
+                {
+                    "ID": 797,
+                    "EnglishValue": "Emergency Medicine / Sports Medicine",
+                    "ArabicValue": "طب الطوارئ / الطب الرياضي"
+                },
+                {
+                    "ID": 1263,
+                    "EnglishValue": "Emergency Medicine / Undersea and Hyperbaric Medicine",
+                    "ArabicValue": "طب الطوارئ / طب الاعماق والعلاج بالاكسجين المضغوط"
+                },
+                {
+                    "ID": 798,
+                    "EnglishValue": "Emergency Medicine / Undersea and Hyperbaric Medicine",
+                    "ArabicValue": "طب الطوارئ / طب الاعماق والعلاج بالاكسجين المضغوط"
+                },
+                {
+                    "ID": 1657,
+                    "EnglishValue": "Emergency Medicine / Undersea and Hyperbaric Medicine",
+                    "ArabicValue": "طب الطوارئ / طب الاعماق والعلاج بالاكسجين المضغوط"
+                },
+                {
+                    "ID": 1306,
+                    "EnglishValue": "Emergency Medicine.",
+                    "ArabicValue": "طب الطوارئ"
+                },
+                {
+                    "ID": 124,
+                    "EnglishValue": "Emergency Medicine.",
+                    "ArabicValue": "طب الطوارئ"
+                },
+                {
+                    "ID": 1652,
+                    "EnglishValue": "Emergency Medicine.",
+                    "ArabicValue": "طب الطوارئ"
+                },
+                {
+                    "ID": 1115,
+                    "EnglishValue": "Emergency Medicine/ Critical Care",
+                    "ArabicValue": "طب الطوارئ / العناية المركزة"
+                },
+                {
+                    "ID": 1702,
+                    "EnglishValue": "Emergency Medicine/ Critical Care",
+                    "ArabicValue": "طب الطوارئ / العناية المركزة"
+                },
+                {
+                    "ID": 790,
+                    "EnglishValue": "Emergency Medicine/ Critical Care",
+                    "ArabicValue": "طب الطوارئ / العناية المركزة"
+                },
+                {
+                    "ID": 1989,
+                    "EnglishValue": "Endocrinology",
+                    "ArabicValue": "طب الغدد الصماء"
+                },
+                {
+                    "ID": 1991,
+                    "EnglishValue": "Endocrinology",
+                    "ArabicValue": "طب الغدد الصماء"
+                },
+                {
+                    "ID": 1077,
+                    "EnglishValue": "Endocrinology, Diabetes and Metabolic Diseases.",
+                    "ArabicValue": "الغدد الصماء والسكري وأمراض الايض"
+                },
+                {
+                    "ID": 141,
+                    "EnglishValue": "Endocrinology, Diabetes and Metabolic Diseases.",
+                    "ArabicValue": "الغدد الصماء والسكري وأمراض الايض"
+                },
+                {
+                    "ID": 225,
+                    "EnglishValue": "Endocrinology, Diabetes and Metabolic Diseases.",
+                    "ArabicValue": "الغدد الصماء والسكري وأمراض الايض"
+                },
+                {
+                    "ID": 1713,
+                    "EnglishValue": "Endocrinology, Diabetes and Metabolic Diseases.",
+                    "ArabicValue": "الغدد الصماء والسكري وأمراض الايض"
+                },
+                {
+                    "ID": 386,
+                    "EnglishValue": "Endodontics",
+                    "ArabicValue": "علاج لب الأسنان والجذور"
+                },
+                {
+                    "ID": 373,
+                    "EnglishValue": "Endodontics",
+                    "ArabicValue": "علاج لب الأسنان والجذور"
+                },
+                {
+                    "ID": 14,
+                    "EnglishValue": "Endodontics",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1760,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 237,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 153,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 1380,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 861,
+                    "EnglishValue": "Family Medicine / Adolescent Medicine",
+                    "ArabicValue": "طب الأسرة / طب المراهقين"
+                },
+                {
+                    "ID": 1173,
+                    "EnglishValue": "Family Medicine / Adolescent Medicine",
+                    "ArabicValue": "طب الأسرة / طب المراهقين"
+                },
+                {
+                    "ID": 1841,
+                    "EnglishValue": "Family Medicine / Adolescent Medicine",
+                    "ArabicValue": "طب الأسرة / طب المراهقين"
+                },
+                {
+                    "ID": 1079,
+                    "EnglishValue": "Family Medicine / Hospice and Palliative Medicine",
+                    "ArabicValue": "طب الأسرة / طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1715,
+                    "EnglishValue": "Family Medicine / Hospice and Palliative Medicine",
+                    "ArabicValue": "طب الأسرة / طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 863,
+                    "EnglishValue": "Family Medicine / Hospice and Palliative Medicine",
+                    "ArabicValue": "طب الأسرة / طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1966,
+                    "EnglishValue": "Family Medicine / Pain Medicine",
+                    "ArabicValue": "طب الاسرة / طب الألـم"
+                },
+                {
+                    "ID": 1965,
+                    "EnglishValue": "Family Medicine / Pain Medicine",
+                    "ArabicValue": "طب الاسرة / طب الألـم"
+                },
+                {
+                    "ID": 1997,
+                    "EnglishValue": "Forensic Dentistry",
+                    "ArabicValue": "استشاري طب الاسنان الشرعي"
+                },
+                {
+                    "ID": 1999,
+                    "EnglishValue": "Forensic Dentistry",
+                    "ArabicValue": "الطب الشرعي"
+                },
+                {
+                    "ID": 1063,
+                    "EnglishValue": "GP Dentist",
+                    "ArabicValue": "طبيب أسنان عام"
+                },
+                {
+                    "ID": 226,
+                    "EnglishValue": "Gastroenterology",
+                    "ArabicValue": "أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 1377,
+                    "EnglishValue": "Gastroenterology",
+                    "ArabicValue": "أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 142,
+                    "EnglishValue": "Gastroenterology",
+                    "ArabicValue": "أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 1569,
+                    "EnglishValue": "Gastroenterology",
+                    "ArabicValue": "أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 191,
+                    "EnglishValue": "Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1869,
+                    "EnglishValue": "Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1647,
+                    "EnglishValue": "Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1415,
+                    "EnglishValue": "Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 275,
+                    "EnglishValue": "Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1022,
+                    "EnglishValue": "Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1257,
+                    "EnglishValue": "Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 2067,
+                    "EnglishValue": "General Dentist",
+                    "ArabicValue": "اسنان عام"
+                },
+                {
+                    "ID": 2120,
+                    "EnglishValue": "General Dentist",
+                    "ArabicValue": "طبيب اسنان عام "
+                },
+                {
+                    "ID": 178,
+                    "EnglishValue": "General Pediatric",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 1775,
+                    "EnglishValue": "General Pediatric",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 262,
+                    "EnglishValue": "General Pediatric",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 1194,
+                    "EnglishValue": "General Pediatric",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 2066,
+                    "EnglishValue": "General Practitioner",
+                    "ArabicValue": "ممارس عام"
+                },
+                {
+                    "ID": 2118,
+                    "EnglishValue": "General Practitioner ",
+                    "ArabicValue": "طبيب ممارس عام"
+                },
+                {
+                    "ID": 1695,
+                    "EnglishValue": "General Surger/ Pediatric Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة الأطفال"
+                },
+                {
+                    "ID": 1013,
+                    "EnglishValue": "General Surger/ Pediatric Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة الأطفال"
+                },
+                {
+                    "ID": 1152,
+                    "EnglishValue": "General Surger/ Pediatric Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة الأطفال"
+                },
+                {
+                    "ID": 1602,
+                    "EnglishValue": "General Surgery",
+                    "ArabicValue": "جراحة عامة"
+                },
+                {
+                    "ID": 276,
+                    "EnglishValue": "General Surgery",
+                    "ArabicValue": "جراحة عامة"
+                },
+                {
+                    "ID": 63,
+                    "EnglishValue": "General Surgery",
+                    "ArabicValue": "جراحة عامة"
+                },
+                {
+                    "ID": 192,
+                    "EnglishValue": "General Surgery",
+                    "ArabicValue": "جراحة عامة"
+                },
+                {
+                    "ID": 1254,
+                    "EnglishValue": "General Surgery",
+                    "ArabicValue": "جراحة عامة"
+                },
+                {
+                    "ID": 1019,
+                    "EnglishValue": "General Surgery/ Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1297,
+                    "EnglishValue": "General Surgery/ Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1779,
+                    "EnglishValue": "General Surgery/ Gastrointestinal Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1817,
+                    "EnglishValue": "General Surgery/ Surgical Critical Care",
+                    "ArabicValue": "جراحة عامة / العناية المركزة الجراحية"
+                },
+                {
+                    "ID": 1015,
+                    "EnglishValue": "General Surgery/ Surgical Critical Care",
+                    "ArabicValue": "جراحة عامة / العناية المركزة الجراحية"
+                },
+                {
+                    "ID": 1330,
+                    "EnglishValue": "General Surgery/ Surgical Critical Care",
+                    "ArabicValue": "جراحة عامة / العناية المركزة الجراحية"
+                },
+                {
+                    "ID": 1923,
+                    "EnglishValue": "General Surgery/ Traumatology",
+                    "ArabicValue": "جراحة عامة / إصابات"
+                },
+                {
+                    "ID": 1920,
+                    "EnglishValue": "General Surgery/ Traumatology",
+                    "ArabicValue": "جراحة عامة / إصابات"
+                },
+                {
+                    "ID": 1924,
+                    "EnglishValue": "General Surgery/ Traumatology",
+                    "ArabicValue": "جراحة عامة / إصابات"
+                },
+                {
+                    "ID": 1301,
+                    "EnglishValue": "General Surgery/ Urology",
+                    "ArabicValue": "جراحة عامة / جراحة المسالك البولية"
+                },
+                {
+                    "ID": 1016,
+                    "EnglishValue": "General Surgery/ Urology",
+                    "ArabicValue": "جراحة عامة / جراحة المسالك البولية"
+                },
+                {
+                    "ID": 1823,
+                    "EnglishValue": "General Surgery/ Urology",
+                    "ArabicValue": "جراحة عامة / جراحة المسالك البولية"
+                },
+                {
+                    "ID": 1748,
+                    "EnglishValue": "General Surgery/ Vascular",
+                    "ArabicValue": "جراحة عامة / جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1011,
+                    "EnglishValue": "General Surgery/ Vascular",
+                    "ArabicValue": "جراحة عامة / جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1202,
+                    "EnglishValue": "General Surgery/ Vascular",
+                    "ArabicValue": "جراحة عامة / جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1017,
+                    "EnglishValue": "General Surgery/Plastic Surgery",
+                    "ArabicValue": "جراحة عامة / الجراحة التجميلية"
+                },
+                {
+                    "ID": 1749,
+                    "EnglishValue": "General Surgery/Plastic Surgery",
+                    "ArabicValue": "جراحة عامة / الجراحة التجميلية"
+                },
+                {
+                    "ID": 1336,
+                    "EnglishValue": "General Surgery/Plastic Surgery",
+                    "ArabicValue": "جراحة عامة / الجراحة التجميلية"
+                },
+                {
+                    "ID": 1949,
+                    "EnglishValue": "General Surgey /Colon and Rectal Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة القولون و المستقيم"
+                },
+                {
+                    "ID": 1948,
+                    "EnglishValue": "General Surgey /Colon and Rectal Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة القولون و المستقيم"
+                },
+                {
+                    "ID": 1950,
+                    "EnglishValue": "General Surgey /Colon and Rectal Surgery",
+                    "ArabicValue": "جراحة عامة / جراحة القولون و المستقيم"
+                },
+                {
+                    "ID": 1378,
+                    "EnglishValue": "Geriatric Medicine",
+                    "ArabicValue": "طب الشيخوخة"
+                },
+                {
+                    "ID": 1319,
+                    "EnglishValue": "Geriatric Medicine",
+                    "ArabicValue": "طب الشيخوخة"
+                },
+                {
+                    "ID": 1621,
+                    "EnglishValue": "Geriatric Medicine",
+                    "ArabicValue": "طب الشيخوخة"
+                },
+                {
+                    "ID": 1878,
+                    "EnglishValue": "Geriatric Medicine",
+                    "ArabicValue": "طب الشيخوخة"
+                },
+                {
+                    "ID": 867,
+                    "EnglishValue": "Geriatric Medicine",
+                    "ArabicValue": "طب الشيخوخة"
+                },
+                {
+                    "ID": 143,
+                    "EnglishValue": "Geriatric Medicine",
+                    "ArabicValue": "طب الشيخوخة"
+                },
+                {
+                    "ID": 227,
+                    "EnglishValue": "Geriatric Medicine",
+                    "ArabicValue": "طب الشيخوخة"
+                },
+                {
+                    "ID": 1845,
+                    "EnglishValue": "Gynecological Oncology",
+                    "ArabicValue": "الأورام النسائية"
+                },
+                {
+                    "ID": 891,
+                    "EnglishValue": "Gynecological Oncology",
+                    "ArabicValue": "الأورام النسائية"
+                },
+                {
+                    "ID": 1348,
+                    "EnglishValue": "Gynecological Oncology",
+                    "ArabicValue": "الأورام النسائية"
+                },
+                {
+                    "ID": 144,
+                    "EnglishValue": "Hematology",
+                    "ArabicValue": "طب امراض الدم"
+                },
+                {
+                    "ID": 168,
+                    "EnglishValue": "Hematology",
+                    "ArabicValue": "علم امراض الدم"
+                },
+                {
+                    "ID": 2003,
+                    "EnglishValue": "Hematology/ Medical Oncology",
+                    "ArabicValue": "علم الدم/طب الأورام"
+                },
+                {
+                    "ID": 2002,
+                    "EnglishValue": "Hematology/ Medical Oncology",
+                    "ArabicValue": "علم الدم/طب الأورام"
+                },
+                {
+                    "ID": 1986,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "طب امراض الدم"
+                },
+                {
+                    "ID": 1982,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "طب امراض الدم"
+                },
+                {
+                    "ID": 1981,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "طب امراض الدم"
+                },
+                {
+                    "ID": 1984,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "طب امراض الدم"
+                },
+                {
+                    "ID": 1980,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "طب امراض الدم"
+                },
+                {
+                    "ID": 1985,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "طب امراض الدم"
+                },
+                {
+                    "ID": 1987,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "علم امراض الدم"
+                },
+                {
+                    "ID": 1983,
+                    "EnglishValue": "Hematopathology",
+                    "ArabicValue": "علم امراض الدم"
+                },
+                {
+                    "ID": 912,
+                    "EnglishValue": "Hematopathology /Transfusion Medicine",
+                    "ArabicValue": "علم امراض الدم /طب نقل الدم"
+                },
+                {
+                    "ID": 170,
+                    "EnglishValue": "Histopathology",
+                    "ArabicValue": "علم امراض الانسجة"
+                },
+                {
+                    "ID": 1584,
+                    "EnglishValue": "Histopathology",
+                    "ArabicValue": "علم امراض الانسجة"
+                },
+                {
+                    "ID": 1134,
+                    "EnglishValue": "Histopathology",
+                    "ArabicValue": "علم امراض الانسجة"
+                },
+                {
+                    "ID": 254,
+                    "EnglishValue": "Histopathology",
+                    "ArabicValue": "علم امراض الانسجة"
+                },
+                {
+                    "ID": 995,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1111,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1649,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 800,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 889,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 961,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1020,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1228,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1287,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1337,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1343,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1797,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1880,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1211,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1242,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1650,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 868,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 935,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1755,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 815,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1224,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1261,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1053,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1398,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 852,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1753,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1761,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1855,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1591,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1902,
+                    "EnglishValue": "Hospice and Palliative Medicine",
+                    "ArabicValue": "طب العلاج التلطيفي"
+                },
+                {
+                    "ID": 1582,
+                    "EnglishValue": "Immunology",
+                    "ArabicValue": "علم امراض المناعة"
+                },
+                {
+                    "ID": 175,
+                    "EnglishValue": "Immunology",
+                    "ArabicValue": "علم امراض المناعة"
+                },
+                {
+                    "ID": 259,
+                    "EnglishValue": "Immunology",
+                    "ArabicValue": "علم امراض المناعة"
+                },
+                {
+                    "ID": 1279,
+                    "EnglishValue": "Immunology",
+                    "ArabicValue": "علم امراض المناعة"
+                },
+                {
+                    "ID": 1121,
+                    "EnglishValue": "Infectious Diseases",
+                    "ArabicValue": "الأمراض المعدية"
+                },
+                {
+                    "ID": 1879,
+                    "EnglishValue": "Infectious Diseases",
+                    "ArabicValue": "الأمراض المعدية"
+                },
+                {
+                    "ID": 229,
+                    "EnglishValue": "Infectious Diseases",
+                    "ArabicValue": "الأمراض المعدية"
+                },
+                {
+                    "ID": 145,
+                    "EnglishValue": "Infectious Diseases",
+                    "ArabicValue": "الأمراض المعدية"
+                },
+                {
+                    "ID": 230,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 1708,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 146,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 1164,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 2020,
+                    "EnglishValue": "Internal Medicine / Pulmonary Disease / Critical Care Medicine",
+                    "ArabicValue": "الامراض الباطنية / أمراض الجهاز التنفسي/ طب العناية المركزة"
+                },
+                {
+                    "ID": 2022,
+                    "EnglishValue": "Internal Medicine /Gastroenterology and Hepatology",
+                    "ArabicValue": "طب امراض الباطنية / امراض جهاز هضمي/طب أمراض الكبد"
+                },
+                {
+                    "ID": 832,
+                    "EnglishValue": "Internal Medicine/  Infectious Diseases",
+                    "ArabicValue": "الامراض الباطنية / الأمراض المعدية"
+                },
+                {
+                    "ID": 1883,
+                    "EnglishValue": "Internal Medicine/  Infectious Diseases",
+                    "ArabicValue": "الامراض الباطنية / الأمراض المعدية"
+                },
+                {
+                    "ID": 1075,
+                    "EnglishValue": "Internal Medicine/  Infectious Diseases",
+                    "ArabicValue": "الامراض الباطنية / الأمراض المعدية"
+                },
+                {
+                    "ID": 1126,
+                    "EnglishValue": "Internal Medicine/  Nephrology",
+                    "ArabicValue": "الامراض الباطنية / أمراض الكلى"
+                },
+                {
+                    "ID": 1711,
+                    "EnglishValue": "Internal Medicine/  Nephrology",
+                    "ArabicValue": "الامراض الباطنية / أمراض الكلى"
+                },
+                {
+                    "ID": 835,
+                    "EnglishValue": "Internal Medicine/  Nephrology",
+                    "ArabicValue": "الامراض الباطنية / أمراض الكلى"
+                },
+                {
+                    "ID": 1315,
+                    "EnglishValue": "Internal Medicine/  Pulmonary Disease",
+                    "ArabicValue": "الامراض الباطنية / الأمراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 1835,
+                    "EnglishValue": "Internal Medicine/  Pulmonary Disease",
+                    "ArabicValue": "الامراض الباطنية / الأمراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 836,
+                    "EnglishValue": "Internal Medicine/  Pulmonary Disease",
+                    "ArabicValue": "الامراض الباطنية / الأمراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 1167,
+                    "EnglishValue": "Internal Medicine/  Rheumatology",
+                    "ArabicValue": "الامراض الباطنية /طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 837,
+                    "EnglishValue": "Internal Medicine/  Rheumatology",
+                    "ArabicValue": "الامراض الباطنية /طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 1834,
+                    "EnglishValue": "Internal Medicine/  Rheumatology",
+                    "ArabicValue": "الامراض الباطنية /طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 1836,
+                    "EnglishValue": "Internal Medicine/ Cardiovascular Disease",
+                    "ArabicValue": "الامراض الباطنية / الأمراض القلبية والوعائية"
+                },
+                {
+                    "ID": 1220,
+                    "EnglishValue": "Internal Medicine/ Cardiovascular Disease",
+                    "ArabicValue": "الامراض الباطنية / الأمراض القلبية والوعائية"
+                },
+                {
+                    "ID": 825,
+                    "EnglishValue": "Internal Medicine/ Cardiovascular Disease",
+                    "ArabicValue": "الامراض الباطنية / الأمراض القلبية والوعائية"
+                },
+                {
+                    "ID": 826,
+                    "EnglishValue": "Internal Medicine/ Clinical Cardiac Electrophysiology",
+                    "ArabicValue": "الامراض الباطنية/ كهربائية القلب"
+                },
+                {
+                    "ID": 1222,
+                    "EnglishValue": "Internal Medicine/ Clinical Cardiac Electrophysiology",
+                    "ArabicValue": "الامراض الباطنية/ كهربائية القلب"
+                },
+                {
+                    "ID": 1620,
+                    "EnglishValue": "Internal Medicine/ Clinical Cardiac Electrophysiology",
+                    "ArabicValue": "الامراض الباطنية/ كهربائية القلب"
+                },
+                {
+                    "ID": 1078,
+                    "EnglishValue": "Internal Medicine/ Clinical Immunology and Allergy",
+                    "ArabicValue": "الامراض الباطنية /امراض الحساسية والمناعة السريرية"
+                },
+                {
+                    "ID": 1884,
+                    "EnglishValue": "Internal Medicine/ Clinical Immunology and Allergy",
+                    "ArabicValue": "الامراض الباطنية /امراض الحساسية والمناعة السريرية"
+                },
+                {
+                    "ID": 823,
+                    "EnglishValue": "Internal Medicine/ Clinical Immunology and Allergy",
+                    "ArabicValue": "الامراض الباطنية /امراض الحساسية والمناعة السريرية"
+                },
+                {
+                    "ID": 827,
+                    "EnglishValue": "Internal Medicine/ Critical Care Medicine",
+                    "ArabicValue": "الامراض الباطنية/ العناية المركزة"
+                },
+                {
+                    "ID": 1837,
+                    "EnglishValue": "Internal Medicine/ Critical Care Medicine",
+                    "ArabicValue": "الامراض الباطنية/ العناية المركزة"
+                },
+                {
+                    "ID": 1128,
+                    "EnglishValue": "Internal Medicine/ Critical Care Medicine",
+                    "ArabicValue": "الامراض الباطنية/ العناية المركزة"
+                },
+                {
+                    "ID": 828,
+                    "EnglishValue": "Internal Medicine/ Endocrinology, Diabetes and Metabolic Diseases.",
+                    "ArabicValue": "الامراض الباطنية / الغدد الصماء والسكري وأمراض الايض"
+                },
+                {
+                    "ID": 1317,
+                    "EnglishValue": "Internal Medicine/ Endocrinology, Diabetes and Metabolic Diseases.",
+                    "ArabicValue": "الامراض الباطنية / الغدد الصماء والسكري وأمراض الايض"
+                },
+                {
+                    "ID": 1671,
+                    "EnglishValue": "Internal Medicine/ Endocrinology, Diabetes and Metabolic Diseases.",
+                    "ArabicValue": "الامراض الباطنية / الغدد الصماء والسكري وأمراض الايض"
+                },
+                {
+                    "ID": 1881,
+                    "EnglishValue": "Internal Medicine/ Gastroenterology",
+                    "ArabicValue": "الامراض الباطنية/ أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 1072,
+                    "EnglishValue": "Internal Medicine/ Gastroenterology",
+                    "ArabicValue": "الامراض الباطنية/ أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 829,
+                    "EnglishValue": "Internal Medicine/ Gastroenterology",
+                    "ArabicValue": "الامراض الباطنية/ أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 1882,
+                    "EnglishValue": "Internal Medicine/ Geriatric Medicine",
+                    "ArabicValue": "الامراض الباطنية / طب الشيخوخة"
+                },
+                {
+                    "ID": 830,
+                    "EnglishValue": "Internal Medicine/ Geriatric Medicine",
+                    "ArabicValue": "الامراض الباطنية / طب الشيخوخة"
+                },
+                {
+                    "ID": 1219,
+                    "EnglishValue": "Internal Medicine/ Geriatric Medicine",
+                    "ArabicValue": "الامراض الباطنية / طب الشيخوخة"
+                },
+                {
+                    "ID": 2050,
+                    "EnglishValue": "Internal Medicine/ Hematology",
+                    "ArabicValue": "علم الدم/طب الأمراض الباطنية"
+                },
+                {
+                    "ID": 2051,
+                    "EnglishValue": "Internal Medicine/ Hematology",
+                    "ArabicValue": "علم الدم/طب الأمراض الباطنية"
+                },
+                {
+                    "ID": 1076,
+                    "EnglishValue": "Internal Medicine/ Interventional Cardiology",
+                    "ArabicValue": "الامراض الباطنية / طب القلب التداخلي"
+                },
+                {
+                    "ID": 1618,
+                    "EnglishValue": "Internal Medicine/ Interventional Cardiology",
+                    "ArabicValue": "الامراض الباطنية / طب القلب التداخلي"
+                },
+                {
+                    "ID": 833,
+                    "EnglishValue": "Internal Medicine/ Interventional Cardiology",
+                    "ArabicValue": "الامراض الباطنية / طب القلب التداخلي"
+                },
+                {
+                    "ID": 1669,
+                    "EnglishValue": "Internal Medicine/ Medical Oncology",
+                    "ArabicValue": "الامراض الباطنية / علم الأورام"
+                },
+                {
+                    "ID": 834,
+                    "EnglishValue": "Internal Medicine/ Medical Oncology",
+                    "ArabicValue": "الامراض الباطنية / علم الأورام"
+                },
+                {
+                    "ID": 1073,
+                    "EnglishValue": "Internal Medicine/ Medical Oncology",
+                    "ArabicValue": "الامراض الباطنية / علم الأورام"
+                },
+                {
+                    "ID": 841,
+                    "EnglishValue": "Internal Medicine/ Neurology",
+                    "ArabicValue": "الامراض الباطنية / امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 1792,
+                    "EnglishValue": "Internal Medicine/ Neurology",
+                    "ArabicValue": "الامراض الباطنية / امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 1165,
+                    "EnglishValue": "Internal Medicine/ Neurology",
+                    "ArabicValue": "الامراض الباطنية / امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 1709,
+                    "EnglishValue": "Interventional Cardiology",
+                    "ArabicValue": "طب القلب التداخلي"
+                },
+                {
+                    "ID": 2123,
+                    "EnglishValue": "Interventional Cardiology",
+                    "ArabicValue": "طب القلب التداخلي"
+                },
+                {
+                    "ID": 1217,
+                    "EnglishValue": "Interventional Cardiology",
+                    "ArabicValue": "طب القلب التداخلي"
+                },
+                {
+                    "ID": 856,
+                    "EnglishValue": "Interventional Cardiology",
+                    "ArabicValue": "طب القلب التداخلي"
+                },
+                {
+                    "ID": 2320,
+                    "EnglishValue": "Interventional Cardiology",
+                    "ArabicValue": "طب القلب التداخلي"
+                },
+                {
+                    "ID": 2030,
+                    "EnglishValue": "Interventional Radiology",
+                    "ArabicValue": "طب الأشعة التداخلي"
+                },
+                {
+                    "ID": 2369,
+                    "EnglishValue": "Interventional Radiology",
+                    "ArabicValue": "طب الأشعة التداخلي"
+                },
+                {
+                    "ID": 1131,
+                    "EnglishValue": "Maternal and Fetal Medicine",
+                    "ArabicValue": "طب الام والجنين"
+                },
+                {
+                    "ID": 1580,
+                    "EnglishValue": "Maternal and Fetal Medicine",
+                    "ArabicValue": "طب الام والجنين"
+                },
+                {
+                    "ID": 892,
+                    "EnglishValue": "Maternal and Fetal Medicine",
+                    "ArabicValue": "طب الام والجنين"
+                },
+                {
+                    "ID": 1585,
+                    "EnglishValue": "Medical Microbiology",
+                    "ArabicValue": "علم الاحياء الدقيقة"
+                },
+                {
+                    "ID": 1350,
+                    "EnglishValue": "Medical Microbiology",
+                    "ArabicValue": "علم الاحياء الدقيقة"
+                },
+                {
+                    "ID": 171,
+                    "EnglishValue": "Medical Microbiology",
+                    "ArabicValue": "علم الاحياء الدقيقة"
+                },
+                {
+                    "ID": 255,
+                    "EnglishValue": "Medical Microbiology",
+                    "ArabicValue": "علم الاحياء الدقيقة"
+                },
+                {
+                    "ID": 140,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 1311,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 38,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 1877,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 147,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 1341,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 231,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 1789,
+                    "EnglishValue": "Medical Oncology",
+                    "ArabicValue": "علم الأورام الطبية"
+                },
+                {
+                    "ID": 1387,
+                    "EnglishValue": "Medical Ophthalmology",
+                    "ArabicValue": "طب العيون"
+                },
+                {
+                    "ID": 165,
+                    "EnglishValue": "Medical Ophthalmology",
+                    "ArabicValue": "طب العيون"
+                },
+                {
+                    "ID": 1581,
+                    "EnglishValue": "Medical Ophthalmology",
+                    "ArabicValue": "طب العيون"
+                },
+                {
+                    "ID": 249,
+                    "EnglishValue": "Medical Ophthalmology",
+                    "ArabicValue": "طب العيون"
+                },
+                {
+                    "ID": 1061,
+                    "EnglishValue": "Medical Practitioner",
+                    "ArabicValue": " ممارس عام"
+                },
+                {
+                    "ID": 1967,
+                    "EnglishValue": "Neonatology",
+                    "ArabicValue": "طب الخدج"
+                },
+                {
+                    "ID": 52,
+                    "EnglishValue": "Neonatology",
+                    "ArabicValue": "طب الخدج"
+                },
+                {
+                    "ID": 1940,
+                    "EnglishValue": "Neonatology",
+                    "ArabicValue": "طب الخدج"
+                },
+                {
+                    "ID": 997,
+                    "EnglishValue": "Neonatology",
+                    "ArabicValue": "طب الخدج"
+                },
+                {
+                    "ID": 2032,
+                    "EnglishValue": "Nephrology",
+                    "ArabicValue": "امراض الكلي"
+                },
+                {
+                    "ID": 148,
+                    "EnglishValue": "Nephrology",
+                    "ArabicValue": "امراض الكلي"
+                },
+                {
+                    "ID": 1876,
+                    "EnglishValue": "Nephrology",
+                    "ArabicValue": "امراض الكلي"
+                },
+                {
+                    "ID": 53,
+                    "EnglishValue": "Nephrology",
+                    "ArabicValue": "امراض الكلي"
+                },
+                {
+                    "ID": 1270,
+                    "EnglishValue": "Nephrology",
+                    "ArabicValue": "امراض الكلي"
+                },
+                {
+                    "ID": 232,
+                    "EnglishValue": "Nephrology",
+                    "ArabicValue": "امراض الكلي"
+                },
+                {
+                    "ID": 32,
+                    "EnglishValue": "Nephrology",
+                    "ArabicValue": "امراض الكلي"
+                },
+                {
+                    "ID": 1299,
+                    "EnglishValue": "Neurological Surgery",
+                    "ArabicValue": "جراحة المخ و الأعصاب"
+                },
+                {
+                    "ID": 1782,
+                    "EnglishValue": "Neurological Surgery",
+                    "ArabicValue": "جراحة المخ و الأعصاب"
+                },
+                {
+                    "ID": 193,
+                    "EnglishValue": "Neurological Surgery",
+                    "ArabicValue": "جراحة المخ و الأعصاب"
+                },
+                {
+                    "ID": 1214,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 2005,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 31,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 54,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 149,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 2006,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 233,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 1663,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "امراض الجهاز العصبي"
+                },
+                {
+                    "ID": 2013,
+                    "EnglishValue": "Neurology/Neuromuscular Medicine",
+                    "ArabicValue": "الطب العصبي العضلي"
+                },
+                {
+                    "ID": 2012,
+                    "EnglishValue": "Neurology/Vascular Neurology",
+                    "ArabicValue": "علم اعصاب الأوعية الدموية"
+                },
+                {
+                    "ID": 239,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 155,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 1383,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 1579,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 1082,
+                    "EnglishValue": "Obstetric Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 240,
+                    "EnglishValue": "Obstetric Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 156,
+                    "EnglishValue": "Obstetric Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 1623,
+                    "EnglishValue": "Obstetric Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 1625,
+                    "EnglishValue": "Obstetrics and Gynecology / Critical Care Medicine",
+                    "ArabicValue": "امراض النساء والولادة / العناية المركزة"
+                },
+                {
+                    "ID": 1384,
+                    "EnglishValue": "Obstetrics and Gynecology / Critical Care Medicine",
+                    "ArabicValue": "امراض النساء والولادة / العناية المركزة"
+                },
+                {
+                    "ID": 884,
+                    "EnglishValue": "Obstetrics and Gynecology / Critical Care Medicine",
+                    "ArabicValue": "امراض النساء والولادة / العناية المركزة"
+                },
+                {
+                    "ID": 1798,
+                    "EnglishValue": "Obstetrics and Gynecology / Maternal and Fetal Medicine",
+                    "ArabicValue": "امراض النساء والولادة/ طب الأم والجنين"
+                },
+                {
+                    "ID": 243,
+                    "EnglishValue": "Obstetrics and Gynecology / Maternal and Fetal Medicine",
+                    "ArabicValue": "امراض النساء والولادة/ طب الأم والجنين"
+                },
+                {
+                    "ID": 159,
+                    "EnglishValue": "Obstetrics and Gynecology / Maternal and Fetal Medicine",
+                    "ArabicValue": "امراض النساء والولادة/ طب الأم والجنين"
+                },
+                {
+                    "ID": 1385,
+                    "EnglishValue": "Obstetrics and Gynecology / Maternal and Fetal Medicine",
+                    "ArabicValue": "امراض النساء والولادة/ طب الأم والجنين"
+                },
+                {
+                    "ID": 157,
+                    "EnglishValue": "Obstetrics and Gynecology /Reproductive Endicronology/ Infertility",
+                    "ArabicValue": "امراض النساء والولادة / الإخصاب و العقم"
+                },
+                {
+                    "ID": 1678,
+                    "EnglishValue": "Obstetrics and Gynecology /Reproductive Endicronology/ Infertility",
+                    "ArabicValue": "امراض النساء والولادة / الإخصاب و العقم"
+                },
+                {
+                    "ID": 1085,
+                    "EnglishValue": "Obstetrics and Gynecology/ Gynecologic Oncology",
+                    "ArabicValue": "امراض النساء والولادة / طب الاورام النسائية"
+                },
+                {
+                    "ID": 242,
+                    "EnglishValue": "Obstetrics and Gynecology/ Gynecologic Oncology",
+                    "ArabicValue": "امراض النساء والولادة / طب الاورام النسائية"
+                },
+                {
+                    "ID": 158,
+                    "EnglishValue": "Obstetrics and Gynecology/ Gynecologic Oncology",
+                    "ArabicValue": "امراض النساء والولادة / طب الاورام النسائية"
+                },
+                {
+                    "ID": 1676,
+                    "EnglishValue": "Obstetrics and Gynecology/ Gynecologic Oncology",
+                    "ArabicValue": "امراض النساء والولادة / طب الاورام النسائية"
+                },
+                {
+                    "ID": 245,
+                    "EnglishValue": "Obstetrics and Gynecology/ Reproductive Health.",
+                    "ArabicValue": "امراض النساء والولادة / الإنجاب"
+                },
+                {
+                    "ID": 1229,
+                    "EnglishValue": "Obstetrics and Gynecology/ Reproductive Health.",
+                    "ArabicValue": "امراض النساء والولادة / الإنجاب"
+                },
+                {
+                    "ID": 1624,
+                    "EnglishValue": "Obstetrics and Gynecology/ Reproductive Health.",
+                    "ArabicValue": "امراض النساء والولادة / الإنجاب"
+                },
+                {
+                    "ID": 161,
+                    "EnglishValue": "Obstetrics and Gynecology/ Reproductive Health.",
+                    "ArabicValue": "امراض النساء والولادة / الإنجاب"
+                },
+                {
+                    "ID": 1888,
+                    "EnglishValue": "Obstetrics and Gynecology/Urogynecology.",
+                    "ArabicValue": "امراض النساء والولادة / النسائية البولية"
+                },
+                {
+                    "ID": 246,
+                    "EnglishValue": "Obstetrics and Gynecology/Urogynecology.",
+                    "ArabicValue": "امراض النساء والولادة / النسائية البولية"
+                },
+                {
+                    "ID": 1083,
+                    "EnglishValue": "Obstetrics and Gynecology/Urogynecology.",
+                    "ArabicValue": "امراض النساء والولادة / النسائية البولية"
+                },
+                {
+                    "ID": 162,
+                    "EnglishValue": "Obstetrics and Gynecology/Urogynecology.",
+                    "ArabicValue": "امراض النساء والولادة / النسائية البولية"
+                },
+                {
+                    "ID": 1176,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 2363,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 163,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 2168,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 849,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 1832,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 1123,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 247,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 1718,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 1847,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": "طب وجراحة العيون"
+                },
+                {
+                    "ID": 164,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": "طب وجراحة العيون"
+                },
+                {
+                    "ID": 248,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": "طب وجراحة العيون"
+                },
+                {
+                    "ID": 66,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 56,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1824,
+                    "EnglishValue": "Oral Maxillofacial Surgery",
+                    "ArabicValue": "جراحة الوجه والفكين"
+                },
+                {
+                    "ID": 1203,
+                    "EnglishValue": "Oral Maxillofacial Surgery",
+                    "ArabicValue": "جراحة الوجه والفكين"
+                },
+                {
+                    "ID": 194,
+                    "EnglishValue": "Oral Maxillofacial Surgery",
+                    "ArabicValue": "جراحة الوجه والفكين"
+                },
+                {
+                    "ID": 278,
+                    "EnglishValue": "Oral Maxillofacial Surgery",
+                    "ArabicValue": "جراحة الوجه والفكين"
+                },
+                {
+                    "ID": 391,
+                    "EnglishValue": "Oral Medicine and Pathology",
+                    "ArabicValue": "طب وأمراض الفم"
+                },
+                {
+                    "ID": 378,
+                    "EnglishValue": "Oral Medicine and Pathology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 380,
+                    "EnglishValue": "Oral Surgery",
+                    "ArabicValue": "جراحة الفم"
+                },
+                {
+                    "ID": 393,
+                    "EnglishValue": "Oral Surgery",
+                    "ArabicValue": "جراحة الفم"
+                },
+                {
+                    "ID": 389,
+                    "EnglishValue": "Oral and Maxilofacial Surgery",
+                    "ArabicValue": "جراحة الوجه والفكين"
+                },
+                {
+                    "ID": 376,
+                    "EnglishValue": "Oral and Maxilofacial Surgery",
+                    "ArabicValue": "جراحة الوجه والفكين"
+                },
+                {
+                    "ID": 381,
+                    "EnglishValue": "Orthodontics",
+                    "ArabicValue": "تقويم الأسنان"
+                },
+                {
+                    "ID": 394,
+                    "EnglishValue": "Orthodontics",
+                    "ArabicValue": "تقويم الأسنان"
+                },
+                {
+                    "ID": 15,
+                    "EnglishValue": "Orthodontics",
+                    "ArabicValue": "تقويم الأسنان"
+                },
+                {
+                    "ID": 279,
+                    "EnglishValue": "Orthopedic   Surgery",
+                    "ArabicValue": "جراحة العظام"
+                },
+                {
+                    "ID": 195,
+                    "EnglishValue": "Orthopedic   Surgery",
+                    "ArabicValue": "جراحة العظام"
+                },
+                {
+                    "ID": 1414,
+                    "EnglishValue": "Orthopedic   Surgery",
+                    "ArabicValue": "جراحة العظام"
+                },
+                {
+                    "ID": 1697,
+                    "EnglishValue": "Orthopedic Surgery",
+                    "ArabicValue": "جراحة العظام"
+                },
+                {
+                    "ID": 2372,
+                    "EnglishValue": "Orthopedic Surgery",
+                    "ArabicValue": "جراحة العظام"
+                },
+                {
+                    "ID": 2177,
+                    "EnglishValue": "Orthopedic Surgery",
+                    "ArabicValue": "جراحة العظام"
+                },
+                {
+                    "ID": 1925,
+                    "EnglishValue": "Orthopedic Surgery/ Traumatology",
+                    "ArabicValue": "جراحة العظام / إصابات"
+                },
+                {
+                    "ID": 1926,
+                    "EnglishValue": "Orthopedic Surgery/ Traumatology",
+                    "ArabicValue": "جراحة العظام / إصابات"
+                },
+                {
+                    "ID": 1921,
+                    "EnglishValue": "Orthopedic Surgery/ Traumatology",
+                    "ArabicValue": "جراحة العظام / إصابات"
+                },
+                {
+                    "ID": 1743,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": "أنف وأذن وحنجرة"
+                },
+                {
+                    "ID": 196,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": "أنف وأذن وحنجرة"
+                },
+                {
+                    "ID": 2141,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": "جراحة الأنف والأذن والحنجرة"
+                },
+                {
+                    "ID": 2336,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": "جراحة الأنف والأذن والحنجرة"
+                },
+                {
+                    "ID": 1104,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": "جراحة الانف والذن والحنجرة"
+                },
+                {
+                    "ID": 68,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 280,
+                    "EnglishValue": "Otolaryngology (ENT Surgery)",
+                    "ArabicValue": "انف و اذن وحنجرة"
+                },
+                {
+                    "ID": 1955,
+                    "EnglishValue": "Otolaryngology (ENT Surgery)",
+                    "ArabicValue": "انف و اذن وحنجرة"
+                },
+                {
+                    "ID": 2038,
+                    "EnglishValue": "Pathology/Clinical Chemistry and Microbiology",
+                    "ArabicValue": "الكمياء الاكلينيكية و الاحياء الدقيقة"
+                },
+                {
+                    "ID": 1959,
+                    "EnglishValue": "Pediatric Cardiac Surgery",
+                    "ArabicValue": "جراحة القلب - أطفال"
+                },
+                {
+                    "ID": 1645,
+                    "EnglishValue": "Pediatric Cardiac Surgery",
+                    "ArabicValue": "جراحة القلب - أطفال"
+                },
+                {
+                    "ID": 2155,
+                    "EnglishValue": "Pediatric Cardiac Surgery",
+                    "ArabicValue": "جراحة القلب -الأطفال"
+                },
+                {
+                    "ID": 2350,
+                    "EnglishValue": "Pediatric Cardiac Surgery",
+                    "ArabicValue": "جراحة القلب -الأطفال"
+                },
+                {
+                    "ID": 263,
+                    "EnglishValue": "Pediatric Cardiology",
+                    "ArabicValue": "أمراض القلب - الأطفال"
+                },
+                {
+                    "ID": 179,
+                    "EnglishValue": "Pediatric Cardiology",
+                    "ArabicValue": "أمراض القلب - الأطفال"
+                },
+                {
+                    "ID": 1405,
+                    "EnglishValue": "Pediatric Cardiology",
+                    "ArabicValue": "أمراض القلب - الأطفال"
+                },
+                {
+                    "ID": 1739,
+                    "EnglishValue": "Pediatric Cardiology",
+                    "ArabicValue": "أمراض القلب - الأطفال"
+                },
+                {
+                    "ID": 395,
+                    "EnglishValue": "Pediatric Dentistry",
+                    "ArabicValue": "طب الأسنان للأطفال"
+                },
+                {
+                    "ID": 382,
+                    "EnglishValue": "Pediatric Dentistry",
+                    "ArabicValue": "طب الأسنان للأطفال"
+                },
+                {
+                    "ID": 17,
+                    "EnglishValue": "Pediatric Dentistry",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 180,
+                    "EnglishValue": "Pediatric Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ - الأطفال"
+                },
+                {
+                    "ID": 1241,
+                    "EnglishValue": "Pediatric Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ - الأطفال"
+                },
+                {
+                    "ID": 802,
+                    "EnglishValue": "Pediatric Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ للأطفال"
+                },
+                {
+                    "ID": 264,
+                    "EnglishValue": "Pediatric Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ للأطفال"
+                },
+                {
+                    "ID": 1653,
+                    "EnglishValue": "Pediatric Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ للأطفال"
+                },
+                {
+                    "ID": 1260,
+                    "EnglishValue": "Pediatric Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ للأطفال"
+                },
+                {
+                    "ID": 1732,
+                    "EnglishValue": "Pediatric Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ للأطفال"
+                },
+                {
+                    "ID": 265,
+                    "EnglishValue": "Pediatric Endocrinology",
+                    "ArabicValue": "الغدد الصماء -الأطفال"
+                },
+                {
+                    "ID": 181,
+                    "EnglishValue": "Pediatric Endocrinology",
+                    "ArabicValue": "الغدد الصماء -الأطفال"
+                },
+                {
+                    "ID": 1641,
+                    "EnglishValue": "Pediatric Endocrinology",
+                    "ArabicValue": "الغدد الصماء -الأطفال"
+                },
+                {
+                    "ID": 1245,
+                    "EnglishValue": "Pediatric Endocrinology",
+                    "ArabicValue": "الغدد الصماء -الأطفال"
+                },
+                {
+                    "ID": 1864,
+                    "EnglishValue": "Pediatric Gastroenterology",
+                    "ArabicValue": "أمراض الجهاز الهضمي - أطفال"
+                },
+                {
+                    "ID": 999,
+                    "EnglishValue": "Pediatric Gastroenterology",
+                    "ArabicValue": "أمراض الجهاز الهضمي - أطفال"
+                },
+                {
+                    "ID": 1409,
+                    "EnglishValue": "Pediatric Gastroenterology",
+                    "ArabicValue": "أمراض الجهاز الهضمي - أطفال"
+                },
+                {
+                    "ID": 1358,
+                    "EnglishValue": "Pediatric Hematology - Oncology",
+                    "ArabicValue": "أمراض الدم والأورام - اطفال"
+                },
+                {
+                    "ID": 1000,
+                    "EnglishValue": "Pediatric Hematology - Oncology",
+                    "ArabicValue": "أمراض الدم والأورام - اطفال"
+                },
+                {
+                    "ID": 1733,
+                    "EnglishValue": "Pediatric Hematology - Oncology",
+                    "ArabicValue": "أمراض الدم والأورام - اطفال"
+                },
+                {
+                    "ID": 267,
+                    "EnglishValue": "Pediatric Intensive Care",
+                    "ArabicValue": "العناية المركزة -  الأطفال"
+                },
+                {
+                    "ID": 1328,
+                    "EnglishValue": "Pediatric Intensive Care",
+                    "ArabicValue": "العناية المركزة -  الأطفال"
+                },
+                {
+                    "ID": 183,
+                    "EnglishValue": "Pediatric Intensive Care",
+                    "ArabicValue": "العناية المركزة -  الأطفال"
+                },
+                {
+                    "ID": 1816,
+                    "EnglishValue": "Pediatric Intensive Care",
+                    "ArabicValue": "العناية المركزة -  الأطفال"
+                },
+                {
+                    "ID": 1863,
+                    "EnglishValue": "Pediatric Neonatology",
+                    "ArabicValue": "حديثي الولادة"
+                },
+                {
+                    "ID": 1148,
+                    "EnglishValue": "Pediatric Neonatology",
+                    "ArabicValue": "حديثي الولادة"
+                },
+                {
+                    "ID": 184,
+                    "EnglishValue": "Pediatric Neonatology",
+                    "ArabicValue": "حديثي الولادة"
+                },
+                {
+                    "ID": 268,
+                    "EnglishValue": "Pediatric Neonatology",
+                    "ArabicValue": "حديثي الولادة"
+                },
+                {
+                    "ID": 1406,
+                    "EnglishValue": "Pediatric Nephrology",
+                    "ArabicValue": "أمراض الكلى - الأطفال"
+                },
+                {
+                    "ID": 185,
+                    "EnglishValue": "Pediatric Nephrology",
+                    "ArabicValue": "أمراض الكلى - الأطفال"
+                },
+                {
+                    "ID": 269,
+                    "EnglishValue": "Pediatric Nephrology",
+                    "ArabicValue": "أمراض الكلى - الأطفال"
+                },
+                {
+                    "ID": 1595,
+                    "EnglishValue": "Pediatric Nephrology",
+                    "ArabicValue": "أمراض الكلى - الأطفال"
+                },
+                {
+                    "ID": 186,
+                    "EnglishValue": "Pediatric Neurology",
+                    "ArabicValue": "الأعصاب -الأطفال"
+                },
+                {
+                    "ID": 270,
+                    "EnglishValue": "Pediatric Neurology",
+                    "ArabicValue": "الأعصاب -الأطفال"
+                },
+                {
+                    "ID": 1295,
+                    "EnglishValue": "Pediatric Neurology",
+                    "ArabicValue": "الأعصاب -الأطفال"
+                },
+                {
+                    "ID": 1862,
+                    "EnglishValue": "Pediatric Neurology",
+                    "ArabicValue": "الأعصاب -الأطفال"
+                },
+                {
+                    "ID": 2009,
+                    "EnglishValue": "Pediatric Neurology/ Clinical Neurophysiology",
+                    "ArabicValue": "طب الأطفال- أمراض الجهاز العصبي/ طب وظائف الأعضاء العصبي السريري"
+                },
+                {
+                    "ID": 2008,
+                    "EnglishValue": "Pediatric Neurology/ Clinical Neurophysiology",
+                    "ArabicValue": "طب الأطفال- أمراض الجهاز العصبي/ طب وظائف الأعضاء العصبي السريري"
+                },
+                {
+                    "ID": 187,
+                    "EnglishValue": "Pediatric Oncology",
+                    "ArabicValue": "الأورام - الأطفال"
+                },
+                {
+                    "ID": 1404,
+                    "EnglishValue": "Pediatric Oncology",
+                    "ArabicValue": "الأورام - الأطفال"
+                },
+                {
+                    "ID": 271,
+                    "EnglishValue": "Pediatric Oncology",
+                    "ArabicValue": "الأورام - الأطفال"
+                },
+                {
+                    "ID": 1738,
+                    "EnglishValue": "Pediatric Oncology",
+                    "ArabicValue": "الأورام - الأطفال"
+                },
+                {
+                    "ID": 1101,
+                    "EnglishValue": "Pediatric Pulmonology",
+                    "ArabicValue": "أمراض الجهاز التنفسي - أطفال"
+                },
+                {
+                    "ID": 1640,
+                    "EnglishValue": "Pediatric Pulmonology",
+                    "ArabicValue": "أمراض الجهاز التنفسي - أطفال"
+                },
+                {
+                    "ID": 1003,
+                    "EnglishValue": "Pediatric Pulmonology",
+                    "ArabicValue": "استشاري طب الأطفال/أمراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 1407,
+                    "EnglishValue": "Pediatric Rheumatology",
+                    "ArabicValue": "الروماتيزم والمفاصل - أطفال"
+                },
+                {
+                    "ID": 1004,
+                    "EnglishValue": "Pediatric Rheumatology",
+                    "ArabicValue": "الروماتيزم والمفاصل - أطفال"
+                },
+                {
+                    "ID": 1692,
+                    "EnglishValue": "Pediatric Rheumatology",
+                    "ArabicValue": "الروماتيزم والمفاصل - أطفال"
+                },
+                {
+                    "ID": 2163,
+                    "EnglishValue": "Pediatric Surgery",
+                    "ArabicValue": "جراحة الأطفال"
+                },
+                {
+                    "ID": 1822,
+                    "EnglishValue": "Pediatric Surgery",
+                    "ArabicValue": "جراحة الأطفال"
+                },
+                {
+                    "ID": 2358,
+                    "EnglishValue": "Pediatric Surgery",
+                    "ArabicValue": "جراحة الأطفال"
+                },
+                {
+                    "ID": 197,
+                    "EnglishValue": "Pediatric Surgery",
+                    "ArabicValue": "جراحة الأطفال"
+                },
+                {
+                    "ID": 1256,
+                    "EnglishValue": "Pediatric Surgery",
+                    "ArabicValue": "جراحة الأطفال"
+                },
+                {
+                    "ID": 281,
+                    "EnglishValue": "Pediatric Surgery",
+                    "ArabicValue": "جراحة الأطفال"
+                },
+                {
+                    "ID": 2101,
+                    "EnglishValue": "Pediatric Urology",
+                    "ArabicValue": "جراحة المسالك البولية- أطفال"
+                },
+                {
+                    "ID": 2359,
+                    "EnglishValue": "Pediatric Urology",
+                    "ArabicValue": "جراحة المسالك البولية- الأطفال"
+                },
+                {
+                    "ID": 2164,
+                    "EnglishValue": "Pediatric Urology",
+                    "ArabicValue": "جراحة المسالك البولية- الأطفال"
+                },
+                {
+                    "ID": 2107,
+                    "EnglishValue": "Pediatrics/ Allergy",
+                    "ArabicValue": "طب الأطفال/طب الحساسية"
+                },
+                {
+                    "ID": 2106,
+                    "EnglishValue": "Pediatrics/ Allergy",
+                    "ArabicValue": "طب الأطفال/طب الحساسية"
+                },
+                {
+                    "ID": 1905,
+                    "EnglishValue": "Pediatrics/ Cardiology",
+                    "ArabicValue": "طب الأطفال / أمراض القلب"
+                },
+                {
+                    "ID": 1149,
+                    "EnglishValue": "Pediatrics/ Cardiology",
+                    "ArabicValue": "طب الأطفال / أمراض القلب"
+                },
+                {
+                    "ID": 973,
+                    "EnglishValue": "Pediatrics/ Cardiology",
+                    "ArabicValue": "طب الأطفال / أمراض القلب"
+                },
+                {
+                    "ID": 1774,
+                    "EnglishValue": "Pediatrics/ Critical Care Medicine",
+                    "ArabicValue": "طب الأطفال / العناية المركزة"
+                },
+                {
+                    "ID": 974,
+                    "EnglishValue": "Pediatrics/ Critical Care Medicine",
+                    "ArabicValue": "طب الأطفال / العناية المركزة"
+                },
+                {
+                    "ID": 1192,
+                    "EnglishValue": "Pediatrics/ Critical Care Medicine",
+                    "ArabicValue": "طب الأطفال / العناية المركزة"
+                },
+                {
+                    "ID": 1907,
+                    "EnglishValue": "Pediatrics/ Endocrinology",
+                    "ArabicValue": "طب الأطفال / أمراض الغدد الصماء"
+                },
+                {
+                    "ID": 976,
+                    "EnglishValue": "Pediatrics/ Endocrinology",
+                    "ArabicValue": "طب الأطفال / أمراض الغدد الصماء"
+                },
+                {
+                    "ID": 1247,
+                    "EnglishValue": "Pediatrics/ Endocrinology",
+                    "ArabicValue": "طب الأطفال / أمراض الغدد الصماء"
+                },
+                {
+                    "ID": 1144,
+                    "EnglishValue": "Pediatrics/ Gastroenterology",
+                    "ArabicValue": "طب الأطفال / أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 977,
+                    "EnglishValue": "Pediatrics/ Gastroenterology",
+                    "ArabicValue": "طب الأطفال / أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 1857,
+                    "EnglishValue": "Pediatrics/ Gastroenterology",
+                    "ArabicValue": "طب الأطفال / أمراض الجهاز الهضمي"
+                },
+                {
+                    "ID": 970,
+                    "EnglishValue": "Pediatrics/ Neonaltal- Perinatal Medicine",
+                    "ArabicValue": "طب الأطفال / حديثي الولادة و الخدج"
+                },
+                {
+                    "ID": 1362,
+                    "EnglishValue": "Pediatrics/ Neonaltal- Perinatal Medicine",
+                    "ArabicValue": "طب الأطفال / حديثي الولادة و الخدج"
+                },
+                {
+                    "ID": 1812,
+                    "EnglishValue": "Pediatrics/ Neonaltal- Perinatal Medicine",
+                    "ArabicValue": "طب الأطفال / حديثي الولادة و الخدج"
+                },
+                {
+                    "ID": 1777,
+                    "EnglishValue": "Pediatrics/ Pulmonology",
+                    "ArabicValue": "طب الأطفال / أمراض الجهاز التنقسي"
+                },
+                {
+                    "ID": 1150,
+                    "EnglishValue": "Pediatrics/ Pulmonology",
+                    "ArabicValue": "طب الأطفال / أمراض الجهاز التنقسي"
+                },
+                {
+                    "ID": 981,
+                    "EnglishValue": "Pediatrics/ Pulmonology",
+                    "ArabicValue": "طب الأطفال/أمراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 2097,
+                    "EnglishValue": "Pediatrics/clinical genetics",
+                    "ArabicValue": "طب أطفال/علم الوراثة السريرية"
+                },
+                {
+                    "ID": 2098,
+                    "EnglishValue": "Pediatrics/clinical genetics",
+                    "ArabicValue": "طب أطفال/علم الوراثة السريرية"
+                },
+                {
+                    "ID": 383,
+                    "EnglishValue": "Periodontics",
+                    "ArabicValue": "امراض اللثة"
+                },
+                {
+                    "ID": 396,
+                    "EnglishValue": "Periodontics",
+                    "ArabicValue": "امراض اللثة"
+                },
+                {
+                    "ID": 1094,
+                    "EnglishValue": "Physical Medicine and Rehabilitation",
+                    "ArabicValue": "الطب الطبيعي واعادة التأهيل"
+                },
+                {
+                    "ID": 1852,
+                    "EnglishValue": "Physical Medicine and Rehabilitation",
+                    "ArabicValue": "الطب الطبيعي واعادة التأهيل"
+                },
+                {
+                    "ID": 260,
+                    "EnglishValue": "Physical Medicine and Rehabilitation",
+                    "ArabicValue": "الطب الطبيعي واعادة التأهيل"
+                },
+                {
+                    "ID": 176,
+                    "EnglishValue": "Physical Medicine and Rehabilitation",
+                    "ArabicValue": "الطب الطبيعي واعادة التأهيل"
+                },
+                {
+                    "ID": 198,
+                    "EnglishValue": "Plastic Surgery",
+                    "ArabicValue": "الجراحة التجميلية"
+                },
+                {
+                    "ID": 282,
+                    "EnglishValue": "Plastic Surgery",
+                    "ArabicValue": "الجراحة التجميلية"
+                },
+                {
+                    "ID": 1107,
+                    "EnglishValue": "Plastic Surgery",
+                    "ArabicValue": "الجراحة التجميلية"
+                },
+                {
+                    "ID": 1696,
+                    "EnglishValue": "Plastic Surgery",
+                    "ArabicValue": "الجراحة التجميلية"
+                },
+                {
+                    "ID": 2361,
+                    "EnglishValue": "Plastic Surgery",
+                    "ArabicValue": "الجراحة التجميلية"
+                },
+                {
+                    "ID": 69,
+                    "EnglishValue": "Plastic Surgery",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1198,
+                    "EnglishValue": "Plastic Surgery/Surgery of the Hand",
+                    "ArabicValue": "الجراحة التجميلية / اليد"
+                },
+                {
+                    "ID": 1865,
+                    "EnglishValue": "Plastic Surgery/Surgery of the Hand",
+                    "ArabicValue": "الجراحة التجميلية / اليد"
+                },
+                {
+                    "ID": 1039,
+                    "EnglishValue": "Plastic Surgery/Surgery of the Hand",
+                    "ArabicValue": "الجراحة التجميلية / اليد"
+                },
+                {
+                    "ID": 384,
+                    "EnglishValue": "Prosthodontics",
+                    "ArabicValue": "التعويضات السنية"
+                },
+                {
+                    "ID": 397,
+                    "EnglishValue": "Prosthodontics",
+                    "ArabicValue": "التعويضات السنية"
+                },
+                {
+                    "ID": 19,
+                    "EnglishValue": "Prosthodontics",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1097,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 1731,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 261,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 177,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 59,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1968,
+                    "EnglishValue": "Psychiatry child and Adolescent",
+                    "ArabicValue": "طب الامراض النفسية- الأطفال والمراهقين"
+                },
+                {
+                    "ID": 1969,
+                    "EnglishValue": "Psychiatry child and Adolescent",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 941,
+                    "EnglishValue": "Psychiatry/ Addiction Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية / علاج الإدمان"
+                },
+                {
+                    "ID": 1635,
+                    "EnglishValue": "Psychiatry/ Addiction Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية / علاج الإدمان"
+                },
+                {
+                    "ID": 1096,
+                    "EnglishValue": "Psychiatry/ Addiction Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية / علاج الإدمان"
+                },
+                {
+                    "ID": 1236,
+                    "EnglishValue": "Psychiatry/Child and Adolescent Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية / الاطفال و المراهقين"
+                },
+                {
+                    "ID": 943,
+                    "EnglishValue": "Psychiatry/Child and Adolescent Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية / الاطفال و المراهقين"
+                },
+                {
+                    "ID": 1895,
+                    "EnglishValue": "Psychiatry/Child and Adolescent Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية / الاطفال و المراهقين"
+                },
+                {
+                    "ID": 1952,
+                    "EnglishValue": "Public Health Medicine",
+                    "ArabicValue": "طب الصحة العامة"
+                },
+                {
+                    "ID": 1951,
+                    "EnglishValue": "Public Health Medicine",
+                    "ArabicValue": "طب الصحة العامة"
+                },
+                {
+                    "ID": 2364,
+                    "EnglishValue": "Public Health Medicine",
+                    "ArabicValue": "طب الصحة العامة"
+                },
+                {
+                    "ID": 2169,
+                    "EnglishValue": "Public Health Medicine",
+                    "ArabicValue": "طب الصحة العامة"
+                },
+                {
+                    "ID": 2109,
+                    "EnglishValue": "Pulmonary Disease",
+                    "ArabicValue": "طب الامراض التنفسي"
+                },
+                {
+                    "ID": 2108,
+                    "EnglishValue": "Pulmonary Disease",
+                    "ArabicValue": "طب الامراض التنفسي"
+                },
+                {
+                    "ID": 2001,
+                    "EnglishValue": "Pulmonary Disease/ Critical Care Medicine",
+                    "ArabicValue": "أمراض الجهاز التنفسي/ طب العناية المركزة"
+                },
+                {
+                    "ID": 2000,
+                    "EnglishValue": "Pulmonary Disease/ Critical Care Medicine",
+                    "ArabicValue": "أمراض الجهاز التنفسي/ طب العناية المركزة"
+                },
+                {
+                    "ID": 1329,
+                    "EnglishValue": "Radiation Oncology (Radiation Therapy).",
+                    "ArabicValue": "العلاج الإشعاعي"
+                },
+                {
+                    "ID": 1693,
+                    "EnglishValue": "Radiation Oncology (Radiation Therapy).",
+                    "ArabicValue": "العلاج الإشعاعي"
+                },
+                {
+                    "ID": 272,
+                    "EnglishValue": "Radiation Oncology (Radiation Therapy).",
+                    "ArabicValue": "العلاج الإشعاعي"
+                },
+                {
+                    "ID": 188,
+                    "EnglishValue": "Radiation Oncology (Radiation Therapy).",
+                    "ArabicValue": "العلاج الإشعاعي"
+                },
+                {
+                    "ID": 1204,
+                    "EnglishValue": "Radiology",
+                    "ArabicValue": "الأشعة"
+                },
+                {
+                    "ID": 497,
+                    "EnglishValue": "Radiology",
+                    "ArabicValue": "الأشعة"
+                },
+                {
+                    "ID": 496,
+                    "EnglishValue": "Radiology",
+                    "ArabicValue": "الأشعة"
+                },
+                {
+                    "ID": 1604,
+                    "EnglishValue": "Radiology",
+                    "ArabicValue": "الأشعة"
+                },
+                {
+                    "ID": 1132,
+                    "EnglishValue": "Reproductive Endocrinology / Infertility",
+                    "ArabicValue": "الغدد الصماء التناسلية / العقم"
+                },
+                {
+                    "ID": 890,
+                    "EnglishValue": "Reproductive Endocrinology / Infertility",
+                    "ArabicValue": "الغدد الصماء التناسلية / العقم"
+                },
+                {
+                    "ID": 1765,
+                    "EnglishValue": "Reproductive Endocrinology / Infertility",
+                    "ArabicValue": "الغدد الصماء التناسلية / العقم"
+                },
+                {
+                    "ID": 2332,
+                    "EnglishValue": "Reproductive Medicine and Infertility",
+                    "ArabicValue": "طب الأمراض التناسلية والعقم"
+                },
+                {
+                    "ID": 2135,
+                    "EnglishValue": "Reproductive Medicine and Infertility",
+                    "ArabicValue": "طب الأمراض التناسلية والعقم"
+                },
+                {
+                    "ID": 2115,
+                    "EnglishValue": "Reproductive Medicine and Infertility",
+                    "ArabicValue": "طب الامراض التناسلية و العقم"
+                },
+                {
+                    "ID": 2114,
+                    "EnglishValue": "Reproductive Medicine and Infertility",
+                    "ArabicValue": "طب الامراض التناسلية و العقم"
+                },
+                {
+                    "ID": 1062,
+                    "EnglishValue": "Resident",
+                    "ArabicValue": "طبيب مقيم"
+                },
+                {
+                    "ID": 2119,
+                    "EnglishValue": "Resident",
+                    "ArabicValue": "طبيب مقيم"
+                },
+                {
+                    "ID": 150,
+                    "EnglishValue": "Respiratory Medicine",
+                    "ArabicValue": "امراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 234,
+                    "EnglishValue": "Respiratory Medicine",
+                    "ArabicValue": "امراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 1122,
+                    "EnglishValue": "Respiratory Medicine",
+                    "ArabicValue": "امراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 1666,
+                    "EnglishValue": "Respiratory Medicine",
+                    "ArabicValue": "امراض الجهاز التنفسي"
+                },
+                {
+                    "ID": 1943,
+                    "EnglishValue": "Respiratory Medicine/ Critical Care Medicine",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1941,
+                    "EnglishValue": "Respiratory Medicine/ Critical Care Medicine",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1942,
+                    "EnglishValue": "Respiratory Medicine/ Critical Care Medicine",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 20,
+                    "EnglishValue": "Restorative Dentistry",
+                    "ArabicValue": "أخصائي ترميم أسنان"
+                },
+                {
+                    "ID": 398,
+                    "EnglishValue": "Restorative Dentistry (Includes Endodontics/ Periodontics/Prosthodontics)",
+                    "ArabicValue": "ترميم أسنان"
+                },
+                {
+                    "ID": 385,
+                    "EnglishValue": "Restorative Dentistry (Includes Endodontics/ Periodontics/Prosthodontics)",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 151,
+                    "EnglishValue": "Rheumatology",
+                    "ArabicValue": "طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 34,
+                    "EnglishValue": "Rheumatology",
+                    "ArabicValue": "طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 1616,
+                    "EnglishValue": "Rheumatology",
+                    "ArabicValue": "طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 235,
+                    "EnglishValue": "Rheumatology",
+                    "ArabicValue": "طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 1120,
+                    "EnglishValue": "Rheumatology",
+                    "ArabicValue": "طب الروماتيزم والمفاصل"
+                },
+                {
+                    "ID": 2017,
+                    "EnglishValue": "Rheumatology/Immunology and Allergy",
+                    "ArabicValue": "الروماتيزم/المناعة والحساسية"
+                },
+                {
+                    "ID": 2334,
+                    "EnglishValue": "Sexual and Reproductive Health",
+                    "ArabicValue": "طب الصحة الجنسية والإنجابية"
+                },
+                {
+                    "ID": 2064,
+                    "EnglishValue": "Sexual and Reproductive Health",
+                    "ArabicValue": "طب الصحة الجنسية والإنجابية"
+                },
+                {
+                    "ID": 2137,
+                    "EnglishValue": "Sexual and Reproductive Health",
+                    "ArabicValue": "طب الصحة الجنسية والإنجابية"
+                },
+                {
+                    "ID": 2065,
+                    "EnglishValue": "Sexual and Reproductive Health",
+                    "ArabicValue": "طب الصحة الجنسية والإنجابية"
+                },
+                {
+                    "ID": 2139,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1381,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1631,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1305,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1376,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 2378,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 854,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 803,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1831,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1354,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 870,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1838,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 939,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 1609,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": "الطب الرياضي"
+                },
+                {
+                    "ID": 106,
+                    "EnglishValue": "Sports Medicine",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 2362,
+                    "EnglishValue": "Surgery of the Hand",
+                    "ArabicValue": "جراحة اليد"
+                },
+                {
+                    "ID": 1867,
+                    "EnglishValue": "Surgery of the Hand",
+                    "ArabicValue": "جراحة اليد"
+                },
+                {
+                    "ID": 2140,
+                    "EnglishValue": "Surgery of the Hand",
+                    "ArabicValue": "جراحة اليد"
+                },
+                {
+                    "ID": 1200,
+                    "EnglishValue": "Surgery of the Hand",
+                    "ArabicValue": "جراحة اليد"
+                },
+                {
+                    "ID": 1029,
+                    "EnglishValue": "Surgery of the Hand",
+                    "ArabicValue": "جراحة اليد"
+                },
+                {
+                    "ID": 2167,
+                    "EnglishValue": "Surgery of the Hand",
+                    "ArabicValue": "جراحة اليد"
+                },
+                {
+                    "ID": 199,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": "جراحة الأورام"
+                },
+                {
+                    "ID": 1747,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": "جراحة الأورام"
+                },
+                {
+                    "ID": 1035,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": "جراحة الأورام"
+                },
+                {
+                    "ID": 1644,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": "جراحة الأورام"
+                },
+                {
+                    "ID": 1413,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": "جراحة الأورام"
+                },
+                {
+                    "ID": 283,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": "جراحة الأورام"
+                },
+                {
+                    "ID": 1255,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": "جراحة الأورام"
+                },
+                {
+                    "ID": 41,
+                    "EnglishValue": "Surgical Oncology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1334,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": "جراحة الصدر"
+                },
+                {
+                    "ID": 200,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": "جراحة الصدر"
+                },
+                {
+                    "ID": 190,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": "جراحة الصدر"
+                },
+                {
+                    "ID": 1821,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": "جراحة الصدر"
+                },
+                {
+                    "ID": 1153,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": "جراحة الصدر"
+                },
+                {
+                    "ID": 1746,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": "جراحة الصدر"
+                },
+                {
+                    "ID": 284,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": "جراحة الصدر"
+                },
+                {
+                    "ID": 72,
+                    "EnglishValue": "Thoracic Surgery",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1388,
+                    "EnglishValue": "Transfusiion Medicine",
+                    "ArabicValue": "طب نقل الدم"
+                },
+                {
+                    "ID": 1849,
+                    "EnglishValue": "Transfusiion Medicine",
+                    "ArabicValue": "طب نقل الدم"
+                },
+                {
+                    "ID": 913,
+                    "EnglishValue": "Transfusiion Medicine",
+                    "ArabicValue": "طب نقل الدم"
+                },
+                {
+                    "ID": 1919,
+                    "EnglishValue": "Traumatology\n",
+                    "ArabicValue": "إصابات"
+                },
+                {
+                    "ID": 236,
+                    "EnglishValue": "Tropical Medicine",
+                    "ArabicValue": "طب المناطق الحارة"
+                },
+                {
+                    "ID": 1939,
+                    "EnglishValue": "Tropical Medicine",
+                    "ArabicValue": "طب المناطق الحارة"
+                },
+                {
+                    "ID": 1937,
+                    "EnglishValue": "Tropical Medicine",
+                    "ArabicValue": "طب المناطق الحارة"
+                },
+                {
+                    "ID": 11,
+                    "EnglishValue": "Tropical Medicine",
+                    "ArabicValue": "طب المناطق الحارة"
+                },
+                {
+                    "ID": 1938,
+                    "EnglishValue": "Tropical Medicine",
+                    "ArabicValue": "طب المناطق الحارة"
+                },
+                {
+                    "ID": 1664,
+                    "EnglishValue": "Tropical Medicine/Gastroenterology and Hepatology",
+                    "ArabicValue": "طب المناطق الحارة / جهاز هضمي وكبد"
+                },
+                {
+                    "ID": 152,
+                    "EnglishValue": "Tropical Medicine/Gastroenterology and Hepatology",
+                    "ArabicValue": "طب المناطق الحارة / جهاز هضمي وكبد"
+                },
+                {
+                    "ID": 1215,
+                    "EnglishValue": "Tropical Medicine/Gastroenterology and Hepatology",
+                    "ArabicValue": "طب المناطق الحارة / جهاز هضمي وكبد"
+                },
+                {
+                    "ID": 1565,
+                    "EnglishValue": "Undersea and Hyperbaric Medicine",
+                    "ArabicValue": "طب الاعماق والعلاج بالاكسجين المضغوط"
+                },
+                {
+                    "ID": 1114,
+                    "EnglishValue": "Undersea and Hyperbaric Medicine",
+                    "ArabicValue": "طب الاعماق والعلاج بالاكسجين المضغوط"
+                },
+                {
+                    "ID": 804,
+                    "EnglishValue": "Undersea and Hyperbaric Medicine",
+                    "ArabicValue": "طب الاعماق والعلاج بالاكسجين المضغوط"
+                },
+                {
+                    "ID": 1866,
+                    "EnglishValue": "Urology",
+                    "ArabicValue": "جراحة المسالك البولية"
+                },
+                {
+                    "ID": 1332,
+                    "EnglishValue": "Urology",
+                    "ArabicValue": "جراحة المسالك البولية"
+                },
+                {
+                    "ID": 201,
+                    "EnglishValue": "Urology",
+                    "ArabicValue": "جراحة المسالك البولية"
+                },
+                {
+                    "ID": 285,
+                    "EnglishValue": "Urology",
+                    "ArabicValue": "جراحة المسالك البولية"
+                },
+                {
+                    "ID": 61,
+                    "EnglishValue": "Urology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 71,
+                    "EnglishValue": "Urology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1258,
+                    "EnglishValue": "Urology/ Pediatric Urology",
+                    "ArabicValue": "جراحة المسالك البولية / أطفال"
+                },
+                {
+                    "ID": 1648,
+                    "EnglishValue": "Urology/ Pediatric Urology",
+                    "ArabicValue": "جراحة المسالك البولية / أطفال"
+                },
+                {
+                    "ID": 1041,
+                    "EnglishValue": "Urology/ Pediatric Urology",
+                    "ArabicValue": "جراحة المسالك البولية / أطفال"
+                },
+                {
+                    "ID": 1025,
+                    "EnglishValue": "Vascular Surgery",
+                    "ArabicValue": "جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 202,
+                    "EnglishValue": "Vascular Surgery",
+                    "ArabicValue": "جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1333,
+                    "EnglishValue": "Vascular Surgery",
+                    "ArabicValue": "جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1820,
+                    "EnglishValue": "Vascular Surgery",
+                    "ArabicValue": "جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 286,
+                    "EnglishValue": "Vascular Surgery",
+                    "ArabicValue": "جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1911,
+                    "EnglishValue": "Vascular Surgery",
+                    "ArabicValue": "جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1199,
+                    "EnglishValue": "Vascular Surgery",
+                    "ArabicValue": "جراحة الأوعية الدموية"
+                },
+                {
+                    "ID": 1335,
+                    "EnglishValue": "Visceral Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 203,
+                    "EnglishValue": "Visceral Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1958,
+                    "EnglishValue": "Visceral Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 287,
+                    "EnglishValue": "Visceral Surgery",
+                    "ArabicValue": "جراحة الجهاز الهضمي"
+                },
+                {
+                    "ID": 1265,
+                    "EnglishValue": "cardiac Anesthesia",
+                    "ArabicValue": "التخدير - القلب"
+                },
+                {
+                    "ID": 814,
+                    "EnglishValue": "cardiac Anesthesia",
+                    "ArabicValue": "التخدير - القلب"
+                },
+                {
+                    "ID": 1754,
+                    "EnglishValue": "cardiac Anesthesia",
+                    "ArabicValue": "التخدير - القلب"
+                }
+            ]
+        }
+    }
+}

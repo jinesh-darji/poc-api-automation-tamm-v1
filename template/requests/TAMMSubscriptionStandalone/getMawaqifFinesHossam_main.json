@@ -1,0 +1,11 @@
+{
+    "PVT_GetByVeh_Request": {
+        "P_PLATE_NUMBER": "JE3AE76V2AU200495",
+        "P_PLATE_CNT_ID": "1",
+        "P_PLATE_CTG_ID": "68",
+        "P_PLATE_TYPE_ID": "1",
+        "P_PVT_Status_ID": "1",
+        "IsADPCodes": 100
+    },
+    "ticketIds": []
+}

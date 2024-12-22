@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "data": {
+        "processResponse": {
+            "rule_id_6": "1.0000",
+            "rule_id_12": "1.0000",
+            "Process_chrg": 0,
+            "Admin_Chrg": 0,
+            "Dot_Insp_Req_falg": "N",
+            "available_quota": 2,
+            "max_quota": 2,
+            "Num_of_Veh": 0,
+            "SIXMoths_Permit_chrg": 400,
+            "TwelveMonths_Permit_chrg": 800
+        }
+    }
+}

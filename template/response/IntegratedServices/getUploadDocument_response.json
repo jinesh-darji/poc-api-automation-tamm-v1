@@ -1,0 +1,11 @@
+{
+    "status": "error",
+    "message": "Internal Server Error",
+    "error": {
+        "message": "request entity too large",
+        "expected": 160903,
+        "length": 160903,
+        "limit": 81920,
+        "type": "entity.too.large"
+    }
+}

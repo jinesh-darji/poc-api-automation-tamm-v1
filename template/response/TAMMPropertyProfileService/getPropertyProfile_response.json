@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "data": {
+        "plot": {
+            "nil": "true"
+        },
+        "plotMortgages": {
+            "nil": "true"
+        },
+        "propertyType": "Unit",
+        "unit": {
+            "BuildingNameA": "",
+            "BuildingNameE": "",
+            "BuildingNumber": 4,
+            "FloorNumber": "F6",
+            "ParentPlotId": 227799,
+            "ParentUnitUsageTypeA": "Residential",
+            "ParentUnitUsageTypeE": "Residential",
+            "ParentUnitUsageTypeId": 1568,
+            "plotId": 476781,
+            "UnitArea": 270.92,
+            "UnitBalconyArea": 71.92,
+            "UnitBathRoomCount": 4,
+            "UnitBedRoomCount": 3,
+            "UnitClassificationId": 126950,
+            "UnitClassificationNameA": "Apartment",
+            "UnitClassificationNameE": "Apartment",
+            "UnitHasBlock": false,
+            "UnitHasMortgage": false,
+            "UnitNumber": 611,
+            "UnitUsageTypeA": "Household Living",
+            "UnitUsageTypeE": "Household Living",
+            "UnitUsageTypeId": 1898
+        }
+    }
+}

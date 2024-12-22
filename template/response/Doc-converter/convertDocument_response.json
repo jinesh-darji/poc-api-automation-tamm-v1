@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "data": {
+    "pdf": {
+      "type": "Buffer",
+      "data": []
+    }
+  }
+}

@@ -1,0 +1,568 @@
+{
+    "getSpecialtyResponse": {
+        "getSpecialtyResult": {
+            "clsLookUp": [
+                {
+                    "ID": 1135,
+                    "EnglishValue": "Allergy and Immunology",
+                    "ArabicValue": "امراض الحساسية والمناعة"
+                },
+                {
+                    "ID": 16,
+                    "EnglishValue": "Allergy and Immunology",
+                    "ArabicValue": "امراض الحساسية والمناعة"
+                },
+                {
+                    "ID": 1070,
+                    "EnglishValue": "Allergy and Immunology",
+                    "ArabicValue": "امراض الحساسية والمناعة"
+                },
+                {
+                    "ID": 1203,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "التخدير"
+                },
+                {
+                    "ID": 1097,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "التخدير"
+                },
+                {
+                    "ID": 1072,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "التخدير"
+                },
+                {
+                    "ID": 1137,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "التخدير"
+                },
+                {
+                    "ID": 18,
+                    "EnglishValue": "Anesthesia",
+                    "ArabicValue": "التخدير"
+                },
+                {
+                    "ID": 1205,
+                    "EnglishValue": "Audiology",
+                    "ArabicValue": "سمعيات"
+                },
+                {
+                    "ID": 1138,
+                    "EnglishValue": "Audiology",
+                    "ArabicValue": "سمعيات"
+                },
+                {
+                    "ID": 1073,
+                    "EnglishValue": "Audiology",
+                    "ArabicValue": "سمعيات"
+                },
+                {
+                    "ID": 19,
+                    "EnglishValue": "Audiology",
+                    "ArabicValue": "سمعيات"
+                },
+                {
+                    "ID": 1098,
+                    "EnglishValue": "Audiology",
+                    "ArabicValue": "سمعيات"
+                },
+                {
+                    "ID": 1163,
+                    "EnglishValue": "Aviation and aerospace Medicine",
+                    "ArabicValue": "طب الفضاء والطيران"
+                },
+                {
+                    "ID": 1164,
+                    "EnglishValue": "Aviation and aerospace Medicine",
+                    "ArabicValue": "طب الفضاء والطيران"
+                },
+                {
+                    "ID": 1165,
+                    "EnglishValue": "Aviation and aerospace Medicine",
+                    "ArabicValue": "طب الفضاء والطيران"
+                },
+                {
+                    "ID": 1193,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 1249,
+                    "EnglishValue": "Cardiology",
+                    "ArabicValue": "أمراض القلب"
+                },
+                {
+                    "ID": 1140,
+                    "EnglishValue": "Community Medicine",
+                    "ArabicValue": "طب المجتمع"
+                },
+                {
+                    "ID": 1075,
+                    "EnglishValue": "Community Medicine",
+                    "ArabicValue": "طب المجتمع"
+                },
+                {
+                    "ID": 21,
+                    "EnglishValue": "Community Medicine",
+                    "ArabicValue": "طب المجتمع"
+                },
+                {
+                    "ID": 1076,
+                    "EnglishValue": "Critical Care Medicine.",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1141,
+                    "EnglishValue": "Critical Care Medicine.",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 22,
+                    "EnglishValue": "Critical Care Medicine.",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1142,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": "طب الأمراض الجلدية"
+                },
+                {
+                    "ID": 23,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": "طب الأمراض الجلدية"
+                },
+                {
+                    "ID": 1077,
+                    "EnglishValue": "Dermatology",
+                    "ArabicValue": "طب الأمراض الجلدية"
+                },
+                {
+                    "ID": 1078,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 24,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1143,
+                    "EnglishValue": "Diagnostic Radiology",
+                    "ArabicValue": "الاشعة التشخيصية"
+                },
+                {
+                    "ID": 1071,
+                    "EnglishValue": "Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ"
+                },
+                {
+                    "ID": 1136,
+                    "EnglishValue": "Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ"
+                },
+                {
+                    "ID": 17,
+                    "EnglishValue": "Emergency Medicine",
+                    "ArabicValue": "طب الطوارئ"
+                },
+                {
+                    "ID": 169,
+                    "EnglishValue": "Endodontics",
+                    "ArabicValue": "علاج لب الأسنان والجذور"
+                },
+                {
+                    "ID": 1082,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 28,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 3,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 1147,
+                    "EnglishValue": "Family Medicine",
+                    "ArabicValue": "طب الأسرة"
+                },
+                {
+                    "ID": 1173,
+                    "EnglishValue": "Forensic Dentistry",
+                    "ArabicValue": "طب الاسنان الشرعي"
+                },
+                {
+                    "ID": 1174,
+                    "EnglishValue": "Forensic Dentistry",
+                    "ArabicValue": "طب الاسنان الشرعي"
+                },
+                {
+                    "ID": 1162,
+                    "EnglishValue": "Forensic Medicine",
+                    "ArabicValue": "طب الادلة الجنائية"
+                },
+                {
+                    "ID": 1161,
+                    "EnglishValue": "Forensic Medicine",
+                    "ArabicValue": "طب الادلة الجنائية"
+                },
+                {
+                    "ID": 98,
+                    "EnglishValue": "GP Dentist",
+                    "ArabicValue": "ممارس عام أسنان"
+                },
+                {
+                    "ID": 1191,
+                    "EnglishValue": "General Dentist",
+                    "ArabicValue": "طبيب اسنان عام"
+                },
+                {
+                    "ID": 1190,
+                    "EnglishValue": "General Practitioner",
+                    "ArabicValue": "طبيب ممارس عام"
+                },
+                {
+                    "ID": 1080,
+                    "EnglishValue": "Intensive care",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1145,
+                    "EnglishValue": "Intensive care",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 26,
+                    "EnglishValue": "Intensive care",
+                    "ArabicValue": "العناية المركزة"
+                },
+                {
+                    "ID": 1182,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 5,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 27,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 1146,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 1081,
+                    "EnglishValue": "Internal Medicine",
+                    "ArabicValue": "الامراض الباطنية"
+                },
+                {
+                    "ID": 1148,
+                    "EnglishValue": "Medical Genetics",
+                    "ArabicValue": "علم الوراثة"
+                },
+                {
+                    "ID": 1083,
+                    "EnglishValue": "Medical Genetics",
+                    "ArabicValue": "علم الوراثة"
+                },
+                {
+                    "ID": 29,
+                    "EnglishValue": "Medical Genetics",
+                    "ArabicValue": "علم الوراثة"
+                },
+                {
+                    "ID": 95,
+                    "EnglishValue": "Medical Practitioner",
+                    "ArabicValue": "ممارس عام"
+                },
+                {
+                    "ID": 1178,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "طب الامراض العصبية"
+                },
+                {
+                    "ID": 1177,
+                    "EnglishValue": "Neurology",
+                    "ArabicValue": "طب الامراض العصبية"
+                },
+                {
+                    "ID": 30,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 1084,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 1149,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 1117,
+                    "EnglishValue": "Nuclear Medicine",
+                    "ArabicValue": "الطب النووي"
+                },
+                {
+                    "ID": 6,
+                    "EnglishValue": "Obstetrics and Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 31,
+                    "EnglishValue": "Obstetrics and Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 1150,
+                    "EnglishValue": "Obstetrics and Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 1085,
+                    "EnglishValue": "Obstetrics and Gynecology",
+                    "ArabicValue": "امراض النساء والولادة"
+                },
+                {
+                    "ID": 1086,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 1151,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 32,
+                    "EnglishValue": "Occupational Medicine",
+                    "ArabicValue": "الطب المهني"
+                },
+                {
+                    "ID": 33,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": "طب وجراحة العيون"
+                },
+                {
+                    "ID": 1152,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": "طب وجراحة العيون"
+                },
+                {
+                    "ID": 1087,
+                    "EnglishValue": "Ophthalmology",
+                    "ArabicValue": "طب وجراحة العيون"
+                },
+                {
+                    "ID": 173,
+                    "EnglishValue": "Oral Surgery",
+                    "ArabicValue": "جراحة الفم"
+                },
+                {
+                    "ID": 170,
+                    "EnglishValue": "Oral and Maxilofacial Surgery",
+                    "ArabicValue": "جراحة الوجه والفكين"
+                },
+                {
+                    "ID": 174,
+                    "EnglishValue": "Orthodontics",
+                    "ArabicValue": "تقويم الأسنان"
+                },
+                {
+                    "ID": 1188,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1187,
+                    "EnglishValue": "Otolaryngology",
+                    "ArabicValue": ""
+                },
+                {
+                    "ID": 1088,
+                    "EnglishValue": "Pathology",
+                    "ArabicValue": "علم الأمراض"
+                },
+                {
+                    "ID": 1153,
+                    "EnglishValue": "Pathology",
+                    "ArabicValue": "علم الأمراض"
+                },
+                {
+                    "ID": 34,
+                    "EnglishValue": "Pathology",
+                    "ArabicValue": "علم الأمراض"
+                },
+                {
+                    "ID": 175,
+                    "EnglishValue": "Pediatric Dentistry",
+                    "ArabicValue": "طب الاسنان - أطفال"
+                },
+                {
+                    "ID": 1156,
+                    "EnglishValue": "Pediatrics",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 37,
+                    "EnglishValue": "Pediatrics",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 1091,
+                    "EnglishValue": "Pediatrics",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 1166,
+                    "EnglishValue": "Pediatrics",
+                    "ArabicValue": "طب الأطفال"
+                },
+                {
+                    "ID": 176,
+                    "EnglishValue": "Periodontics",
+                    "ArabicValue": "امراض اللثة"
+                },
+                {
+                    "ID": 1089,
+                    "EnglishValue": "Physical Medicine and Rehabilitation",
+                    "ArabicValue": "الطب الطبيعي واعادة التأهيل"
+                },
+                {
+                    "ID": 1154,
+                    "EnglishValue": "Physical Medicine and Rehabilitation",
+                    "ArabicValue": "الطب الطبيعي واعادة التأهيل"
+                },
+                {
+                    "ID": 35,
+                    "EnglishValue": "Physical Medicine and Rehabilitation",
+                    "ArabicValue": "الطب الطبيعي واعادة التأهيل"
+                },
+                {
+                    "ID": 177,
+                    "EnglishValue": "Prosthodontics",
+                    "ArabicValue": "التعويضات السنية"
+                },
+                {
+                    "ID": 1155,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 1090,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 36,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 12,
+                    "EnglishValue": "Psychiatry",
+                    "ArabicValue": "طب الامراض النفسية"
+                },
+                {
+                    "ID": 1169,
+                    "EnglishValue": "Public Health Medicine",
+                    "ArabicValue": "طب الصحة العامة"
+                },
+                {
+                    "ID": 1170,
+                    "EnglishValue": "Public Health Medicine",
+                    "ArabicValue": "طب الصحة العامة"
+                },
+                {
+                    "ID": 1157,
+                    "EnglishValue": "Radiation Oncology (Radiation Therapy)",
+                    "ArabicValue": "العلاج الإشعاعي"
+                },
+                {
+                    "ID": 38,
+                    "EnglishValue": "Radiation Oncology (Radiation Therapy)",
+                    "ArabicValue": "العلاج الإشعاعي"
+                },
+                {
+                    "ID": 1092,
+                    "EnglishValue": "Radiation Oncology (Radiation Therapy)",
+                    "ArabicValue": "العلاج الإشعاعي"
+                },
+                {
+                    "ID": 1095,
+                    "EnglishValue": "Radiology",
+                    "ArabicValue": "الاشعة"
+                },
+                {
+                    "ID": 165,
+                    "EnglishValue": "Radiology",
+                    "ArabicValue": "الاشعة"
+                },
+                {
+                    "ID": 1160,
+                    "EnglishValue": "Radiology",
+                    "ArabicValue": "الاشعة"
+                },
+                {
+                    "ID": 96,
+                    "EnglishValue": "Restorative Dentistry (Includes Endodontics/ Periodontics/Prosthodontics)",
+                    "ArabicValue": "طب الأسنان الترميمي"
+                },
+                {
+                    "ID": 1186,
+                    "EnglishValue": "Sexual and Reproductive Health",
+                    "ArabicValue": "طب الصحة الجنسية والإنجابية"
+                },
+                {
+                    "ID": 1185,
+                    "EnglishValue": "Sexual and Reproductive Health",
+                    "ArabicValue": "طب الصحة الجنسية والإنجابية"
+                },
+                {
+                    "ID": 97,
+                    "EnglishValue": "Specialist Dentist",
+                    "ArabicValue": "أخصائي"
+                },
+                {
+                    "ID": 13,
+                    "EnglishValue": "Surgery",
+                    "ArabicValue": "الجراحة"
+                },
+                {
+                    "ID": 1093,
+                    "EnglishValue": "Surgery",
+                    "ArabicValue": "الجراحة"
+                },
+                {
+                    "ID": 39,
+                    "EnglishValue": "Surgery",
+                    "ArabicValue": "الجراحة"
+                },
+                {
+                    "ID": 1158,
+                    "EnglishValue": "Surgery",
+                    "ArabicValue": "الجراحة"
+                },
+                {
+                    "ID": 1168,
+                    "EnglishValue": "Urology",
+                    "ArabicValue": ""
+                }
+            ]
+        }
+    }
+}

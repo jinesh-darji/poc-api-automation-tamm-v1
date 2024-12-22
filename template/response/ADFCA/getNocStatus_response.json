@@ -1,0 +1,20 @@
+{
+    "GetNOCStatusResponse": {
+        "GetNOCStatusResult": {
+            "ErrorCode": 0,
+            "ErrorDescription": "",
+            "ActualInspectionDate": "",
+            "CompletionDate": "10/31/2018 15:00:35",
+            "CreationDate": "10/29/2018 15:00:35",
+            "Description": "Canteen",
+            "InspectionType": "NOC Inspection",
+            "Inspection_Number": "1-567489930",
+            "SBL_SR_Number": {
+                "@nil": "true"
+            },
+            "ScheduleInspectionDate": "10/29/2018 15:00:35",
+            "Status": "Unsatisfactory",
+            "eServiceAppID": 790700
+        }
+    }
+}

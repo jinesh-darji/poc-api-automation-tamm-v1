@@ -1,0 +1,10 @@
+{
+	"GetCertificateResponse": {
+		"GetCertificateResult": {
+            "ErrorCode": 200,
+            "ErrorDescription": "No Error",
+            "ApplicationID": 790407,
+            "FilterBuffer": " "
+        }
+	}
+}

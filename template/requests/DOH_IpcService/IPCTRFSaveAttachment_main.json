@@ -1,0 +1,10 @@
+{
+  "IPCTRFSaveAttachmentRequest": {
+    "TRF_ID": "string",
+    "IPCKey": "string",
+    "FileName": "string",
+    "FileExtention": "string",
+    "BinaryFile": "string",
+    "mp_id": "string"
+  }
+}

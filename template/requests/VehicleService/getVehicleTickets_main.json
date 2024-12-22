@@ -1,0 +1,18 @@
+{
+    "getVehicleTickets": {
+        "request": {
+            "TcfNo": 5040000415,
+            "PlateInfo": {
+                "PlateNo": "53756",
+                "PlateOrgNo": 0,
+                "PlateColorCode": 52,
+                "PlateKindCode": 1,
+                "PlateTypeCode": 1,
+                "PlateSourceCode": 1
+            },
+            "ServiceType": "Renew",
+            "UserID": "ADSSSA",
+            "SystemCode": 4
+        }
+    }
+}

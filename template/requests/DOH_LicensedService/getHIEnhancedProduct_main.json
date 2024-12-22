@@ -1,0 +1,15 @@
+{
+  "HI_EnhancedProductRequest": {
+    "i_ANNUALCOVERAGEUAE": "string",
+    "i_ANNUALCOVERAGEINTERNATIONAL": "string",
+    "i_REGIONS": "string",
+    "i_INPATIENTROOMTYPE": "string",
+    "i_INPATIENTMATERNITY": "string",
+    "i_OUTPATIENTGP": "string",
+    "i_OUTPATIENTSPECIALIST": "string",
+    "i_MAXIMUMMEDICALCOVERAGE": "string",
+    "i_MEDICALCOVERAGE": "string",
+    "i_OUTSIDENETWORKCOVERAGE": "string",
+    "i_ADDITIONALCOVERAGE": "string"
+  }
+}

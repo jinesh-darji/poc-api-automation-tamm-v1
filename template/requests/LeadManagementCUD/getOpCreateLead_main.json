@@ -1,0 +1,19 @@
+{
+  "CreateLeadRequest":{
+     "ApplicationHeader":{
+        "TransactionID":"98989898787",
+        "RequestedSystem":"ADSIC"
+     },
+     "DataHeader":{
+        "ExtLeadID":"7858555858",
+        "RequestType":"New eLife",
+        "Channel":"ADSIC",
+        "CustomerFullName":"some_name",
+        "ContactNumber":"05023390567",
+        "EmailAddress":"some@email.com",
+        "Region":"Abu Dhabi",
+        "Area":"Others",
+        "Address":"some random address"
+     }
+  }
+}

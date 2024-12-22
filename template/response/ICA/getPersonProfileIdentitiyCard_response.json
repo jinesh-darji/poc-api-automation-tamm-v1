@@ -1,0 +1,184 @@
+{
+    "status": "success",
+    "data": {
+        "unifiedNumber": 777777,
+        "identityCard": {
+            "number": 784197537271039,
+            "issuDate": "2015-09-03T00:00:00.000+04:00",
+            "expiryDate": "2018-09-02T00:00:00.000+04:00"
+        },
+        "nationality": {
+            "id": 11,
+            "arDesc": "المملكة الأردنية الهاشمية",
+            "enDesc": "JORDAN"
+        },
+        "personName": {
+            "fullArabicName": "شادى ياسر سليم الزريقات",
+            "firstNameArabic": "شادى",
+            "secondNameArabic": "ياسر سليم",
+            "fullEnglishName": "SHADI YASSER SALEEM AL ZRAIQAT",
+            "firstNameEnglish": "SHADI",
+            "secondNameEnglish": "YASSER SALEEM A"
+        },
+        "gender": {
+            "id": 1,
+            "arDesc": "ذكر",
+            "enDesc": "MALE"
+        },
+        "dateOfBirth": "1975-11-24T00:00:00.000+04:00",
+        "countryOfBirth": {
+            "id": 11,
+            "arDesc": "المملكة الأردنية الهاشمية",
+            "enDesc": "JORDAN"
+        },
+        "placeOfBirthAr": "عمان",
+        "placeOfBirthEn": "AMMAN",
+        "maritalStatus": {
+            "id": 2,
+            "arDesc": "متزوج",
+            "enDesc": "MARRIED"
+        },
+        "religion": {
+            "id": 1,
+            "arDesc": "الإسلام",
+            "enDesc": "ISLAM"
+        },
+        "passport": {
+            "number": "M181049",
+            "type": {
+                "id": 1,
+                "arDesc": "جواز سفر عادي",
+                "enDesc": "ORDINARY PASSPORT"
+            },
+            "issuDate": "2015-09-03T00:00:00.000+04:00",
+            "expiryDate": "2018-02-13T00:00:00.000+04:00",
+            "issueCountry": {
+                "id": 11,
+                "arDesc": "المملكة الأردنية الهاشمية",
+                "enDesc": "JORDAN"
+            }
+        },
+        "sponsor": {
+            "arName": "هيئه الامارات للهويه",
+            "enName": "EMIRATES IDENTITY AUTHORITY",
+            "department": {
+                "id": 17,
+                "arDesc": "الإدارة العامة للاقامة وشؤون الاجانب / أبوظبي",
+                "enDesc": "NATURALIZATION AND RESIDENCY ADMINISTRATION - ABU DHABI"
+            },
+            "number": 119803,
+            "addresses": {
+                "address": {
+                    "localAddress": {
+                        "emirate": {
+                            "id": 1,
+                            "arDesc": "أبو ظبي",
+                            "enDesc": "ABU DHABI"
+                        },
+                        "city": {
+                            "id": 1,
+                            "arDesc": " أبو ظبي",
+                            "enDesc": "ABU DHABI "
+                        },
+                        "area": {
+                            "id": 10101000,
+                            "arDesc": "ابوظبى",
+                            "enDesc": "ABU DHABI"
+                        },
+                        "street": {
+                            "id": 10100001,
+                            "arDesc": "XXX",
+                            "enDesc": "XXX"
+                        },
+                        "pobox": 5757,
+                        "mobileNumber": "0508806557",
+                        "homePhone": 0
+                    }
+                }
+            }
+        },
+        "faith": {
+            "id": 1,
+            "arDesc": "سني",
+            "enDesc": "SUNNI"
+        },
+        "personType": {
+            "id": 2,
+            "arDesc": "اقامه",
+            "enDesc": "Residence"
+        },
+        "immigrationFile": {
+            "status": {
+                "id": 2004,
+                "arDesc": "منتهية / مخالف",
+                "enDesc": ""
+            },
+            "number": "101/2009/7/86557",
+            "department": {
+                "id": 17,
+                "arDesc": "الإدارة العامة للاقامة وشؤون الاجانب / أبوظبي",
+                "enDesc": "NATURALIZATION AND RESIDENCY ADMINISTRATION - ABU DHABI"
+            },
+            "year": 2009,
+            "type": {
+                "id": 7,
+                "arDesc": "عمل/هـ",
+                "enDesc": "SERVICE"
+            },
+            "sequence": 86557,
+            "issuDate": "2015-09-03T00:00:00.000+04:00",
+            "expiryDate": "2018-09-02T00:00:00.000+04:00"
+        },
+        "occupation": {
+            "id": 13432,
+            "arDesc": "استشارى نظم معلومات",
+            "enDesc": "INFORMAYION SYSTEMS CONSUTANT"
+        },
+        "motherNameAr": "منيه",
+        "motherNameEn": "MONIA",
+        "addresses": {
+            "address": [
+                {
+                    "localAddress": {
+                        "emirate": {
+                            "id": 1,
+                            "arDesc": "أبو ظبي",
+                            "enDesc": "ABU DHABI"
+                        },
+                        "city": {
+                            "id": 1,
+                            "arDesc": " أبو ظبي",
+                            "enDesc": "ABU DHABI "
+                        },
+                        "area": {
+                            "id": 10101000,
+                            "arDesc": "ابوظبى",
+                            "enDesc": "ABU DHABI"
+                        },
+                        "building": "",
+                        "pobox": 47999,
+                        "mobileNumber": "0504443254",
+                        "homePhone": "024955338",
+                        "workPhone": "024955338"
+                    }
+                },
+                {
+                    "abroadAddress": {
+                        "country": {
+                            "id": 11,
+                            "arDesc": "المملكة الأردنية الهاشمية",
+                            "enDesc": "JORDAN"
+                        },
+                        "phoneNumber": "0096264781348",
+                        "details": "الاردن"
+                    }
+                }
+            ]
+        },
+        "isBlackListed": false,
+        "isInsideCountry": true,
+        "familyCount": 0,
+        "familyMaleCount": 0,
+        "familyFemaleCount": 0
+    }
+}

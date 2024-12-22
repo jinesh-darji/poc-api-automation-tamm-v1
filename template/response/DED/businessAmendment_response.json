@@ -1,0 +1,7 @@
+{
+    "Status": "200",
+    "Message": "BusinessLicense Amendment submit blocked <font color=red><b>Action Cancelled</b></font><br><br>Only one amendment may be active at one time.  Amendment currently open is :CA-2659019<BR>",
+    "TraceID": "rest-12245",
+    "Code": "308",
+    "Result": null
+}
