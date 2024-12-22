@@ -1,4 +1,3 @@
-The 'service-automation' is an automation framework related to testing the services for the DigitalX1 journeys.
 
 The framework supports python 3.7.
 
